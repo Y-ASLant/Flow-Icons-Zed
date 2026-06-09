@@ -2,6 +2,6 @@ id = "flow-icons"
 name = "Flow Icons"
 version = "2.0.3"
 schema_version = 1
-authors = ["thang-nm <thang-nm>"]
+authors = ["Y-ASLant <Y-ASLant>"]
 description = "A premium icon theme pack for Zed editor, ported from Flow Icons"
 repository = "https://github.com/Y-ASLant/Flow-Icons-Zed"
