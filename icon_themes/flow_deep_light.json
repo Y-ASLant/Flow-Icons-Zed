@@ -63,6 +63,10 @@
           "collapsed": "./icons/deep-light/folder_android.svg",
           "expanded": "./icons/deep-light/folder_android_open.svg"
         },
+        "smali": {
+          "collapsed": "./icons/deep-light/folder_android.svg",
+          "expanded": "./icons/deep-light/folder_android_open.svg"
+        },
         ".angular": {
           "collapsed": "./icons/deep-light/folder_angular.svg",
           "expanded": "./icons/deep-light/folder_angular_open.svg"
@@ -391,6 +395,10 @@
           "collapsed": "./icons/deep-light/folder_benchmark.svg",
           "expanded": "./icons/deep-light/folder_benchmark_open.svg"
         },
+        "benches": {
+          "collapsed": "./icons/deep-light/folder_benchmark.svg",
+          "expanded": "./icons/deep-light/folder_benchmark_open.svg"
+        },
         "performance": {
           "collapsed": "./icons/deep-light/folder_benchmark.svg",
           "expanded": "./icons/deep-light/folder_benchmark_open.svg"
@@ -484,6 +492,18 @@
           "expanded": "./icons/deep-light/folder_buildkite_open.svg"
         },
         ".cargo": {
+          "collapsed": "./icons/deep-light/folder_cargo.svg",
+          "expanded": "./icons/deep-light/folder_cargo_open.svg"
+        },
+        "cargo": {
+          "collapsed": "./icons/deep-light/folder_rust.svg",
+          "expanded": "./icons/deep-light/folder_rust_open.svg"
+        },
+        ".crates": {
+          "collapsed": "./icons/deep-light/folder_cargo.svg",
+          "expanded": "./icons/deep-light/folder_cargo_open.svg"
+        },
+        "crates": {
           "collapsed": "./icons/deep-light/folder_cargo.svg",
           "expanded": "./icons/deep-light/folder_cargo_open.svg"
         },
@@ -1011,6 +1031,10 @@
           "collapsed": "./icons/deep-light/folder_database.svg",
           "expanded": "./icons/deep-light/folder_database_open.svg"
         },
+        "datafiles": {
+          "collapsed": "./icons/deep-light/folder_database.svg",
+          "expanded": "./icons/deep-light/folder_database_open.svg"
+        },
         "debug": {
           "collapsed": "./icons/deep-light/folder_debug.svg",
           "expanded": "./icons/deep-light/folder_debug_open.svg"
@@ -1447,6 +1471,14 @@
           "collapsed": "./icons/deep-light/folder_form.svg",
           "expanded": "./icons/deep-light/folder_form_open.svg"
         },
+        "editor": {
+          "collapsed": "./icons/deep-light/folder_form.svg",
+          "expanded": "./icons/deep-light/folder_form_open.svg"
+        },
+        "editors": {
+          "collapsed": "./icons/deep-light/folder_form.svg",
+          "expanded": "./icons/deep-light/folder_form_open.svg"
+        },
         "func": {
           "collapsed": "./icons/deep-light/folder_functions.svg",
           "expanded": "./icons/deep-light/folder_functions_open.svg"
@@ -1483,22 +1515,6 @@
           "collapsed": "./icons/deep-light/folder_functions.svg",
           "expanded": "./icons/deep-light/folder_functions_open.svg"
         },
-        "calc": {
-          "collapsed": "./icons/deep-light/folder_functions.svg",
-          "expanded": "./icons/deep-light/folder_functions_open.svg"
-        },
-        "calcs": {
-          "collapsed": "./icons/deep-light/folder_functions.svg",
-          "expanded": "./icons/deep-light/folder_functions_open.svg"
-        },
-        "calculation": {
-          "collapsed": "./icons/deep-light/folder_functions.svg",
-          "expanded": "./icons/deep-light/folder_functions_open.svg"
-        },
-        "calculations": {
-          "collapsed": "./icons/deep-light/folder_functions.svg",
-          "expanded": "./icons/deep-light/folder_functions_open.svg"
-        },
         "mixin": {
           "collapsed": "./icons/deep-light/folder_functions.svg",
           "expanded": "./icons/deep-light/folder_functions_open.svg"
@@ -1512,6 +1528,14 @@
           "expanded": "./icons/deep-light/folder_gamemaker_open.svg"
         },
         "gamemaker2": {
+          "collapsed": "./icons/deep-light/folder_gamemaker.svg",
+          "expanded": "./icons/deep-light/folder_gamemaker_open.svg"
+        },
+        ".gmcache": {
+          "collapsed": "./icons/deep-light/folder_gamemaker.svg",
+          "expanded": "./icons/deep-light/folder_gamemaker_open.svg"
+        },
+        "gmcache": {
           "collapsed": "./icons/deep-light/folder_gamemaker.svg",
           "expanded": "./icons/deep-light/folder_gamemaker_open.svg"
         },
@@ -2147,10 +2171,6 @@
           "collapsed": "./icons/deep-light/folder_lib.svg",
           "expanded": "./icons/deep-light/folder_lib_open.svg"
         },
-        "crates": {
-          "collapsed": "./icons/deep-light/folder_lib.svg",
-          "expanded": "./icons/deep-light/folder_lib_open.svg"
-        },
         "dll": {
           "collapsed": "./icons/deep-light/folder_lib.svg",
           "expanded": "./icons/deep-light/folder_lib_open.svg"
@@ -2668,10 +2688,14 @@
           "expanded": "./icons/deep-light/folder_packages_open.svg"
         },
         "dependencies": {
+          "collapsed": "./icons/deep-light/folder_deps.svg",
+          "expanded": "./icons/deep-light/folder_deps_open.svg"
+        },
+        ".swiftpm": {
           "collapsed": "./icons/deep-light/folder_packages.svg",
           "expanded": "./icons/deep-light/folder_packages_open.svg"
         },
-        ".swiftpm": {
+        "packaging": {
           "collapsed": "./icons/deep-light/folder_packages.svg",
           "expanded": "./icons/deep-light/folder_packages_open.svg"
         },
@@ -2887,6 +2911,18 @@
           "collapsed": "./icons/deep-light/folder_public.svg",
           "expanded": "./icons/deep-light/folder_public_open.svg"
         },
+        "intranet": {
+          "collapsed": "./icons/deep-light/folder_public.svg",
+          "expanded": "./icons/deep-light/folder_public_open.svg"
+        },
+        "network": {
+          "collapsed": "./icons/deep-light/folder_public.svg",
+          "expanded": "./icons/deep-light/folder_public_open.svg"
+        },
+        "networks": {
+          "collapsed": "./icons/deep-light/folder_public.svg",
+          "expanded": "./icons/deep-light/folder_public_open.svg"
+        },
         "python": {
           "collapsed": "./icons/deep-light/folder_python.svg",
           "expanded": "./icons/deep-light/folder_python_open.svg"
@@ -3099,6 +3135,14 @@
           "collapsed": "./icons/deep-light/folder_ruff.svg",
           "expanded": "./icons/deep-light/folder_ruff_open.svg"
         },
+        ".ruff_cache": {
+          "collapsed": "./icons/deep-light/folder_ruff.svg",
+          "expanded": "./icons/deep-light/folder_ruff_open.svg"
+        },
+        "ruff_cache": {
+          "collapsed": "./icons/deep-light/folder_ruff.svg",
+          "expanded": "./icons/deep-light/folder_ruff_open.svg"
+        },
         "rule": {
           "collapsed": "./icons/deep-light/folder_rules.svg",
           "expanded": "./icons/deep-light/folder_rules_open.svg"
@@ -3108,24 +3152,24 @@
           "expanded": "./icons/deep-light/folder_rules_open.svg"
         },
         "validation": {
-          "collapsed": "./icons/deep-light/folder_rules.svg",
-          "expanded": "./icons/deep-light/folder_rules_open.svg"
+          "collapsed": "./icons/deep-light/folder_validation.svg",
+          "expanded": "./icons/deep-light/folder_validation_open.svg"
         },
         "validations": {
-          "collapsed": "./icons/deep-light/folder_rules.svg",
-          "expanded": "./icons/deep-light/folder_rules_open.svg"
+          "collapsed": "./icons/deep-light/folder_validation.svg",
+          "expanded": "./icons/deep-light/folder_validation_open.svg"
         },
         "validator": {
-          "collapsed": "./icons/deep-light/folder_rules.svg",
-          "expanded": "./icons/deep-light/folder_rules_open.svg"
+          "collapsed": "./icons/deep-light/folder_validation.svg",
+          "expanded": "./icons/deep-light/folder_validation_open.svg"
         },
         "validators": {
-          "collapsed": "./icons/deep-light/folder_rules.svg",
-          "expanded": "./icons/deep-light/folder_rules_open.svg"
+          "collapsed": "./icons/deep-light/folder_validation.svg",
+          "expanded": "./icons/deep-light/folder_validation_open.svg"
         },
-        "cargo": {
-          "collapsed": "./icons/deep-light/folder_rust.svg",
-          "expanded": "./icons/deep-light/folder_rust_open.svg"
+        "compliance": {
+          "collapsed": "./icons/deep-light/folder_validation.svg",
+          "expanded": "./icons/deep-light/folder_validation_open.svg"
         },
         "rust": {
           "collapsed": "./icons/deep-light/folder_rust.svg",
@@ -3619,7 +3663,19 @@
           "collapsed": "./icons/deep-light/folder_television.svg",
           "expanded": "./icons/deep-light/folder_television_open.svg"
         },
+        "tvos": {
+          "collapsed": "./icons/deep-light/folder_television.svg",
+          "expanded": "./icons/deep-light/folder_television_open.svg"
+        },
+        ".temp": {
+          "collapsed": "./icons/deep-light/folder_temp.svg",
+          "expanded": "./icons/deep-light/folder_temp_open.svg"
+        },
         "temp": {
+          "collapsed": "./icons/deep-light/folder_temp.svg",
+          "expanded": "./icons/deep-light/folder_temp_open.svg"
+        },
+        ".tmp": {
           "collapsed": "./icons/deep-light/folder_temp.svg",
           "expanded": "./icons/deep-light/folder_temp_open.svg"
         },
@@ -3627,11 +3683,23 @@
           "collapsed": "./icons/deep-light/folder_temp.svg",
           "expanded": "./icons/deep-light/folder_temp_open.svg"
         },
+        ".cached": {
+          "collapsed": "./icons/deep-light/folder_temp.svg",
+          "expanded": "./icons/deep-light/folder_temp_open.svg"
+        },
         "cached": {
           "collapsed": "./icons/deep-light/folder_temp.svg",
           "expanded": "./icons/deep-light/folder_temp_open.svg"
         },
+        ".cache": {
+          "collapsed": "./icons/deep-light/folder_temp.svg",
+          "expanded": "./icons/deep-light/folder_temp_open.svg"
+        },
         "cache": {
+          "collapsed": "./icons/deep-light/folder_temp.svg",
+          "expanded": "./icons/deep-light/folder_temp_open.svg"
+        },
+        "time": {
           "collapsed": "./icons/deep-light/folder_temp.svg",
           "expanded": "./icons/deep-light/folder_temp_open.svg"
         },
@@ -3747,6 +3815,10 @@
           "collapsed": "./icons/deep-light/folder_theme.svg",
           "expanded": "./icons/deep-light/folder_theme_open.svg"
         },
+        "icon_themes": {
+          "collapsed": "./icons/deep-light/folder_theme.svg",
+          "expanded": "./icons/deep-light/folder_theme_open.svg"
+        },
         "toc": {
           "collapsed": "./icons/deep-light/folder_toc.svg",
           "expanded": "./icons/deep-light/folder_toc_open.svg"
@@ -3856,6 +3928,10 @@
           "expanded": "./icons/deep-light/folder_type_open.svg"
         },
         "typing": {
+          "collapsed": "./icons/deep-light/folder_type.svg",
+          "expanded": "./icons/deep-light/folder_type_open.svg"
+        },
+        "typings": {
           "collapsed": "./icons/deep-light/folder_type.svg",
           "expanded": "./icons/deep-light/folder_type_open.svg"
         },
@@ -4028,6 +4104,10 @@
           "expanded": "./icons/deep-light/folder_video_open.svg"
         },
         "html": {
+          "collapsed": "./icons/deep-light/folder_views.svg",
+          "expanded": "./icons/deep-light/folder_views_open.svg"
+        },
+        "html5": {
           "collapsed": "./icons/deep-light/folder_views.svg",
           "expanded": "./icons/deep-light/folder_views_open.svg"
         },
@@ -4263,6 +4343,18 @@
           "collapsed": "./icons/deep-light/folder_sdk.svg",
           "expanded": "./icons/deep-light/folder_sdk_open.svg"
         },
+        "develop": {
+          "collapsed": "./icons/deep-light/folder_sdk.svg",
+          "expanded": "./icons/deep-light/folder_sdk_open.svg"
+        },
+        "development": {
+          "collapsed": "./icons/deep-light/folder_sdk.svg",
+          "expanded": "./icons/deep-light/folder_sdk_open.svg"
+        },
+        "developments": {
+          "collapsed": "./icons/deep-light/folder_sdk.svg",
+          "expanded": "./icons/deep-light/folder_sdk_open.svg"
+        },
         "framework": {
           "collapsed": "./icons/deep-light/folder_sdk.svg",
           "expanded": "./icons/deep-light/folder_sdk_open.svg"
@@ -4442,10 +4534,537 @@
         "spellcheckers": {
           "collapsed": "./icons/deep-light/folder_syntax.svg",
           "expanded": "./icons/deep-light/folder_syntax_open.svg"
+        },
+        "internal": {
+          "collapsed": "./icons/deep-light/folder_internal.svg",
+          "expanded": "./icons/deep-light/folder_internal_open.svg"
+        },
+        "iternals": {
+          "collapsed": "./icons/deep-light/folder_internal.svg",
+          "expanded": "./icons/deep-light/folder_internal_open.svg"
+        },
+        ".cmake": {
+          "collapsed": "./icons/deep-light/folder_cmake.svg",
+          "expanded": "./icons/deep-light/folder_cmake_open.svg"
+        },
+        "cmake": {
+          "collapsed": "./icons/deep-light/folder_cmake.svg",
+          "expanded": "./icons/deep-light/folder_cmake_open.svg"
+        },
+        "instruction": {
+          "collapsed": "./icons/deep-light/folder_instruction.svg",
+          "expanded": "./icons/deep-light/folder_instruction_open.svg"
+        },
+        "instructions": {
+          "collapsed": "./icons/deep-light/folder_instruction.svg",
+          "expanded": "./icons/deep-light/folder_instruction_open.svg"
+        },
+        "curve": {
+          "collapsed": "./icons/deep-light/folder_curve.svg",
+          "expanded": "./icons/deep-light/folder_curve_open.svg"
+        },
+        "curves": {
+          "collapsed": "./icons/deep-light/folder_curve.svg",
+          "expanded": "./icons/deep-light/folder_curve_open.svg"
+        },
+        "animcurve": {
+          "collapsed": "./icons/deep-light/folder_curve.svg",
+          "expanded": "./icons/deep-light/folder_curve_open.svg"
+        },
+        "animcurves": {
+          "collapsed": "./icons/deep-light/folder_curve.svg",
+          "expanded": "./icons/deep-light/folder_curve_open.svg"
+        },
+        "note": {
+          "collapsed": "./icons/deep-light/folder_note.svg",
+          "expanded": "./icons/deep-light/folder_note_open.svg"
+        },
+        "notes": {
+          "collapsed": "./icons/deep-light/folder_note.svg",
+          "expanded": "./icons/deep-light/folder_note_open.svg"
+        },
+        "object": {
+          "collapsed": "./icons/deep-light/folder_object.svg",
+          "expanded": "./icons/deep-light/folder_object_open.svg"
+        },
+        "objects": {
+          "collapsed": "./icons/deep-light/folder_object.svg",
+          "expanded": "./icons/deep-light/folder_object_open.svg"
+        },
+        "particle": {
+          "collapsed": "./icons/deep-light/folder_particle.svg",
+          "expanded": "./icons/deep-light/folder_particle_open.svg"
+        },
+        "particles": {
+          "collapsed": "./icons/deep-light/folder_particle.svg",
+          "expanded": "./icons/deep-light/folder_particle_open.svg"
+        },
+        "path": {
+          "collapsed": "./icons/deep-light/folder_path.svg",
+          "expanded": "./icons/deep-light/folder_path_open.svg"
+        },
+        "paths": {
+          "collapsed": "./icons/deep-light/folder_path.svg",
+          "expanded": "./icons/deep-light/folder_path_open.svg"
+        },
+        "prefab": {
+          "collapsed": "./icons/deep-light/folder_prefab.svg",
+          "expanded": "./icons/deep-light/folder_prefab_open.svg"
+        },
+        "prefabs": {
+          "collapsed": "./icons/deep-light/folder_prefab.svg",
+          "expanded": "./icons/deep-light/folder_prefab_open.svg"
+        },
+        "room": {
+          "collapsed": "./icons/deep-light/folder_room.svg",
+          "expanded": "./icons/deep-light/folder_room_open.svg"
+        },
+        "rooms": {
+          "collapsed": "./icons/deep-light/folder_room.svg",
+          "expanded": "./icons/deep-light/folder_room_open.svg"
+        },
+        "sequence": {
+          "collapsed": "./icons/deep-light/folder_sequence.svg",
+          "expanded": "./icons/deep-light/folder_sequence_open.svg"
+        },
+        "sequences": {
+          "collapsed": "./icons/deep-light/folder_sequence.svg",
+          "expanded": "./icons/deep-light/folder_sequence_open.svg"
+        },
+        "sprite": {
+          "collapsed": "./icons/deep-light/folder_sprite.svg",
+          "expanded": "./icons/deep-light/folder_sprite_open.svg"
+        },
+        "sprites": {
+          "collapsed": "./icons/deep-light/folder_sprite.svg",
+          "expanded": "./icons/deep-light/folder_sprite_open.svg"
+        },
+        "tile": {
+          "collapsed": "./icons/deep-light/folder_tile.svg",
+          "expanded": "./icons/deep-light/folder_tile_open.svg"
+        },
+        "tiles": {
+          "collapsed": "./icons/deep-light/folder_tile.svg",
+          "expanded": "./icons/deep-light/folder_tile_open.svg"
+        },
+        "tileset": {
+          "collapsed": "./icons/deep-light/folder_tile.svg",
+          "expanded": "./icons/deep-light/folder_tile_open.svg"
+        },
+        "tilesets": {
+          "collapsed": "./icons/deep-light/folder_tile.svg",
+          "expanded": "./icons/deep-light/folder_tile_open.svg"
+        },
+        "option": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "options": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "pref": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "prefs": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "preference": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "preferences": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "props": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "properties": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "env": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "environments": {
+          "collapsed": "./icons/deep-light/folder_option.svg",
+          "expanded": "./icons/deep-light/folder_option_open.svg"
+        },
+        "swift": {
+          "collapsed": "./icons/deep-light/folder_swift.svg",
+          "expanded": "./icons/deep-light/folder_swift_open.svg"
+        },
+        "file": {
+          "collapsed": "./icons/deep-light/folder_files.svg",
+          "expanded": "./icons/deep-light/folder_files_open.svg"
+        },
+        "files": {
+          "collapsed": "./icons/deep-light/folder_files.svg",
+          "expanded": "./icons/deep-light/folder_files_open.svg"
+        },
+        ".bruno": {
+          "collapsed": "./icons/deep-light/folder_bruno.svg",
+          "expanded": "./icons/deep-light/folder_bruno_open.svg"
+        },
+        "bruno": {
+          "collapsed": "./icons/deep-light/folder_bruno.svg",
+          "expanded": "./icons/deep-light/folder_bruno_open.svg"
+        },
+        ".r": {
+          "collapsed": "./icons/deep-light/folder_r.svg",
+          "expanded": "./icons/deep-light/folder_r_open.svg"
+        },
+        "r": {
+          "collapsed": "./icons/deep-light/folder_r.svg",
+          "expanded": "./icons/deep-light/folder_r_open.svg"
+        },
+        "policy": {
+          "collapsed": "./icons/deep-light/folder_policy.svg",
+          "expanded": "./icons/deep-light/folder_policy_open.svg"
+        },
+        "policies": {
+          "collapsed": "./icons/deep-light/folder_policy.svg",
+          "expanded": "./icons/deep-light/folder_policy_open.svg"
+        },
+        "skeleton": {
+          "collapsed": "./icons/deep-light/folder_skeleton.svg",
+          "expanded": "./icons/deep-light/folder_skeleton_open.svg"
+        },
+        "skeletons": {
+          "collapsed": "./icons/deep-light/folder_skeleton.svg",
+          "expanded": "./icons/deep-light/folder_skeleton_open.svg"
+        },
+        ".codegraph": {
+          "collapsed": "./icons/deep-light/folder_codegraph.svg",
+          "expanded": "./icons/deep-light/folder_codegraph_open.svg"
+        },
+        "codegraph": {
+          "collapsed": "./icons/deep-light/folder_codegraph.svg",
+          "expanded": "./icons/deep-light/folder_codegraph_open.svg"
+        },
+        ".conductor": {
+          "collapsed": "./icons/deep-light/folder_conductor.svg",
+          "expanded": "./icons/deep-light/folder_conductor_open.svg"
+        },
+        "conductor": {
+          "collapsed": "./icons/deep-light/folder_conductor.svg",
+          "expanded": "./icons/deep-light/folder_conductor_open.svg"
+        },
+        ".webp": {
+          "collapsed": "./icons/deep-light/folder_webp.svg",
+          "expanded": "./icons/deep-light/folder_webp_open.svg"
+        },
+        "webp": {
+          "collapsed": "./icons/deep-light/folder_webp.svg",
+          "expanded": "./icons/deep-light/folder_webp_open.svg"
+        },
+        ".crush": {
+          "collapsed": "./icons/deep-light/folder_crush.svg",
+          "expanded": "./icons/deep-light/folder_crush_open.svg"
+        },
+        "crush": {
+          "collapsed": "./icons/deep-light/folder_crush.svg",
+          "expanded": "./icons/deep-light/folder_crush_open.svg"
+        },
+        ".grype": {
+          "collapsed": "./icons/deep-light/folder_grype.svg",
+          "expanded": "./icons/deep-light/folder_grype_open.svg"
+        },
+        "grype": {
+          "collapsed": "./icons/deep-light/folder_grype.svg",
+          "expanded": "./icons/deep-light/folder_grype_open.svg"
+        },
+        "prerelease": {
+          "collapsed": "./icons/deep-light/folder_prerelease.svg",
+          "expanded": "./icons/deep-light/folder_prerelease_open.svg"
+        },
+        "prereleases": {
+          "collapsed": "./icons/deep-light/folder_prerelease.svg",
+          "expanded": "./icons/deep-light/folder_prerelease_open.svg"
+        },
+        "pre-release": {
+          "collapsed": "./icons/deep-light/folder_prerelease.svg",
+          "expanded": "./icons/deep-light/folder_prerelease_open.svg"
+        },
+        "pre-releases": {
+          "collapsed": "./icons/deep-light/folder_prerelease.svg",
+          "expanded": "./icons/deep-light/folder_prerelease_open.svg"
+        },
+        "subproject": {
+          "collapsed": "./icons/deep-light/folder_subproject.svg",
+          "expanded": "./icons/deep-light/folder_subproject_open.svg"
+        },
+        "subprojects": {
+          "collapsed": "./icons/deep-light/folder_subproject.svg",
+          "expanded": "./icons/deep-light/folder_subproject_open.svg"
+        },
+        "sub-project": {
+          "collapsed": "./icons/deep-light/folder_subproject.svg",
+          "expanded": "./icons/deep-light/folder_subproject_open.svg"
+        },
+        "sub-projects": {
+          "collapsed": "./icons/deep-light/folder_subproject.svg",
+          "expanded": "./icons/deep-light/folder_subproject_open.svg"
+        },
+        ".omo": {
+          "collapsed": "./icons/deep-light/folder_omo.svg",
+          "expanded": "./icons/deep-light/folder_omo_open.svg"
+        },
+        "omo": {
+          "collapsed": "./icons/deep-light/folder_omo.svg",
+          "expanded": "./icons/deep-light/folder_omo_open.svg"
+        },
+        "artifact": {
+          "collapsed": "./icons/deep-light/folder_artifacts.svg",
+          "expanded": "./icons/deep-light/folder_artifacts_open.svg"
+        },
+        "artifacts": {
+          "collapsed": "./icons/deep-light/folder_artifacts.svg",
+          "expanded": "./icons/deep-light/folder_artifacts_open.svg"
+        },
+        "disk": {
+          "collapsed": "./icons/deep-light/folder_disk.svg",
+          "expanded": "./icons/deep-light/folder_disk_open.svg"
+        },
+        "disks": {
+          "collapsed": "./icons/deep-light/folder_disk.svg",
+          "expanded": "./icons/deep-light/folder_disk_open.svg"
+        },
+        "drive": {
+          "collapsed": "./icons/deep-light/folder_disk.svg",
+          "expanded": "./icons/deep-light/folder_disk_open.svg"
+        },
+        "drives": {
+          "collapsed": "./icons/deep-light/folder_disk.svg",
+          "expanded": "./icons/deep-light/folder_disk_open.svg"
+        },
+        "disc": {
+          "collapsed": "./icons/deep-light/folder_disc.svg",
+          "expanded": "./icons/deep-light/folder_disc_open.svg"
+        },
+        "discs": {
+          "collapsed": "./icons/deep-light/folder_disc.svg",
+          "expanded": "./icons/deep-light/folder_disc_open.svg"
+        },
+        "iso": {
+          "collapsed": "./icons/deep-light/folder_disc.svg",
+          "expanded": "./icons/deep-light/folder_disc_open.svg"
+        },
+        "deps": {
+          "collapsed": "./icons/deep-light/folder_deps.svg",
+          "expanded": "./icons/deep-light/folder_deps_open.svg"
+        },
+        "dependency": {
+          "collapsed": "./icons/deep-light/folder_deps.svg",
+          "expanded": "./icons/deep-light/folder_deps_open.svg"
+        },
+        ".reddit": {
+          "collapsed": "./icons/deep-light/folder_reddit.svg",
+          "expanded": "./icons/deep-light/folder_reddit_open.svg"
+        },
+        "reddit": {
+          "collapsed": "./icons/deep-light/folder_reddit.svg",
+          "expanded": "./icons/deep-light/folder_reddit_open.svg"
+        },
+        ".operagx": {
+          "collapsed": "./icons/deep-light/folder_operagx.svg",
+          "expanded": "./icons/deep-light/folder_operagx_open.svg"
+        },
+        "operagx": {
+          "collapsed": "./icons/deep-light/folder_operagx.svg",
+          "expanded": "./icons/deep-light/folder_operagx_open.svg"
+        },
+        "timeline": {
+          "collapsed": "./icons/deep-light/folder_timelines.svg",
+          "expanded": "./icons/deep-light/folder_timelines_open.svg"
+        },
+        "timelines": {
+          "collapsed": "./icons/deep-light/folder_timelines.svg",
+          "expanded": "./icons/deep-light/folder_timelines_open.svg"
+        },
+        ".railway": {
+          "collapsed": "./icons/deep-light/folder_railway.svg",
+          "expanded": "./icons/deep-light/folder_railway_open.svg"
+        },
+        "railway": {
+          "collapsed": "./icons/deep-light/folder_railway.svg",
+          "expanded": "./icons/deep-light/folder_railway_open.svg"
+        },
+        "gateway": {
+          "collapsed": "./icons/deep-light/folder_gateway.svg",
+          "expanded": "./icons/deep-light/folder_gateway_open.svg"
+        },
+        "gateways": {
+          "collapsed": "./icons/deep-light/folder_gateway.svg",
+          "expanded": "./icons/deep-light/folder_gateway_open.svg"
+        },
+        "registry": {
+          "collapsed": "./icons/deep-light/folder_registry.svg",
+          "expanded": "./icons/deep-light/folder_registry_open.svg"
+        },
+        "registries": {
+          "collapsed": "./icons/deep-light/folder_registry.svg",
+          "expanded": "./icons/deep-light/folder_registry_open.svg"
+        },
+        "price": {
+          "collapsed": "./icons/deep-light/folder_dollar.svg",
+          "expanded": "./icons/deep-light/folder_dollar_open.svg"
+        },
+        "prices": {
+          "collapsed": "./icons/deep-light/folder_dollar.svg",
+          "expanded": "./icons/deep-light/folder_dollar_open.svg"
+        },
+        "balance": {
+          "collapsed": "./icons/deep-light/folder_money.svg",
+          "expanded": "./icons/deep-light/folder_money_open.svg"
+        },
+        "balances": {
+          "collapsed": "./icons/deep-light/folder_money.svg",
+          "expanded": "./icons/deep-light/folder_money_open.svg"
+        },
+        ".mongodb": {
+          "collapsed": "./icons/deep-light/folder_mongodb.svg",
+          "expanded": "./icons/deep-light/folder_mongodb_open.svg"
+        },
+        "mongodb": {
+          "collapsed": "./icons/deep-light/folder_mongodb.svg",
+          "expanded": "./icons/deep-light/folder_mongodb_open.svg"
+        },
+        ".mongo": {
+          "collapsed": "./icons/deep-light/folder_mongodb.svg",
+          "expanded": "./icons/deep-light/folder_mongodb_open.svg"
+        },
+        "mongo": {
+          "collapsed": "./icons/deep-light/folder_mongodb.svg",
+          "expanded": "./icons/deep-light/folder_mongodb_open.svg"
+        },
+        ".redis": {
+          "collapsed": "./icons/deep-light/folder_redis.svg",
+          "expanded": "./icons/deep-light/folder_redis_open.svg"
+        },
+        "redis": {
+          "collapsed": "./icons/deep-light/folder_redis.svg",
+          "expanded": "./icons/deep-light/folder_redis_open.svg"
+        },
+        "bank": {
+          "collapsed": "./icons/deep-light/folder_bank.svg",
+          "expanded": "./icons/deep-light/folder_bank_open.svg"
+        },
+        "banks": {
+          "collapsed": "./icons/deep-light/folder_bank.svg",
+          "expanded": "./icons/deep-light/folder_bank_open.svg"
+        },
+        "banking": {
+          "collapsed": "./icons/deep-light/folder_bank.svg",
+          "expanded": "./icons/deep-light/folder_bank_open.svg"
+        },
+        ".vitest": {
+          "collapsed": "./icons/deep-light/folder_vitest.svg",
+          "expanded": "./icons/deep-light/folder_vitest_open.svg"
+        },
+        "vitest": {
+          "collapsed": "./icons/deep-light/folder_vitest.svg",
+          "expanded": "./icons/deep-light/folder_vitest_open.svg"
+        },
+        "cron": {
+          "collapsed": "./icons/deep-light/folder_cron.svg",
+          "expanded": "./icons/deep-light/folder_cron_open.svg"
+        },
+        "crons": {
+          "collapsed": "./icons/deep-light/folder_cron.svg",
+          "expanded": "./icons/deep-light/folder_cron_open.svg"
+        },
+        "scheduler": {
+          "collapsed": "./icons/deep-light/folder_cron.svg",
+          "expanded": "./icons/deep-light/folder_cron_open.svg"
+        },
+        "schedulers": {
+          "collapsed": "./icons/deep-light/folder_cron.svg",
+          "expanded": "./icons/deep-light/folder_cron_open.svg"
+        },
+        "cronjob": {
+          "collapsed": "./icons/deep-light/folder_cron.svg",
+          "expanded": "./icons/deep-light/folder_cron_open.svg"
+        },
+        "cronjobs": {
+          "collapsed": "./icons/deep-light/folder_cron.svg",
+          "expanded": "./icons/deep-light/folder_cron_open.svg"
+        },
+        "calc": {
+          "collapsed": "./icons/deep-light/folder_calculator.svg",
+          "expanded": "./icons/deep-light/folder_calculator_open.svg"
+        },
+        "calcs": {
+          "collapsed": "./icons/deep-light/folder_calculator.svg",
+          "expanded": "./icons/deep-light/folder_calculator_open.svg"
+        },
+        "calculation": {
+          "collapsed": "./icons/deep-light/folder_calculator.svg",
+          "expanded": "./icons/deep-light/folder_calculator_open.svg"
+        },
+        "calculations": {
+          "collapsed": "./icons/deep-light/folder_calculator.svg",
+          "expanded": "./icons/deep-light/folder_calculator_open.svg"
+        },
+        "accounting": {
+          "collapsed": "./icons/deep-light/folder_calculator.svg",
+          "expanded": "./icons/deep-light/folder_calculator_open.svg"
+        },
+        "cluster": {
+          "collapsed": "./icons/deep-light/folder_cluster.svg",
+          "expanded": "./icons/deep-light/folder_cluster_open.svg"
+        },
+        "clusters": {
+          "collapsed": "./icons/deep-light/folder_cluster.svg",
+          "expanded": "./icons/deep-light/folder_cluster_open.svg"
+        },
+        "clustering": {
+          "collapsed": "./icons/deep-light/folder_cluster.svg",
+          "expanded": "./icons/deep-light/folder_cluster_open.svg"
+        },
+        "embed": {
+          "collapsed": "./icons/deep-light/folder_embed.svg",
+          "expanded": "./icons/deep-light/folder_embed_open.svg"
+        },
+        "embeds": {
+          "collapsed": "./icons/deep-light/folder_embed.svg",
+          "expanded": "./icons/deep-light/folder_embed_open.svg"
+        },
+        "embedded": {
+          "collapsed": "./icons/deep-light/folder_embed.svg",
+          "expanded": "./icons/deep-light/folder_embed_open.svg"
+        },
+        "embedding": {
+          "collapsed": "./icons/deep-light/folder_embed.svg",
+          "expanded": "./icons/deep-light/folder_embed_open.svg"
+        },
+        "parser": {
+          "collapsed": "./icons/deep-light/folder_parser.svg",
+          "expanded": "./icons/deep-light/folder_parser_open.svg"
+        },
+        "parsers": {
+          "collapsed": "./icons/deep-light/folder_parser.svg",
+          "expanded": "./icons/deep-light/folder_parser_open.svg"
+        },
+        "parsing": {
+          "collapsed": "./icons/deep-light/folder_parser.svg",
+          "expanded": "./icons/deep-light/folder_parser_open.svg"
+        },
+        "cross": {
+          "collapsed": "./icons/deep-light/folder_cross.svg",
+          "expanded": "./icons/deep-light/folder_cross_open.svg"
+        },
+        "crosses": {
+          "collapsed": "./icons/deep-light/folder_cross.svg",
+          "expanded": "./icons/deep-light/folder_cross_open.svg"
         }
       },
       "file_stems": {
-        "AndroidManifest.xml": "android",
         ".angular-cli.json": "angular",
         "angular-cli.json": "angular",
         "angular.json": "angular",
@@ -4694,6 +5313,9 @@
         ".gitlab-ci.yml": "gitlab",
         ".gitpod.yaml": "gitpod",
         ".gitpod.yml": "gitpod",
+        ".gdignore": "godot_assets",
+        "._sc_": "godot_assets",
+        "_sc_": "godot_assets",
         "gradle.properties": "gradle",
         "gradlew": "gradlew",
         "gradle-wrapper.properties": "gradle",
@@ -4815,6 +5437,7 @@
         "licence.md": "license",
         "licence.rst": "license",
         "licence.txt": "license",
+        "eula.md": "license",
         ".liquidrc.json": "liquid",
         ".liquidrc": "liquid",
         "makefile": "makefile",
@@ -5235,9 +5858,9 @@
         "x_b": "3d",
         "x_t": "3d",
         "123dx": "3d",
+        "7z": "7zip",
+        "7zip": "7zip",
         "apk": "android",
-        "smali": "android",
-        "dex": "android",
         "ng-template": "angular",
         "applescript": "applescript",
         "ipa": "applescript",
@@ -5269,7 +5892,6 @@
         "awk": "bash",
         "c": "c",
         "i": "c",
-        "mi": "c",
         "cabal": "cabal",
         "cake": "cake",
         "clj": "clojure",
@@ -5304,21 +5926,19 @@
         "di": "d",
         "dart": "dart",
         "pdb": "database",
-        "sql": "database",
         "pks": "database",
         "pkb": "database",
-        "accdb": "database",
-        "mdb": "database",
-        "sqlite": "database",
-        "sqlite3": "database",
-        "pgsql": "database",
-        "postgres": "database",
-        "plpgsql": "database",
-        "psql": "database",
-        "db": "database",
-        "db3": "database",
         "dat": "hex",
-        "mysql": "database",
+        "debugsymbols": "database",
+        "odb": "database",
+        "bdb": "database",
+        "dbf": "database",
+        "fdb": "database",
+        "feather": "database",
+        "gdb": "database",
+        "ibd": "database",
+        "orc": "database",
+        "kdbx": "database",
         "diff": "diff",
         "patch": "diff",
         "iso": "disc",
@@ -5353,10 +5973,8 @@
         "fig": "figma",
         "woff": "font",
         "woff2": "font",
-        "ttf": "font",
         "eot": "font",
         "suit": "font",
-        "otf": "font",
         "bmap": "font",
         "fnt": "font",
         "odttf": "font",
@@ -5378,6 +5996,15 @@
         "fsproj": "fsharp",
         "gleam": "gleam",
         "go": "go",
+        "godot": "godot_assets",
+        "tres": "godot_assets",
+        "tscn": "godot_assets",
+        "gdns": "godot_assets",
+        "gdnlib": "godot_assets",
+        "gdshader": "godot_assets",
+        "gdshaderinc": "godot_assets",
+        "gdextension": "godot_assets",
+        "gd.uid": "godot_assets",
         "gd": "godot",
         "gradle": "gradle",
         "graphql": "graphql",
@@ -5450,7 +6077,6 @@
         "xcf": "image_alt_5",
         "png": "image",
         "apx": "image",
-        "webp": "image",
         "heif": "image",
         "heic": "image",
         "jar": "jar",
@@ -5483,7 +6109,6 @@
         "liquid": "liquid",
         "lisp": "lisp",
         "lsp": "lisp",
-        "cl": "lisp",
         "fast": "lisp",
         "lua": "lua",
         "luau": "luau",
@@ -5500,7 +6125,6 @@
         "mx": "matlab",
         "mx3": "matlab",
         "rwd": "matlab",
-        "slx": "matlab",
         "slddc": "matlab",
         "smv": "matlab",
         "xvc": "matlab",
@@ -5521,6 +6145,7 @@
         "openapi.json": "openapi",
         "openapi.yaml": "openapi",
         "openapi.yml": "openapi",
+        "otf": "otf",
         "pdf": "pdf",
         "pl": "perl",
         "pm": "perl",
@@ -5536,6 +6161,8 @@
         "pl6": "perl",
         "pm6": "perl",
         "php": "php",
+        "php4": "php",
+        "php5": "php",
         "pcss": "postcss",
         "sss": "postcss",
         "pptx": "powerpoint",
@@ -5549,6 +6176,12 @@
         "ppam": "powerpoint",
         "ppa": "powerpoint",
         "odp": "powerpoint",
+        "ps1": "powershell",
+        "psm1": "powershell",
+        "psd1": "powershell",
+        "ps1xml": "powershell",
+        "psc1": "powershell",
+        "pssc": "powershell",
         "pde": "processing",
         "p": "prolog",
         "pro": "prolog",
@@ -5568,8 +6201,10 @@
         "r": "r",
         "rmd": "r",
         "rkt": "racket",
+        "rar": "rar",
         "cshtml": "razor",
         "vbhtml": "razor",
+        "razor": "razor",
         "tsx": "react_ts",
         "jsx": "react",
         "readme": "readme",
@@ -5630,6 +6265,7 @@
         "xlsx": "table",
         "xlsm": "table",
         "xls": "table",
+        "tar": "tar",
         "tmpl": "templ",
         "templ": "templ",
         "gotmpl": "templ",
@@ -5663,6 +6299,7 @@
         "toml": "toml",
         "tree": "tree",
         "tsconfig.json": "tsconfig",
+        "ttf": "ttf",
         "env": "tune",
         "twig": "twig",
         "tw": "twine",
@@ -5718,6 +6355,7 @@
         "vue": "vue",
         "wat": "webassembly",
         "wasm": "webassembly",
+        "webp": "webp",
         "doc": "word",
         "docx": "word",
         "rtf": "word",
@@ -5739,7 +6377,6 @@
         "yang": "yang",
         "zig": "zig",
         "zon": "zig",
-        "7z": "zip",
         "br": "zip",
         "brotli": "zip",
         "bz2": "zip",
@@ -5750,8 +6387,6 @@
         "lz": "zip",
         "lz4": "zip",
         "lzma": "zip",
-        "rar": "zip",
-        "tar": "zip",
         "tgz": "zip",
         "txz": "zip",
         "tz": "zip",
@@ -5763,641 +6398,365 @@
         "default": {
           "path": "./icons/deep-light/file.svg"
         },
-        "openapi": {
-          "path": "./icons/deep-light/openapi.svg"
-        },
-        "robot": {
-          "path": "./icons/deep-light/robot.svg"
-        },
-        "groovy": {
-          "path": "./icons/deep-light/groovy.svg"
-        },
-        "eslint_ignore": {
-          "path": "./icons/deep-light/eslint_ignore.svg"
-        },
-        "stylus": {
-          "path": "./icons/deep-light/stylus.svg"
-        },
-        "angular": {
-          "path": "./icons/deep-light/angular.svg"
-        },
-        "lisp": {
-          "path": "./icons/deep-light/lisp.svg"
-        },
-        "i18n": {
-          "path": "./icons/deep-light/i18n.svg"
-        },
-        "jinja": {
-          "path": "./icons/deep-light/jinja.svg"
-        },
-        "coffee": {
-          "path": "./icons/deep-light/coffee.svg"
-        },
-        "slim": {
-          "path": "./icons/deep-light/slim.svg"
-        },
-        "ruby": {
-          "path": "./icons/deep-light/ruby.svg"
-        },
-        "issues": {
-          "path": "./icons/deep-light/issues.svg"
-        },
-        "makefile": {
-          "path": "./icons/deep-light/makefile.svg"
-        },
-        "javascript": {
-          "path": "./icons/deep-light/javascript.svg"
-        },
-        "templ": {
-          "path": "./icons/deep-light/templ.svg"
-        },
-        "terraform": {
-          "path": "./icons/deep-light/terraform.svg"
-        },
-        "jupyter": {
-          "path": "./icons/deep-light/jupyter.svg"
-        },
-        "audio": {
-          "path": "./icons/deep-light/audio.svg"
-        },
-        "zip": {
-          "path": "./icons/deep-light/zip.svg"
-        },
-        "figma": {
-          "path": "./icons/deep-light/figma.svg"
-        },
-        "html": {
-          "path": "./icons/deep-light/html.svg"
-        },
-        "drone": {
-          "path": "./icons/deep-light/drone.svg"
-        },
-        "image_alt_5": {
-          "path": "./icons/deep-light/image_alt_5.svg"
-        },
-        "jar": {
-          "path": "./icons/deep-light/jar.svg"
-        },
-        "scala": {
-          "path": "./icons/deep-light/scala.svg"
-        },
-        "table": {
-          "path": "./icons/deep-light/table.svg"
-        },
-        "reason": {
-          "path": "./icons/deep-light/reason.svg"
-        },
-        "cursor": {
-          "path": "./icons/deep-light/cursor.svg"
-        },
-        "javascript_map": {
-          "path": "./icons/deep-light/javascript_map.svg"
-        },
-        "editorconfig": {
-          "path": "./icons/deep-light/editorconfig.svg"
-        },
-        "puppet": {
-          "path": "./icons/deep-light/puppet.svg"
-        },
-        "git_ignore": {
-          "path": "./icons/deep-light/git_ignore.svg"
-        },
-        "tree": {
-          "path": "./icons/deep-light/tree.svg"
-        },
-        "cabal": {
-          "path": "./icons/deep-light/cabal.svg"
-        },
-        "azure_pipelines": {
-          "path": "./icons/deep-light/azure_pipelines.svg"
-        },
-        "license": {
-          "path": "./icons/deep-light/license.svg"
-        },
-        "vue_config": {
-          "path": "./icons/deep-light/vue_config.svg"
-        },
-        "tex": {
-          "path": "./icons/deep-light/tex.svg"
-        },
-        "python": {
-          "path": "./icons/deep-light/python.svg"
-        },
-        "tune": {
-          "path": "./icons/deep-light/tune.svg"
-        },
-        "graphql": {
-          "path": "./icons/deep-light/graphql.svg"
-        },
-        "qsharp": {
-          "path": "./icons/deep-light/qsharp.svg"
-        },
-        "c": {
-          "path": "./icons/deep-light/c.svg"
-        },
-        "typescript_def": {
-          "path": "./icons/deep-light/typescript_def.svg"
-        },
-        "cake": {
-          "path": "./icons/deep-light/cake.svg"
-        },
-        "typst": {
-          "path": "./icons/deep-light/typst.svg"
-        },
-        "go": {
-          "path": "./icons/deep-light/go.svg"
-        },
-        "powerpoint": {
-          "path": "./icons/deep-light/powerpoint.svg"
-        },
-        "zig": {
-          "path": "./icons/deep-light/zig.svg"
-        },
-        "document": {
-          "path": "./icons/deep-light/document.svg"
-        },
-        "word": {
-          "path": "./icons/deep-light/word.svg"
-        },
-        "image_alt_3": {
-          "path": "./icons/deep-light/image_alt_3.svg"
-        },
-        "cmake": {
-          "path": "./icons/deep-light/cmake.svg"
-        },
-        "webassembly": {
-          "path": "./icons/deep-light/webassembly.svg"
-        },
-        "diff": {
-          "path": "./icons/deep-light/diff.svg"
-        },
-        "gitlab": {
-          "path": "./icons/deep-light/gitlab.svg"
-        },
-        "changelog": {
-          "path": "./icons/deep-light/changelog.svg"
-        },
-        "yang": {
-          "path": "./icons/deep-light/yang.svg"
-        },
-        "markdown": {
-          "path": "./icons/deep-light/markdown.svg"
-        },
-        "cuda": {
-          "path": "./icons/deep-light/cuda.svg"
-        },
-        "javaclass": {
-          "path": "./icons/deep-light/javaclass.svg"
-        },
-        "java_misc": {
-          "path": "./icons/deep-light/java_misc.svg"
-        },
-        "image_alt_4": {
-          "path": "./icons/deep-light/image_alt_4.svg"
-        },
-        "tailwindcss": {
-          "path": "./icons/deep-light/tailwindcss.svg"
-        },
-        "java": {
-          "path": "./icons/deep-light/java.svg"
-        },
-        "bun": {
-          "path": "./icons/deep-light/bun.svg"
-        },
-        "twig": {
-          "path": "./icons/deep-light/twig.svg"
-        },
-        "csv": {
-          "path": "./icons/deep-light/csv.svg"
-        },
-        "deno_lock": {
-          "path": "./icons/deep-light/deno_lock.svg"
-        },
-        "prettier_ignore": {
-          "path": "./icons/deep-light/prettier_ignore.svg"
-        },
-        "python_misc": {
-          "path": "./icons/deep-light/python_misc.svg"
-        },
-        "svelte": {
-          "path": "./icons/deep-light/svelte.svg"
-        },
-        "yaml": {
-          "path": "./icons/deep-light/yaml.svg"
-        },
-        "faq": {
-          "path": "./icons/deep-light/faq.svg"
-        },
-        "vala": {
-          "path": "./icons/deep-light/vala.svg"
-        },
-        "ballerina": {
-          "path": "./icons/deep-light/ballerina.svg"
-        },
-        "docker_ignore": {
-          "path": "./icons/deep-light/docker_ignore.svg"
-        },
-        "red": {
-          "path": "./icons/deep-light/red.svg"
+        "3d": {
+          "path": "./icons/deep-light/3d.svg"
+        },
+        "7zip": {
+          "path": "./icons/deep-light/7zip.svg"
         },
         "android": {
           "path": "./icons/deep-light/android.svg"
         },
-        "objective_c": {
-          "path": "./icons/deep-light/objective_c.svg"
-        },
-        "astro": {
-          "path": "./icons/deep-light/astro.svg"
-        },
-        "bash": {
-          "path": "./icons/deep-light/bash.svg"
-        },
-        "video": {
-          "path": "./icons/deep-light/video.svg"
-        },
-        "elm": {
-          "path": "./icons/deep-light/elm.svg"
-        },
-        "sass": {
-          "path": "./icons/deep-light/sass.svg"
-        },
-        "architecture": {
-          "path": "./icons/deep-light/architecture.svg"
-        },
-        "json": {
-          "path": "./icons/deep-light/json.svg"
-        },
-        "nunjucks": {
-          "path": "./icons/deep-light/nunjucks.svg"
-        },
-        "d": {
-          "path": "./icons/deep-light/d.svg"
-        },
-        "opa": {
-          "path": "./icons/deep-light/opa.svg"
-        },
-        "smarty": {
-          "path": "./icons/deep-light/smarty.svg"
-        },
-        "typescript": {
-          "path": "./icons/deep-light/typescript.svg"
-        },
-        "gradlew": {
-          "path": "./icons/deep-light/gradlew.svg"
-        },
-        "godot": {
-          "path": "./icons/deep-light/godot.svg"
-        },
-        "swift": {
-          "path": "./icons/deep-light/swift.svg"
-        },
-        "erlang": {
-          "path": "./icons/deep-light/erlang.svg"
-        },
-        "julia": {
-          "path": "./icons/deep-light/julia.svg"
-        },
-        "rust": {
-          "path": "./icons/deep-light/rust.svg"
-        },
-        "tsconfig": {
-          "path": "./icons/deep-light/tsconfig.svg"
-        },
-        "database": {
-          "path": "./icons/deep-light/database.svg"
-        },
-        "pug": {
-          "path": "./icons/deep-light/pug.svg"
-        },
-        "css_map": {
-          "path": "./icons/deep-light/css_map.svg"
-        },
-        "kotlin": {
-          "path": "./icons/deep-light/kotlin.svg"
-        },
-        "mathematica": {
-          "path": "./icons/deep-light/mathematica.svg"
-        },
-        "helm": {
-          "path": "./icons/deep-light/helm.svg"
-        },
-        "jest": {
-          "path": "./icons/deep-light/jest.svg"
+        "angular": {
+          "path": "./icons/deep-light/angular.svg"
         },
         "applescript": {
           "path": "./icons/deep-light/applescript.svg"
         },
-        "laravel": {
-          "path": "./icons/deep-light/laravel.svg"
+        "architecture": {
+          "path": "./icons/deep-light/architecture.svg"
         },
-        "react_ts": {
-          "path": "./icons/deep-light/react_ts.svg"
+        "astro": {
+          "path": "./icons/deep-light/astro.svg"
         },
-        "vue": {
-          "path": "./icons/deep-light/vue.svg"
-        },
-        "pnpm": {
-          "path": "./icons/deep-light/pnpm.svg"
-        },
-        "svg": {
-          "path": "./icons/deep-light/svg.svg"
-        },
-        "jsconfig": {
-          "path": "./icons/deep-light/jsconfig.svg"
-        },
-        "font": {
-          "path": "./icons/deep-light/font.svg"
-        },
-        "phpstan": {
-          "path": "./icons/deep-light/phpstan.svg"
-        },
-        "http": {
-          "path": "./icons/deep-light/http.svg"
-        },
-        "django": {
-          "path": "./icons/deep-light/django.svg"
-        },
-        "npm_lock": {
-          "path": "./icons/deep-light/npm_lock.svg"
-        },
-        "processing": {
-          "path": "./icons/deep-light/processing.svg"
-        },
-        "readme": {
-          "path": "./icons/deep-light/readme.svg"
-        },
-        "image": {
-          "path": "./icons/deep-light/image.svg"
-        },
-        "cpp": {
-          "path": "./icons/deep-light/cpp.svg"
-        },
-        "haskell": {
-          "path": "./icons/deep-light/haskell.svg"
-        },
-        "image_alt_2": {
-          "path": "./icons/deep-light/image_alt_2.svg"
-        },
-        "nix": {
-          "path": "./icons/deep-light/nix.svg"
-        },
-        "bitbucket": {
-          "path": "./icons/deep-light/bitbucket.svg"
-        },
-        "phpunit": {
-          "path": "./icons/deep-light/phpunit.svg"
-        },
-        "gradle": {
-          "path": "./icons/deep-light/gradle.svg"
-        },
-        "r": {
-          "path": "./icons/deep-light/r.svg"
-        },
-        "storybook": {
-          "path": "./icons/deep-light/storybook.svg"
+        "audio": {
+          "path": "./icons/deep-light/audio.svg"
         },
         "authors": {
           "path": "./icons/deep-light/authors.svg"
         },
-        "stylelint_ignore": {
-          "path": "./icons/deep-light/stylelint_ignore.svg"
+        "autohotkey": {
+          "path": "./icons/deep-light/autohotkey.svg"
         },
-        "vscode": {
-          "path": "./icons/deep-light/vscode.svg"
-        },
-        "xmake": {
-          "path": "./icons/deep-light/xmake.svg"
-        },
-        "cargo": {
-          "path": "./icons/deep-light/cargo.svg"
-        },
-        "3d": {
-          "path": "./icons/deep-light/3d.svg"
-        },
-        "clojurescript": {
-          "path": "./icons/deep-light/clojurescript.svg"
-        },
-        "rescript": {
-          "path": "./icons/deep-light/rescript.svg"
-        },
-        "pdf": {
-          "path": "./icons/deep-light/pdf.svg"
-        },
-        "react": {
-          "path": "./icons/deep-light/react.svg"
-        },
-        "javascript_other": {
-          "path": "./icons/deep-light/javascript_other.svg"
-        },
-        "luau": {
-          "path": "./icons/deep-light/luau.svg"
-        },
-        "docker": {
-          "path": "./icons/deep-light/docker.svg"
-        },
-        "haml": {
-          "path": "./icons/deep-light/haml.svg"
-        },
-        "xml": {
-          "path": "./icons/deep-light/xml.svg"
-        },
-        "unity": {
-          "path": "./icons/deep-light/unity.svg"
-        },
-        "fsharp": {
-          "path": "./icons/deep-light/fsharp.svg"
-        },
-        "stylelint": {
-          "path": "./icons/deep-light/stylelint.svg"
-        },
-        "postcss": {
-          "path": "./icons/deep-light/postcss.svg"
-        },
-        "git": {
-          "path": "./icons/deep-light/git.svg"
-        },
-        "nim": {
-          "path": "./icons/deep-light/nim.svg"
-        },
-        "scheme": {
-          "path": "./icons/deep-light/scheme.svg"
-        },
-        "cypress": {
-          "path": "./icons/deep-light/cypress.svg"
-        },
-        "cargo_lock": {
-          "path": "./icons/deep-light/cargo_lock.svg"
-        },
-        "settings": {
-          "path": "./icons/deep-light/settings.svg"
-        },
-        "twine": {
-          "path": "./icons/deep-light/twine.svg"
-        },
-        "docker_compose": {
-          "path": "./icons/deep-light/docker_compose.svg"
-        },
-        "toml": {
-          "path": "./icons/deep-light/toml.svg"
-        },
-        "codeowners": {
-          "path": "./icons/deep-light/codeowners.svg"
-        },
-        "csharp": {
-          "path": "./icons/deep-light/csharp.svg"
-        },
-        "disc": {
-          "path": "./icons/deep-light/disc.svg"
-        },
-        "solidity": {
-          "path": "./icons/deep-light/solidity.svg"
-        },
-        "verilog": {
-          "path": "./icons/deep-light/verilog.svg"
-        },
-        "circleci": {
-          "path": "./icons/deep-light/circleci.svg"
-        },
-        "doxygen": {
-          "path": "./icons/deep-light/doxygen.svg"
-        },
-        "gitpod": {
-          "path": "./icons/deep-light/gitpod.svg"
-        },
-        "perl": {
-          "path": "./icons/deep-light/perl.svg"
-        },
-        "npm": {
-          "path": "./icons/deep-light/npm.svg"
-        },
-        "vim": {
-          "path": "./icons/deep-light/vim.svg"
-        },
-        "contributing": {
-          "path": "./icons/deep-light/contributing.svg"
-        },
-        "prolog": {
-          "path": "./icons/deep-light/prolog.svg"
-        },
-        "liquid": {
-          "path": "./icons/deep-light/liquid.svg"
-        },
-        "nodejs": {
-          "path": "./icons/deep-light/nodejs.svg"
-        },
-        "test_ts": {
-          "path": "./icons/deep-light/test_ts.svg"
-        },
-        "yarn_lock": {
-          "path": "./icons/deep-light/yarn_lock.svg"
-        },
-        "vlang": {
-          "path": "./icons/deep-light/vlang.svg"
-        },
-        "haxe": {
-          "path": "./icons/deep-light/haxe.svg"
-        },
-        "fortran": {
-          "path": "./icons/deep-light/fortran.svg"
-        },
-        "ocaml": {
-          "path": "./icons/deep-light/ocaml.svg"
-        },
-        "cobol": {
-          "path": "./icons/deep-light/cobol.svg"
-        },
-        "deno": {
-          "path": "./icons/deep-light/deno.svg"
-        },
-        "css": {
-          "path": "./icons/deep-light/css.svg"
-        },
-        "racket": {
-          "path": "./icons/deep-light/racket.svg"
+        "azure_pipelines": {
+          "path": "./icons/deep-light/azure_pipelines.svg"
         },
         "babel": {
           "path": "./icons/deep-light/babel.svg"
         },
-        "autohotkey": {
-          "path": "./icons/deep-light/autohotkey.svg"
+        "ballerina": {
+          "path": "./icons/deep-light/ballerina.svg"
         },
-        "dart": {
-          "path": "./icons/deep-light/dart.svg"
+        "bash": {
+          "path": "./icons/deep-light/bash.svg"
         },
-        "nginx": {
-          "path": "./icons/deep-light/nginx.svg"
-        },
-        "clojure": {
-          "path": "./icons/deep-light/clojure.svg"
-        },
-        "less": {
-          "path": "./icons/deep-light/less.svg"
-        },
-        "python_compiled": {
-          "path": "./icons/deep-light/python_compiled.svg"
-        },
-        "email": {
-          "path": "./icons/deep-light/email.svg"
-        },
-        "handlebars": {
-          "path": "./icons/deep-light/handlebars.svg"
-        },
-        "elixir": {
-          "path": "./icons/deep-light/elixir.svg"
-        },
-        "opam": {
-          "path": "./icons/deep-light/opam.svg"
+        "bitbucket": {
+          "path": "./icons/deep-light/bitbucket.svg"
         },
         "bun_lock": {
           "path": "./icons/deep-light/bun_lock.svg"
         },
-        "lua": {
-          "path": "./icons/deep-light/lua.svg"
+        "bun": {
+          "path": "./icons/deep-light/bun.svg"
         },
-        "slint": {
-          "path": "./icons/deep-light/slint.svg"
+        "c": {
+          "path": "./icons/deep-light/c.svg"
         },
-        "template": {
-          "path": "./icons/deep-light/template.svg"
+        "cabal": {
+          "path": "./icons/deep-light/cabal.svg"
+        },
+        "cake": {
+          "path": "./icons/deep-light/cake.svg"
+        },
+        "cargo_lock": {
+          "path": "./icons/deep-light/cargo_lock.svg"
+        },
+        "cargo": {
+          "path": "./icons/deep-light/cargo.svg"
+        },
+        "changelog": {
+          "path": "./icons/deep-light/changelog.svg"
+        },
+        "circleci": {
+          "path": "./icons/deep-light/circleci.svg"
         },
         "claude": {
           "path": "./icons/deep-light/claude.svg"
         },
-        "php": {
-          "path": "./icons/deep-light/php.svg"
+        "clojure": {
+          "path": "./icons/deep-light/clojure.svg"
         },
-        "pre_commit": {
-          "path": "./icons/deep-light/pre_commit.svg"
+        "clojurescript": {
+          "path": "./icons/deep-light/clojurescript.svg"
         },
-        "support": {
-          "path": "./icons/deep-light/support.svg"
+        "cmake": {
+          "path": "./icons/deep-light/cmake.svg"
         },
-        "razor": {
-          "path": "./icons/deep-light/razor.svg"
+        "cobol": {
+          "path": "./icons/deep-light/cobol.svg"
         },
-        "prettier": {
-          "path": "./icons/deep-light/prettier.svg"
+        "codeowners": {
+          "path": "./icons/deep-light/codeowners.svg"
         },
-        "webpack": {
-          "path": "./icons/deep-light/webpack.svg"
+        "coffee": {
+          "path": "./icons/deep-light/coffee.svg"
         },
-        "yarn": {
-          "path": "./icons/deep-light/yarn.svg"
+        "contributing": {
+          "path": "./icons/deep-light/contributing.svg"
         },
-        "sketch": {
-          "path": "./icons/deep-light/sketch.svg"
+        "cpp": {
+          "path": "./icons/deep-light/cpp.svg"
+        },
+        "csharp": {
+          "path": "./icons/deep-light/csharp.svg"
+        },
+        "css_map": {
+          "path": "./icons/deep-light/css_map.svg"
+        },
+        "css": {
+          "path": "./icons/deep-light/css.svg"
+        },
+        "csv": {
+          "path": "./icons/deep-light/csv.svg"
+        },
+        "cuda": {
+          "path": "./icons/deep-light/cuda.svg"
+        },
+        "cursor": {
+          "path": "./icons/deep-light/cursor.svg"
+        },
+        "cypress": {
+          "path": "./icons/deep-light/cypress.svg"
+        },
+        "d": {
+          "path": "./icons/deep-light/d.svg"
+        },
+        "dart": {
+          "path": "./icons/deep-light/dart.svg"
+        },
+        "database": {
+          "path": "./icons/deep-light/database.svg"
+        },
+        "deno_lock": {
+          "path": "./icons/deep-light/deno_lock.svg"
+        },
+        "deno": {
+          "path": "./icons/deep-light/deno.svg"
+        },
+        "diff": {
+          "path": "./icons/deep-light/diff.svg"
+        },
+        "disc": {
+          "path": "./icons/deep-light/disc.svg"
+        },
+        "django": {
+          "path": "./icons/deep-light/django.svg"
+        },
+        "docker_compose": {
+          "path": "./icons/deep-light/docker_compose.svg"
+        },
+        "docker_ignore": {
+          "path": "./icons/deep-light/docker_ignore.svg"
+        },
+        "docker": {
+          "path": "./icons/deep-light/docker.svg"
+        },
+        "document": {
+          "path": "./icons/deep-light/document.svg"
+        },
+        "doxygen": {
+          "path": "./icons/deep-light/doxygen.svg"
+        },
+        "drone": {
+          "path": "./icons/deep-light/drone.svg"
+        },
+        "editorconfig": {
+          "path": "./icons/deep-light/editorconfig.svg"
+        },
+        "ejs": {
+          "path": "./icons/deep-light/ejs.svg"
+        },
+        "elixir": {
+          "path": "./icons/deep-light/elixir.svg"
+        },
+        "elm": {
+          "path": "./icons/deep-light/elm.svg"
+        },
+        "email": {
+          "path": "./icons/deep-light/email.svg"
+        },
+        "erlang": {
+          "path": "./icons/deep-light/erlang.svg"
+        },
+        "eslint_ignore": {
+          "path": "./icons/deep-light/eslint_ignore.svg"
+        },
+        "eslint": {
+          "path": "./icons/deep-light/eslint.svg"
+        },
+        "faq": {
+          "path": "./icons/deep-light/faq.svg"
+        },
+        "figma": {
+          "path": "./icons/deep-light/figma.svg"
+        },
+        "font": {
+          "path": "./icons/deep-light/font.svg"
+        },
+        "fortran": {
+          "path": "./icons/deep-light/fortran.svg"
+        },
+        "fsharp": {
+          "path": "./icons/deep-light/fsharp.svg"
+        },
+        "git_ignore": {
+          "path": "./icons/deep-light/git_ignore.svg"
+        },
+        "git": {
+          "path": "./icons/deep-light/git.svg"
+        },
+        "gitlab": {
+          "path": "./icons/deep-light/gitlab.svg"
+        },
+        "gitpod": {
+          "path": "./icons/deep-light/gitpod.svg"
+        },
+        "gleam": {
+          "path": "./icons/deep-light/gleam.svg"
+        },
+        "go": {
+          "path": "./icons/deep-light/go.svg"
+        },
+        "godot_assets": {
+          "path": "./icons/deep-light/godot_assets.svg"
+        },
+        "godot": {
+          "path": "./icons/deep-light/godot.svg"
+        },
+        "gradle": {
+          "path": "./icons/deep-light/gradle.svg"
+        },
+        "gradlew": {
+          "path": "./icons/deep-light/gradlew.svg"
+        },
+        "graphql": {
+          "path": "./icons/deep-light/graphql.svg"
+        },
+        "groovy": {
+          "path": "./icons/deep-light/groovy.svg"
+        },
+        "haml": {
+          "path": "./icons/deep-light/haml.svg"
+        },
+        "handlebars": {
+          "path": "./icons/deep-light/handlebars.svg"
+        },
+        "haskell": {
+          "path": "./icons/deep-light/haskell.svg"
+        },
+        "haxe": {
+          "path": "./icons/deep-light/haxe.svg"
+        },
+        "helm": {
+          "path": "./icons/deep-light/helm.svg"
         },
         "hex": {
           "path": "./icons/deep-light/hex.svg"
         },
-        "pnpm_lock": {
-          "path": "./icons/deep-light/pnpm_lock.svg"
+        "html": {
+          "path": "./icons/deep-light/html.svg"
         },
-        "purescript": {
-          "path": "./icons/deep-light/purescript.svg"
+        "http": {
+          "path": "./icons/deep-light/http.svg"
         },
-        "gleam": {
-          "path": "./icons/deep-light/gleam.svg"
+        "i18n": {
+          "path": "./icons/deep-light/i18n.svg"
+        },
+        "image_alt_2": {
+          "path": "./icons/deep-light/image_alt_2.svg"
+        },
+        "image_alt_3": {
+          "path": "./icons/deep-light/image_alt_3.svg"
+        },
+        "image_alt_4": {
+          "path": "./icons/deep-light/image_alt_4.svg"
+        },
+        "image_alt_5": {
+          "path": "./icons/deep-light/image_alt_5.svg"
+        },
+        "image": {
+          "path": "./icons/deep-light/image.svg"
+        },
+        "issues": {
+          "path": "./icons/deep-light/issues.svg"
+        },
+        "jar": {
+          "path": "./icons/deep-light/jar.svg"
+        },
+        "java_misc": {
+          "path": "./icons/deep-light/java_misc.svg"
+        },
+        "java": {
+          "path": "./icons/deep-light/java.svg"
+        },
+        "javaclass": {
+          "path": "./icons/deep-light/javaclass.svg"
+        },
+        "javascript_map": {
+          "path": "./icons/deep-light/javascript_map.svg"
+        },
+        "javascript_other": {
+          "path": "./icons/deep-light/javascript_other.svg"
+        },
+        "javascript": {
+          "path": "./icons/deep-light/javascript.svg"
+        },
+        "jest": {
+          "path": "./icons/deep-light/jest.svg"
+        },
+        "jinja": {
+          "path": "./icons/deep-light/jinja.svg"
+        },
+        "jsconfig": {
+          "path": "./icons/deep-light/jsconfig.svg"
+        },
+        "json": {
+          "path": "./icons/deep-light/json.svg"
+        },
+        "julia": {
+          "path": "./icons/deep-light/julia.svg"
+        },
+        "jupyter": {
+          "path": "./icons/deep-light/jupyter.svg"
+        },
+        "kotlin": {
+          "path": "./icons/deep-light/kotlin.svg"
+        },
+        "laravel": {
+          "path": "./icons/deep-light/laravel.svg"
+        },
+        "lean": {
+          "path": "./icons/deep-light/lean.svg"
+        },
+        "less": {
+          "path": "./icons/deep-light/less.svg"
+        },
+        "license": {
+          "path": "./icons/deep-light/license.svg"
+        },
+        "liquid": {
+          "path": "./icons/deep-light/liquid.svg"
+        },
+        "lisp": {
+          "path": "./icons/deep-light/lisp.svg"
+        },
+        "lua": {
+          "path": "./icons/deep-light/lua.svg"
+        },
+        "luau": {
+          "path": "./icons/deep-light/luau.svg"
+        },
+        "makefile": {
+          "path": "./icons/deep-light/makefile.svg"
+        },
+        "markdown": {
+          "path": "./icons/deep-light/markdown.svg"
+        },
+        "mathematica": {
+          "path": "./icons/deep-light/mathematica.svg"
+        },
+        "matlab": {
+          "path": "./icons/deep-light/matlab.svg"
         },
         "mdx": {
           "path": "./icons/deep-light/mdx.svg"
@@ -6405,20 +6764,320 @@
         "mocha": {
           "path": "./icons/deep-light/mocha.svg"
         },
+        "nginx": {
+          "path": "./icons/deep-light/nginx.svg"
+        },
+        "nim": {
+          "path": "./icons/deep-light/nim.svg"
+        },
+        "nix": {
+          "path": "./icons/deep-light/nix.svg"
+        },
+        "nodejs": {
+          "path": "./icons/deep-light/nodejs.svg"
+        },
+        "npm_lock": {
+          "path": "./icons/deep-light/npm_lock.svg"
+        },
+        "npm": {
+          "path": "./icons/deep-light/npm.svg"
+        },
+        "nunjucks": {
+          "path": "./icons/deep-light/nunjucks.svg"
+        },
+        "objective_c": {
+          "path": "./icons/deep-light/objective_c.svg"
+        },
+        "ocaml": {
+          "path": "./icons/deep-light/ocaml.svg"
+        },
+        "opa": {
+          "path": "./icons/deep-light/opa.svg"
+        },
+        "opam": {
+          "path": "./icons/deep-light/opam.svg"
+        },
+        "openapi": {
+          "path": "./icons/deep-light/openapi.svg"
+        },
+        "otf": {
+          "path": "./icons/deep-light/otf.svg"
+        },
+        "pdf": {
+          "path": "./icons/deep-light/pdf.svg"
+        },
+        "perl": {
+          "path": "./icons/deep-light/perl.svg"
+        },
+        "php": {
+          "path": "./icons/deep-light/php.svg"
+        },
+        "phpstan": {
+          "path": "./icons/deep-light/phpstan.svg"
+        },
+        "phpunit": {
+          "path": "./icons/deep-light/phpunit.svg"
+        },
+        "pnpm_lock": {
+          "path": "./icons/deep-light/pnpm_lock.svg"
+        },
+        "pnpm": {
+          "path": "./icons/deep-light/pnpm.svg"
+        },
+        "postcss": {
+          "path": "./icons/deep-light/postcss.svg"
+        },
+        "powerpoint": {
+          "path": "./icons/deep-light/powerpoint.svg"
+        },
+        "powershell": {
+          "path": "./icons/deep-light/powershell.svg"
+        },
+        "pre_commit": {
+          "path": "./icons/deep-light/pre_commit.svg"
+        },
+        "prettier_ignore": {
+          "path": "./icons/deep-light/prettier_ignore.svg"
+        },
+        "prettier": {
+          "path": "./icons/deep-light/prettier.svg"
+        },
+        "processing": {
+          "path": "./icons/deep-light/processing.svg"
+        },
+        "prolog": {
+          "path": "./icons/deep-light/prolog.svg"
+        },
         "proto": {
           "path": "./icons/deep-light/proto.svg"
         },
-        "matlab": {
-          "path": "./icons/deep-light/matlab.svg"
+        "pug": {
+          "path": "./icons/deep-light/pug.svg"
         },
-        "lean": {
-          "path": "./icons/deep-light/lean.svg"
+        "puppet": {
+          "path": "./icons/deep-light/puppet.svg"
         },
-        "eslint": {
-          "path": "./icons/deep-light/eslint.svg"
+        "purescript": {
+          "path": "./icons/deep-light/purescript.svg"
         },
-        "ejs": {
-          "path": "./icons/deep-light/ejs.svg"
+        "python_compiled": {
+          "path": "./icons/deep-light/python_compiled.svg"
+        },
+        "python_misc": {
+          "path": "./icons/deep-light/python_misc.svg"
+        },
+        "python": {
+          "path": "./icons/deep-light/python.svg"
+        },
+        "qsharp": {
+          "path": "./icons/deep-light/qsharp.svg"
+        },
+        "r": {
+          "path": "./icons/deep-light/r.svg"
+        },
+        "racket": {
+          "path": "./icons/deep-light/racket.svg"
+        },
+        "rar": {
+          "path": "./icons/deep-light/rar.svg"
+        },
+        "razor": {
+          "path": "./icons/deep-light/razor.svg"
+        },
+        "react_ts": {
+          "path": "./icons/deep-light/react_ts.svg"
+        },
+        "react": {
+          "path": "./icons/deep-light/react.svg"
+        },
+        "readme": {
+          "path": "./icons/deep-light/readme.svg"
+        },
+        "reason": {
+          "path": "./icons/deep-light/reason.svg"
+        },
+        "red": {
+          "path": "./icons/deep-light/red.svg"
+        },
+        "rescript": {
+          "path": "./icons/deep-light/rescript.svg"
+        },
+        "robot": {
+          "path": "./icons/deep-light/robot.svg"
+        },
+        "ruby": {
+          "path": "./icons/deep-light/ruby.svg"
+        },
+        "rust": {
+          "path": "./icons/deep-light/rust.svg"
+        },
+        "sass": {
+          "path": "./icons/deep-light/sass.svg"
+        },
+        "scala": {
+          "path": "./icons/deep-light/scala.svg"
+        },
+        "scheme": {
+          "path": "./icons/deep-light/scheme.svg"
+        },
+        "settings": {
+          "path": "./icons/deep-light/settings.svg"
+        },
+        "sketch": {
+          "path": "./icons/deep-light/sketch.svg"
+        },
+        "slim": {
+          "path": "./icons/deep-light/slim.svg"
+        },
+        "slint": {
+          "path": "./icons/deep-light/slint.svg"
+        },
+        "smarty": {
+          "path": "./icons/deep-light/smarty.svg"
+        },
+        "solidity": {
+          "path": "./icons/deep-light/solidity.svg"
+        },
+        "storybook": {
+          "path": "./icons/deep-light/storybook.svg"
+        },
+        "stylelint_ignore": {
+          "path": "./icons/deep-light/stylelint_ignore.svg"
+        },
+        "stylelint": {
+          "path": "./icons/deep-light/stylelint.svg"
+        },
+        "stylus": {
+          "path": "./icons/deep-light/stylus.svg"
+        },
+        "support": {
+          "path": "./icons/deep-light/support.svg"
+        },
+        "svelte": {
+          "path": "./icons/deep-light/svelte.svg"
+        },
+        "svg": {
+          "path": "./icons/deep-light/svg.svg"
+        },
+        "swift": {
+          "path": "./icons/deep-light/swift.svg"
+        },
+        "table": {
+          "path": "./icons/deep-light/table.svg"
+        },
+        "tailwindcss": {
+          "path": "./icons/deep-light/tailwindcss.svg"
+        },
+        "tar": {
+          "path": "./icons/deep-light/tar.svg"
+        },
+        "templ": {
+          "path": "./icons/deep-light/templ.svg"
+        },
+        "template": {
+          "path": "./icons/deep-light/template.svg"
+        },
+        "terraform": {
+          "path": "./icons/deep-light/terraform.svg"
+        },
+        "test_ts": {
+          "path": "./icons/deep-light/test_ts.svg"
+        },
+        "tex": {
+          "path": "./icons/deep-light/tex.svg"
+        },
+        "toml": {
+          "path": "./icons/deep-light/toml.svg"
+        },
+        "tree": {
+          "path": "./icons/deep-light/tree.svg"
+        },
+        "tsconfig": {
+          "path": "./icons/deep-light/tsconfig.svg"
+        },
+        "ttf": {
+          "path": "./icons/deep-light/ttf.svg"
+        },
+        "tune": {
+          "path": "./icons/deep-light/tune.svg"
+        },
+        "twig": {
+          "path": "./icons/deep-light/twig.svg"
+        },
+        "twine": {
+          "path": "./icons/deep-light/twine.svg"
+        },
+        "typescript_def": {
+          "path": "./icons/deep-light/typescript_def.svg"
+        },
+        "typescript": {
+          "path": "./icons/deep-light/typescript.svg"
+        },
+        "typst": {
+          "path": "./icons/deep-light/typst.svg"
+        },
+        "unity": {
+          "path": "./icons/deep-light/unity.svg"
+        },
+        "vala": {
+          "path": "./icons/deep-light/vala.svg"
+        },
+        "verilog": {
+          "path": "./icons/deep-light/verilog.svg"
+        },
+        "video": {
+          "path": "./icons/deep-light/video.svg"
+        },
+        "vim": {
+          "path": "./icons/deep-light/vim.svg"
+        },
+        "vlang": {
+          "path": "./icons/deep-light/vlang.svg"
+        },
+        "vscode": {
+          "path": "./icons/deep-light/vscode.svg"
+        },
+        "vue_config": {
+          "path": "./icons/deep-light/vue_config.svg"
+        },
+        "vue": {
+          "path": "./icons/deep-light/vue.svg"
+        },
+        "webassembly": {
+          "path": "./icons/deep-light/webassembly.svg"
+        },
+        "webp": {
+          "path": "./icons/deep-light/webp.svg"
+        },
+        "webpack": {
+          "path": "./icons/deep-light/webpack.svg"
+        },
+        "word": {
+          "path": "./icons/deep-light/word.svg"
+        },
+        "xmake": {
+          "path": "./icons/deep-light/xmake.svg"
+        },
+        "xml": {
+          "path": "./icons/deep-light/xml.svg"
+        },
+        "yaml": {
+          "path": "./icons/deep-light/yaml.svg"
+        },
+        "yang": {
+          "path": "./icons/deep-light/yang.svg"
+        },
+        "yarn_lock": {
+          "path": "./icons/deep-light/yarn_lock.svg"
+        },
+        "yarn": {
+          "path": "./icons/deep-light/yarn.svg"
+        },
+        "zig": {
+          "path": "./icons/deep-light/zig.svg"
+        },
+        "zip": {
+          "path": "./icons/deep-light/zip.svg"
         }
       }
     }

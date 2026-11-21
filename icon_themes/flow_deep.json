@@ -63,6 +63,10 @@
           "collapsed": "./icons/deep/folder_android.svg",
           "expanded": "./icons/deep/folder_android_open.svg"
         },
+        "smali": {
+          "collapsed": "./icons/deep/folder_android.svg",
+          "expanded": "./icons/deep/folder_android_open.svg"
+        },
         ".angular": {
           "collapsed": "./icons/deep/folder_angular.svg",
           "expanded": "./icons/deep/folder_angular_open.svg"
@@ -391,6 +395,10 @@
           "collapsed": "./icons/deep/folder_benchmark.svg",
           "expanded": "./icons/deep/folder_benchmark_open.svg"
         },
+        "benches": {
+          "collapsed": "./icons/deep/folder_benchmark.svg",
+          "expanded": "./icons/deep/folder_benchmark_open.svg"
+        },
         "performance": {
           "collapsed": "./icons/deep/folder_benchmark.svg",
           "expanded": "./icons/deep/folder_benchmark_open.svg"
@@ -484,6 +492,18 @@
           "expanded": "./icons/deep/folder_buildkite_open.svg"
         },
         ".cargo": {
+          "collapsed": "./icons/deep/folder_cargo.svg",
+          "expanded": "./icons/deep/folder_cargo_open.svg"
+        },
+        "cargo": {
+          "collapsed": "./icons/deep/folder_rust.svg",
+          "expanded": "./icons/deep/folder_rust_open.svg"
+        },
+        ".crates": {
+          "collapsed": "./icons/deep/folder_cargo.svg",
+          "expanded": "./icons/deep/folder_cargo_open.svg"
+        },
+        "crates": {
           "collapsed": "./icons/deep/folder_cargo.svg",
           "expanded": "./icons/deep/folder_cargo_open.svg"
         },
@@ -1011,6 +1031,10 @@
           "collapsed": "./icons/deep/folder_database.svg",
           "expanded": "./icons/deep/folder_database_open.svg"
         },
+        "datafiles": {
+          "collapsed": "./icons/deep/folder_database.svg",
+          "expanded": "./icons/deep/folder_database_open.svg"
+        },
         "debug": {
           "collapsed": "./icons/deep/folder_debug.svg",
           "expanded": "./icons/deep/folder_debug_open.svg"
@@ -1447,6 +1471,14 @@
           "collapsed": "./icons/deep/folder_form.svg",
           "expanded": "./icons/deep/folder_form_open.svg"
         },
+        "editor": {
+          "collapsed": "./icons/deep/folder_form.svg",
+          "expanded": "./icons/deep/folder_form_open.svg"
+        },
+        "editors": {
+          "collapsed": "./icons/deep/folder_form.svg",
+          "expanded": "./icons/deep/folder_form_open.svg"
+        },
         "func": {
           "collapsed": "./icons/deep/folder_functions.svg",
           "expanded": "./icons/deep/folder_functions_open.svg"
@@ -1483,22 +1515,6 @@
           "collapsed": "./icons/deep/folder_functions.svg",
           "expanded": "./icons/deep/folder_functions_open.svg"
         },
-        "calc": {
-          "collapsed": "./icons/deep/folder_functions.svg",
-          "expanded": "./icons/deep/folder_functions_open.svg"
-        },
-        "calcs": {
-          "collapsed": "./icons/deep/folder_functions.svg",
-          "expanded": "./icons/deep/folder_functions_open.svg"
-        },
-        "calculation": {
-          "collapsed": "./icons/deep/folder_functions.svg",
-          "expanded": "./icons/deep/folder_functions_open.svg"
-        },
-        "calculations": {
-          "collapsed": "./icons/deep/folder_functions.svg",
-          "expanded": "./icons/deep/folder_functions_open.svg"
-        },
         "mixin": {
           "collapsed": "./icons/deep/folder_functions.svg",
           "expanded": "./icons/deep/folder_functions_open.svg"
@@ -1512,6 +1528,14 @@
           "expanded": "./icons/deep/folder_gamemaker_open.svg"
         },
         "gamemaker2": {
+          "collapsed": "./icons/deep/folder_gamemaker.svg",
+          "expanded": "./icons/deep/folder_gamemaker_open.svg"
+        },
+        ".gmcache": {
+          "collapsed": "./icons/deep/folder_gamemaker.svg",
+          "expanded": "./icons/deep/folder_gamemaker_open.svg"
+        },
+        "gmcache": {
           "collapsed": "./icons/deep/folder_gamemaker.svg",
           "expanded": "./icons/deep/folder_gamemaker_open.svg"
         },
@@ -2147,10 +2171,6 @@
           "collapsed": "./icons/deep/folder_lib.svg",
           "expanded": "./icons/deep/folder_lib_open.svg"
         },
-        "crates": {
-          "collapsed": "./icons/deep/folder_lib.svg",
-          "expanded": "./icons/deep/folder_lib_open.svg"
-        },
         "dll": {
           "collapsed": "./icons/deep/folder_lib.svg",
           "expanded": "./icons/deep/folder_lib_open.svg"
@@ -2668,10 +2688,14 @@
           "expanded": "./icons/deep/folder_packages_open.svg"
         },
         "dependencies": {
+          "collapsed": "./icons/deep/folder_deps.svg",
+          "expanded": "./icons/deep/folder_deps_open.svg"
+        },
+        ".swiftpm": {
           "collapsed": "./icons/deep/folder_packages.svg",
           "expanded": "./icons/deep/folder_packages_open.svg"
         },
-        ".swiftpm": {
+        "packaging": {
           "collapsed": "./icons/deep/folder_packages.svg",
           "expanded": "./icons/deep/folder_packages_open.svg"
         },
@@ -2887,6 +2911,18 @@
           "collapsed": "./icons/deep/folder_public.svg",
           "expanded": "./icons/deep/folder_public_open.svg"
         },
+        "intranet": {
+          "collapsed": "./icons/deep/folder_public.svg",
+          "expanded": "./icons/deep/folder_public_open.svg"
+        },
+        "network": {
+          "collapsed": "./icons/deep/folder_public.svg",
+          "expanded": "./icons/deep/folder_public_open.svg"
+        },
+        "networks": {
+          "collapsed": "./icons/deep/folder_public.svg",
+          "expanded": "./icons/deep/folder_public_open.svg"
+        },
         "python": {
           "collapsed": "./icons/deep/folder_python.svg",
           "expanded": "./icons/deep/folder_python_open.svg"
@@ -3099,6 +3135,14 @@
           "collapsed": "./icons/deep/folder_ruff.svg",
           "expanded": "./icons/deep/folder_ruff_open.svg"
         },
+        ".ruff_cache": {
+          "collapsed": "./icons/deep/folder_ruff.svg",
+          "expanded": "./icons/deep/folder_ruff_open.svg"
+        },
+        "ruff_cache": {
+          "collapsed": "./icons/deep/folder_ruff.svg",
+          "expanded": "./icons/deep/folder_ruff_open.svg"
+        },
         "rule": {
           "collapsed": "./icons/deep/folder_rules.svg",
           "expanded": "./icons/deep/folder_rules_open.svg"
@@ -3108,24 +3152,24 @@
           "expanded": "./icons/deep/folder_rules_open.svg"
         },
         "validation": {
-          "collapsed": "./icons/deep/folder_rules.svg",
-          "expanded": "./icons/deep/folder_rules_open.svg"
+          "collapsed": "./icons/deep/folder_validation.svg",
+          "expanded": "./icons/deep/folder_validation_open.svg"
         },
         "validations": {
-          "collapsed": "./icons/deep/folder_rules.svg",
-          "expanded": "./icons/deep/folder_rules_open.svg"
+          "collapsed": "./icons/deep/folder_validation.svg",
+          "expanded": "./icons/deep/folder_validation_open.svg"
         },
         "validator": {
-          "collapsed": "./icons/deep/folder_rules.svg",
-          "expanded": "./icons/deep/folder_rules_open.svg"
+          "collapsed": "./icons/deep/folder_validation.svg",
+          "expanded": "./icons/deep/folder_validation_open.svg"
         },
         "validators": {
-          "collapsed": "./icons/deep/folder_rules.svg",
-          "expanded": "./icons/deep/folder_rules_open.svg"
+          "collapsed": "./icons/deep/folder_validation.svg",
+          "expanded": "./icons/deep/folder_validation_open.svg"
         },
-        "cargo": {
-          "collapsed": "./icons/deep/folder_rust.svg",
-          "expanded": "./icons/deep/folder_rust_open.svg"
+        "compliance": {
+          "collapsed": "./icons/deep/folder_validation.svg",
+          "expanded": "./icons/deep/folder_validation_open.svg"
         },
         "rust": {
           "collapsed": "./icons/deep/folder_rust.svg",
@@ -3619,7 +3663,19 @@
           "collapsed": "./icons/deep/folder_television.svg",
           "expanded": "./icons/deep/folder_television_open.svg"
         },
+        "tvos": {
+          "collapsed": "./icons/deep/folder_television.svg",
+          "expanded": "./icons/deep/folder_television_open.svg"
+        },
+        ".temp": {
+          "collapsed": "./icons/deep/folder_temp.svg",
+          "expanded": "./icons/deep/folder_temp_open.svg"
+        },
         "temp": {
+          "collapsed": "./icons/deep/folder_temp.svg",
+          "expanded": "./icons/deep/folder_temp_open.svg"
+        },
+        ".tmp": {
           "collapsed": "./icons/deep/folder_temp.svg",
           "expanded": "./icons/deep/folder_temp_open.svg"
         },
@@ -3627,11 +3683,23 @@
           "collapsed": "./icons/deep/folder_temp.svg",
           "expanded": "./icons/deep/folder_temp_open.svg"
         },
+        ".cached": {
+          "collapsed": "./icons/deep/folder_temp.svg",
+          "expanded": "./icons/deep/folder_temp_open.svg"
+        },
         "cached": {
           "collapsed": "./icons/deep/folder_temp.svg",
           "expanded": "./icons/deep/folder_temp_open.svg"
         },
+        ".cache": {
+          "collapsed": "./icons/deep/folder_temp.svg",
+          "expanded": "./icons/deep/folder_temp_open.svg"
+        },
         "cache": {
+          "collapsed": "./icons/deep/folder_temp.svg",
+          "expanded": "./icons/deep/folder_temp_open.svg"
+        },
+        "time": {
           "collapsed": "./icons/deep/folder_temp.svg",
           "expanded": "./icons/deep/folder_temp_open.svg"
         },
@@ -3747,6 +3815,10 @@
           "collapsed": "./icons/deep/folder_theme.svg",
           "expanded": "./icons/deep/folder_theme_open.svg"
         },
+        "icon_themes": {
+          "collapsed": "./icons/deep/folder_theme.svg",
+          "expanded": "./icons/deep/folder_theme_open.svg"
+        },
         "toc": {
           "collapsed": "./icons/deep/folder_toc.svg",
           "expanded": "./icons/deep/folder_toc_open.svg"
@@ -3856,6 +3928,10 @@
           "expanded": "./icons/deep/folder_type_open.svg"
         },
         "typing": {
+          "collapsed": "./icons/deep/folder_type.svg",
+          "expanded": "./icons/deep/folder_type_open.svg"
+        },
+        "typings": {
           "collapsed": "./icons/deep/folder_type.svg",
           "expanded": "./icons/deep/folder_type_open.svg"
         },
@@ -4028,6 +4104,10 @@
           "expanded": "./icons/deep/folder_video_open.svg"
         },
         "html": {
+          "collapsed": "./icons/deep/folder_views.svg",
+          "expanded": "./icons/deep/folder_views_open.svg"
+        },
+        "html5": {
           "collapsed": "./icons/deep/folder_views.svg",
           "expanded": "./icons/deep/folder_views_open.svg"
         },
@@ -4263,6 +4343,18 @@
           "collapsed": "./icons/deep/folder_sdk.svg",
           "expanded": "./icons/deep/folder_sdk_open.svg"
         },
+        "develop": {
+          "collapsed": "./icons/deep/folder_sdk.svg",
+          "expanded": "./icons/deep/folder_sdk_open.svg"
+        },
+        "development": {
+          "collapsed": "./icons/deep/folder_sdk.svg",
+          "expanded": "./icons/deep/folder_sdk_open.svg"
+        },
+        "developments": {
+          "collapsed": "./icons/deep/folder_sdk.svg",
+          "expanded": "./icons/deep/folder_sdk_open.svg"
+        },
         "framework": {
           "collapsed": "./icons/deep/folder_sdk.svg",
           "expanded": "./icons/deep/folder_sdk_open.svg"
@@ -4442,10 +4534,537 @@
         "spellcheckers": {
           "collapsed": "./icons/deep/folder_syntax.svg",
           "expanded": "./icons/deep/folder_syntax_open.svg"
+        },
+        "internal": {
+          "collapsed": "./icons/deep/folder_internal.svg",
+          "expanded": "./icons/deep/folder_internal_open.svg"
+        },
+        "iternals": {
+          "collapsed": "./icons/deep/folder_internal.svg",
+          "expanded": "./icons/deep/folder_internal_open.svg"
+        },
+        ".cmake": {
+          "collapsed": "./icons/deep/folder_cmake.svg",
+          "expanded": "./icons/deep/folder_cmake_open.svg"
+        },
+        "cmake": {
+          "collapsed": "./icons/deep/folder_cmake.svg",
+          "expanded": "./icons/deep/folder_cmake_open.svg"
+        },
+        "instruction": {
+          "collapsed": "./icons/deep/folder_instruction.svg",
+          "expanded": "./icons/deep/folder_instruction_open.svg"
+        },
+        "instructions": {
+          "collapsed": "./icons/deep/folder_instruction.svg",
+          "expanded": "./icons/deep/folder_instruction_open.svg"
+        },
+        "curve": {
+          "collapsed": "./icons/deep/folder_curve.svg",
+          "expanded": "./icons/deep/folder_curve_open.svg"
+        },
+        "curves": {
+          "collapsed": "./icons/deep/folder_curve.svg",
+          "expanded": "./icons/deep/folder_curve_open.svg"
+        },
+        "animcurve": {
+          "collapsed": "./icons/deep/folder_curve.svg",
+          "expanded": "./icons/deep/folder_curve_open.svg"
+        },
+        "animcurves": {
+          "collapsed": "./icons/deep/folder_curve.svg",
+          "expanded": "./icons/deep/folder_curve_open.svg"
+        },
+        "note": {
+          "collapsed": "./icons/deep/folder_note.svg",
+          "expanded": "./icons/deep/folder_note_open.svg"
+        },
+        "notes": {
+          "collapsed": "./icons/deep/folder_note.svg",
+          "expanded": "./icons/deep/folder_note_open.svg"
+        },
+        "object": {
+          "collapsed": "./icons/deep/folder_object.svg",
+          "expanded": "./icons/deep/folder_object_open.svg"
+        },
+        "objects": {
+          "collapsed": "./icons/deep/folder_object.svg",
+          "expanded": "./icons/deep/folder_object_open.svg"
+        },
+        "particle": {
+          "collapsed": "./icons/deep/folder_particle.svg",
+          "expanded": "./icons/deep/folder_particle_open.svg"
+        },
+        "particles": {
+          "collapsed": "./icons/deep/folder_particle.svg",
+          "expanded": "./icons/deep/folder_particle_open.svg"
+        },
+        "path": {
+          "collapsed": "./icons/deep/folder_path.svg",
+          "expanded": "./icons/deep/folder_path_open.svg"
+        },
+        "paths": {
+          "collapsed": "./icons/deep/folder_path.svg",
+          "expanded": "./icons/deep/folder_path_open.svg"
+        },
+        "prefab": {
+          "collapsed": "./icons/deep/folder_prefab.svg",
+          "expanded": "./icons/deep/folder_prefab_open.svg"
+        },
+        "prefabs": {
+          "collapsed": "./icons/deep/folder_prefab.svg",
+          "expanded": "./icons/deep/folder_prefab_open.svg"
+        },
+        "room": {
+          "collapsed": "./icons/deep/folder_room.svg",
+          "expanded": "./icons/deep/folder_room_open.svg"
+        },
+        "rooms": {
+          "collapsed": "./icons/deep/folder_room.svg",
+          "expanded": "./icons/deep/folder_room_open.svg"
+        },
+        "sequence": {
+          "collapsed": "./icons/deep/folder_sequence.svg",
+          "expanded": "./icons/deep/folder_sequence_open.svg"
+        },
+        "sequences": {
+          "collapsed": "./icons/deep/folder_sequence.svg",
+          "expanded": "./icons/deep/folder_sequence_open.svg"
+        },
+        "sprite": {
+          "collapsed": "./icons/deep/folder_sprite.svg",
+          "expanded": "./icons/deep/folder_sprite_open.svg"
+        },
+        "sprites": {
+          "collapsed": "./icons/deep/folder_sprite.svg",
+          "expanded": "./icons/deep/folder_sprite_open.svg"
+        },
+        "tile": {
+          "collapsed": "./icons/deep/folder_tile.svg",
+          "expanded": "./icons/deep/folder_tile_open.svg"
+        },
+        "tiles": {
+          "collapsed": "./icons/deep/folder_tile.svg",
+          "expanded": "./icons/deep/folder_tile_open.svg"
+        },
+        "tileset": {
+          "collapsed": "./icons/deep/folder_tile.svg",
+          "expanded": "./icons/deep/folder_tile_open.svg"
+        },
+        "tilesets": {
+          "collapsed": "./icons/deep/folder_tile.svg",
+          "expanded": "./icons/deep/folder_tile_open.svg"
+        },
+        "option": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "options": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "pref": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "prefs": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "preference": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "preferences": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "props": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "properties": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "env": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "environments": {
+          "collapsed": "./icons/deep/folder_option.svg",
+          "expanded": "./icons/deep/folder_option_open.svg"
+        },
+        "swift": {
+          "collapsed": "./icons/deep/folder_swift.svg",
+          "expanded": "./icons/deep/folder_swift_open.svg"
+        },
+        "file": {
+          "collapsed": "./icons/deep/folder_files.svg",
+          "expanded": "./icons/deep/folder_files_open.svg"
+        },
+        "files": {
+          "collapsed": "./icons/deep/folder_files.svg",
+          "expanded": "./icons/deep/folder_files_open.svg"
+        },
+        ".bruno": {
+          "collapsed": "./icons/deep/folder_bruno.svg",
+          "expanded": "./icons/deep/folder_bruno_open.svg"
+        },
+        "bruno": {
+          "collapsed": "./icons/deep/folder_bruno.svg",
+          "expanded": "./icons/deep/folder_bruno_open.svg"
+        },
+        ".r": {
+          "collapsed": "./icons/deep/folder_r.svg",
+          "expanded": "./icons/deep/folder_r_open.svg"
+        },
+        "r": {
+          "collapsed": "./icons/deep/folder_r.svg",
+          "expanded": "./icons/deep/folder_r_open.svg"
+        },
+        "policy": {
+          "collapsed": "./icons/deep/folder_policy.svg",
+          "expanded": "./icons/deep/folder_policy_open.svg"
+        },
+        "policies": {
+          "collapsed": "./icons/deep/folder_policy.svg",
+          "expanded": "./icons/deep/folder_policy_open.svg"
+        },
+        "skeleton": {
+          "collapsed": "./icons/deep/folder_skeleton.svg",
+          "expanded": "./icons/deep/folder_skeleton_open.svg"
+        },
+        "skeletons": {
+          "collapsed": "./icons/deep/folder_skeleton.svg",
+          "expanded": "./icons/deep/folder_skeleton_open.svg"
+        },
+        ".codegraph": {
+          "collapsed": "./icons/deep/folder_codegraph.svg",
+          "expanded": "./icons/deep/folder_codegraph_open.svg"
+        },
+        "codegraph": {
+          "collapsed": "./icons/deep/folder_codegraph.svg",
+          "expanded": "./icons/deep/folder_codegraph_open.svg"
+        },
+        ".conductor": {
+          "collapsed": "./icons/deep/folder_conductor.svg",
+          "expanded": "./icons/deep/folder_conductor_open.svg"
+        },
+        "conductor": {
+          "collapsed": "./icons/deep/folder_conductor.svg",
+          "expanded": "./icons/deep/folder_conductor_open.svg"
+        },
+        ".webp": {
+          "collapsed": "./icons/deep/folder_webp.svg",
+          "expanded": "./icons/deep/folder_webp_open.svg"
+        },
+        "webp": {
+          "collapsed": "./icons/deep/folder_webp.svg",
+          "expanded": "./icons/deep/folder_webp_open.svg"
+        },
+        ".crush": {
+          "collapsed": "./icons/deep/folder_crush.svg",
+          "expanded": "./icons/deep/folder_crush_open.svg"
+        },
+        "crush": {
+          "collapsed": "./icons/deep/folder_crush.svg",
+          "expanded": "./icons/deep/folder_crush_open.svg"
+        },
+        ".grype": {
+          "collapsed": "./icons/deep/folder_grype.svg",
+          "expanded": "./icons/deep/folder_grype_open.svg"
+        },
+        "grype": {
+          "collapsed": "./icons/deep/folder_grype.svg",
+          "expanded": "./icons/deep/folder_grype_open.svg"
+        },
+        "prerelease": {
+          "collapsed": "./icons/deep/folder_prerelease.svg",
+          "expanded": "./icons/deep/folder_prerelease_open.svg"
+        },
+        "prereleases": {
+          "collapsed": "./icons/deep/folder_prerelease.svg",
+          "expanded": "./icons/deep/folder_prerelease_open.svg"
+        },
+        "pre-release": {
+          "collapsed": "./icons/deep/folder_prerelease.svg",
+          "expanded": "./icons/deep/folder_prerelease_open.svg"
+        },
+        "pre-releases": {
+          "collapsed": "./icons/deep/folder_prerelease.svg",
+          "expanded": "./icons/deep/folder_prerelease_open.svg"
+        },
+        "subproject": {
+          "collapsed": "./icons/deep/folder_subproject.svg",
+          "expanded": "./icons/deep/folder_subproject_open.svg"
+        },
+        "subprojects": {
+          "collapsed": "./icons/deep/folder_subproject.svg",
+          "expanded": "./icons/deep/folder_subproject_open.svg"
+        },
+        "sub-project": {
+          "collapsed": "./icons/deep/folder_subproject.svg",
+          "expanded": "./icons/deep/folder_subproject_open.svg"
+        },
+        "sub-projects": {
+          "collapsed": "./icons/deep/folder_subproject.svg",
+          "expanded": "./icons/deep/folder_subproject_open.svg"
+        },
+        ".omo": {
+          "collapsed": "./icons/deep/folder_omo.svg",
+          "expanded": "./icons/deep/folder_omo_open.svg"
+        },
+        "omo": {
+          "collapsed": "./icons/deep/folder_omo.svg",
+          "expanded": "./icons/deep/folder_omo_open.svg"
+        },
+        "artifact": {
+          "collapsed": "./icons/deep/folder_artifacts.svg",
+          "expanded": "./icons/deep/folder_artifacts_open.svg"
+        },
+        "artifacts": {
+          "collapsed": "./icons/deep/folder_artifacts.svg",
+          "expanded": "./icons/deep/folder_artifacts_open.svg"
+        },
+        "disk": {
+          "collapsed": "./icons/deep/folder_disk.svg",
+          "expanded": "./icons/deep/folder_disk_open.svg"
+        },
+        "disks": {
+          "collapsed": "./icons/deep/folder_disk.svg",
+          "expanded": "./icons/deep/folder_disk_open.svg"
+        },
+        "drive": {
+          "collapsed": "./icons/deep/folder_disk.svg",
+          "expanded": "./icons/deep/folder_disk_open.svg"
+        },
+        "drives": {
+          "collapsed": "./icons/deep/folder_disk.svg",
+          "expanded": "./icons/deep/folder_disk_open.svg"
+        },
+        "disc": {
+          "collapsed": "./icons/deep/folder_disc.svg",
+          "expanded": "./icons/deep/folder_disc_open.svg"
+        },
+        "discs": {
+          "collapsed": "./icons/deep/folder_disc.svg",
+          "expanded": "./icons/deep/folder_disc_open.svg"
+        },
+        "iso": {
+          "collapsed": "./icons/deep/folder_disc.svg",
+          "expanded": "./icons/deep/folder_disc_open.svg"
+        },
+        "deps": {
+          "collapsed": "./icons/deep/folder_deps.svg",
+          "expanded": "./icons/deep/folder_deps_open.svg"
+        },
+        "dependency": {
+          "collapsed": "./icons/deep/folder_deps.svg",
+          "expanded": "./icons/deep/folder_deps_open.svg"
+        },
+        ".reddit": {
+          "collapsed": "./icons/deep/folder_reddit.svg",
+          "expanded": "./icons/deep/folder_reddit_open.svg"
+        },
+        "reddit": {
+          "collapsed": "./icons/deep/folder_reddit.svg",
+          "expanded": "./icons/deep/folder_reddit_open.svg"
+        },
+        ".operagx": {
+          "collapsed": "./icons/deep/folder_operagx.svg",
+          "expanded": "./icons/deep/folder_operagx_open.svg"
+        },
+        "operagx": {
+          "collapsed": "./icons/deep/folder_operagx.svg",
+          "expanded": "./icons/deep/folder_operagx_open.svg"
+        },
+        "timeline": {
+          "collapsed": "./icons/deep/folder_timelines.svg",
+          "expanded": "./icons/deep/folder_timelines_open.svg"
+        },
+        "timelines": {
+          "collapsed": "./icons/deep/folder_timelines.svg",
+          "expanded": "./icons/deep/folder_timelines_open.svg"
+        },
+        ".railway": {
+          "collapsed": "./icons/deep/folder_railway.svg",
+          "expanded": "./icons/deep/folder_railway_open.svg"
+        },
+        "railway": {
+          "collapsed": "./icons/deep/folder_railway.svg",
+          "expanded": "./icons/deep/folder_railway_open.svg"
+        },
+        "gateway": {
+          "collapsed": "./icons/deep/folder_gateway.svg",
+          "expanded": "./icons/deep/folder_gateway_open.svg"
+        },
+        "gateways": {
+          "collapsed": "./icons/deep/folder_gateway.svg",
+          "expanded": "./icons/deep/folder_gateway_open.svg"
+        },
+        "registry": {
+          "collapsed": "./icons/deep/folder_registry.svg",
+          "expanded": "./icons/deep/folder_registry_open.svg"
+        },
+        "registries": {
+          "collapsed": "./icons/deep/folder_registry.svg",
+          "expanded": "./icons/deep/folder_registry_open.svg"
+        },
+        "price": {
+          "collapsed": "./icons/deep/folder_dollar.svg",
+          "expanded": "./icons/deep/folder_dollar_open.svg"
+        },
+        "prices": {
+          "collapsed": "./icons/deep/folder_dollar.svg",
+          "expanded": "./icons/deep/folder_dollar_open.svg"
+        },
+        "balance": {
+          "collapsed": "./icons/deep/folder_money.svg",
+          "expanded": "./icons/deep/folder_money_open.svg"
+        },
+        "balances": {
+          "collapsed": "./icons/deep/folder_money.svg",
+          "expanded": "./icons/deep/folder_money_open.svg"
+        },
+        ".mongodb": {
+          "collapsed": "./icons/deep/folder_mongodb.svg",
+          "expanded": "./icons/deep/folder_mongodb_open.svg"
+        },
+        "mongodb": {
+          "collapsed": "./icons/deep/folder_mongodb.svg",
+          "expanded": "./icons/deep/folder_mongodb_open.svg"
+        },
+        ".mongo": {
+          "collapsed": "./icons/deep/folder_mongodb.svg",
+          "expanded": "./icons/deep/folder_mongodb_open.svg"
+        },
+        "mongo": {
+          "collapsed": "./icons/deep/folder_mongodb.svg",
+          "expanded": "./icons/deep/folder_mongodb_open.svg"
+        },
+        ".redis": {
+          "collapsed": "./icons/deep/folder_redis.svg",
+          "expanded": "./icons/deep/folder_redis_open.svg"
+        },
+        "redis": {
+          "collapsed": "./icons/deep/folder_redis.svg",
+          "expanded": "./icons/deep/folder_redis_open.svg"
+        },
+        "bank": {
+          "collapsed": "./icons/deep/folder_bank.svg",
+          "expanded": "./icons/deep/folder_bank_open.svg"
+        },
+        "banks": {
+          "collapsed": "./icons/deep/folder_bank.svg",
+          "expanded": "./icons/deep/folder_bank_open.svg"
+        },
+        "banking": {
+          "collapsed": "./icons/deep/folder_bank.svg",
+          "expanded": "./icons/deep/folder_bank_open.svg"
+        },
+        ".vitest": {
+          "collapsed": "./icons/deep/folder_vitest.svg",
+          "expanded": "./icons/deep/folder_vitest_open.svg"
+        },
+        "vitest": {
+          "collapsed": "./icons/deep/folder_vitest.svg",
+          "expanded": "./icons/deep/folder_vitest_open.svg"
+        },
+        "cron": {
+          "collapsed": "./icons/deep/folder_cron.svg",
+          "expanded": "./icons/deep/folder_cron_open.svg"
+        },
+        "crons": {
+          "collapsed": "./icons/deep/folder_cron.svg",
+          "expanded": "./icons/deep/folder_cron_open.svg"
+        },
+        "scheduler": {
+          "collapsed": "./icons/deep/folder_cron.svg",
+          "expanded": "./icons/deep/folder_cron_open.svg"
+        },
+        "schedulers": {
+          "collapsed": "./icons/deep/folder_cron.svg",
+          "expanded": "./icons/deep/folder_cron_open.svg"
+        },
+        "cronjob": {
+          "collapsed": "./icons/deep/folder_cron.svg",
+          "expanded": "./icons/deep/folder_cron_open.svg"
+        },
+        "cronjobs": {
+          "collapsed": "./icons/deep/folder_cron.svg",
+          "expanded": "./icons/deep/folder_cron_open.svg"
+        },
+        "calc": {
+          "collapsed": "./icons/deep/folder_calculator.svg",
+          "expanded": "./icons/deep/folder_calculator_open.svg"
+        },
+        "calcs": {
+          "collapsed": "./icons/deep/folder_calculator.svg",
+          "expanded": "./icons/deep/folder_calculator_open.svg"
+        },
+        "calculation": {
+          "collapsed": "./icons/deep/folder_calculator.svg",
+          "expanded": "./icons/deep/folder_calculator_open.svg"
+        },
+        "calculations": {
+          "collapsed": "./icons/deep/folder_calculator.svg",
+          "expanded": "./icons/deep/folder_calculator_open.svg"
+        },
+        "accounting": {
+          "collapsed": "./icons/deep/folder_calculator.svg",
+          "expanded": "./icons/deep/folder_calculator_open.svg"
+        },
+        "cluster": {
+          "collapsed": "./icons/deep/folder_cluster.svg",
+          "expanded": "./icons/deep/folder_cluster_open.svg"
+        },
+        "clusters": {
+          "collapsed": "./icons/deep/folder_cluster.svg",
+          "expanded": "./icons/deep/folder_cluster_open.svg"
+        },
+        "clustering": {
+          "collapsed": "./icons/deep/folder_cluster.svg",
+          "expanded": "./icons/deep/folder_cluster_open.svg"
+        },
+        "embed": {
+          "collapsed": "./icons/deep/folder_embed.svg",
+          "expanded": "./icons/deep/folder_embed_open.svg"
+        },
+        "embeds": {
+          "collapsed": "./icons/deep/folder_embed.svg",
+          "expanded": "./icons/deep/folder_embed_open.svg"
+        },
+        "embedded": {
+          "collapsed": "./icons/deep/folder_embed.svg",
+          "expanded": "./icons/deep/folder_embed_open.svg"
+        },
+        "embedding": {
+          "collapsed": "./icons/deep/folder_embed.svg",
+          "expanded": "./icons/deep/folder_embed_open.svg"
+        },
+        "parser": {
+          "collapsed": "./icons/deep/folder_parser.svg",
+          "expanded": "./icons/deep/folder_parser_open.svg"
+        },
+        "parsers": {
+          "collapsed": "./icons/deep/folder_parser.svg",
+          "expanded": "./icons/deep/folder_parser_open.svg"
+        },
+        "parsing": {
+          "collapsed": "./icons/deep/folder_parser.svg",
+          "expanded": "./icons/deep/folder_parser_open.svg"
+        },
+        "cross": {
+          "collapsed": "./icons/deep/folder_cross.svg",
+          "expanded": "./icons/deep/folder_cross_open.svg"
+        },
+        "crosses": {
+          "collapsed": "./icons/deep/folder_cross.svg",
+          "expanded": "./icons/deep/folder_cross_open.svg"
         }
       },
       "file_stems": {
-        "AndroidManifest.xml": "android",
         ".angular-cli.json": "angular",
         "angular-cli.json": "angular",
         "angular.json": "angular",
@@ -4694,6 +5313,9 @@
         ".gitlab-ci.yml": "gitlab",
         ".gitpod.yaml": "gitpod",
         ".gitpod.yml": "gitpod",
+        ".gdignore": "godot_assets",
+        "._sc_": "godot_assets",
+        "_sc_": "godot_assets",
         "gradle.properties": "gradle",
         "gradlew": "gradlew",
         "gradle-wrapper.properties": "gradle",
@@ -4815,6 +5437,7 @@
         "licence.md": "license",
         "licence.rst": "license",
         "licence.txt": "license",
+        "eula.md": "license",
         ".liquidrc.json": "liquid",
         ".liquidrc": "liquid",
         "makefile": "makefile",
@@ -5235,9 +5858,9 @@
         "x_b": "3d",
         "x_t": "3d",
         "123dx": "3d",
+        "7z": "7zip",
+        "7zip": "7zip",
         "apk": "android",
-        "smali": "android",
-        "dex": "android",
         "ng-template": "angular",
         "applescript": "applescript",
         "ipa": "applescript",
@@ -5269,7 +5892,6 @@
         "awk": "bash",
         "c": "c",
         "i": "c",
-        "mi": "c",
         "cabal": "cabal",
         "cake": "cake",
         "clj": "clojure",
@@ -5304,21 +5926,19 @@
         "di": "d",
         "dart": "dart",
         "pdb": "database",
-        "sql": "database",
         "pks": "database",
         "pkb": "database",
-        "accdb": "database",
-        "mdb": "database",
-        "sqlite": "database",
-        "sqlite3": "database",
-        "pgsql": "database",
-        "postgres": "database",
-        "plpgsql": "database",
-        "psql": "database",
-        "db": "database",
-        "db3": "database",
         "dat": "hex",
-        "mysql": "database",
+        "debugsymbols": "database",
+        "odb": "database",
+        "bdb": "database",
+        "dbf": "database",
+        "fdb": "database",
+        "feather": "database",
+        "gdb": "database",
+        "ibd": "database",
+        "orc": "database",
+        "kdbx": "database",
         "diff": "diff",
         "patch": "diff",
         "iso": "disc",
@@ -5353,10 +5973,8 @@
         "fig": "figma",
         "woff": "font",
         "woff2": "font",
-        "ttf": "font",
         "eot": "font",
         "suit": "font",
-        "otf": "font",
         "bmap": "font",
         "fnt": "font",
         "odttf": "font",
@@ -5378,6 +5996,15 @@
         "fsproj": "fsharp",
         "gleam": "gleam",
         "go": "go",
+        "godot": "godot_assets",
+        "tres": "godot_assets",
+        "tscn": "godot_assets",
+        "gdns": "godot_assets",
+        "gdnlib": "godot_assets",
+        "gdshader": "godot_assets",
+        "gdshaderinc": "godot_assets",
+        "gdextension": "godot_assets",
+        "gd.uid": "godot_assets",
         "gd": "godot",
         "gradle": "gradle",
         "graphql": "graphql",
@@ -5450,7 +6077,6 @@
         "xcf": "image_alt_5",
         "png": "image",
         "apx": "image",
-        "webp": "image",
         "heif": "image",
         "heic": "image",
         "jar": "jar",
@@ -5483,7 +6109,6 @@
         "liquid": "liquid",
         "lisp": "lisp",
         "lsp": "lisp",
-        "cl": "lisp",
         "fast": "lisp",
         "lua": "lua",
         "luau": "luau",
@@ -5500,7 +6125,6 @@
         "mx": "matlab",
         "mx3": "matlab",
         "rwd": "matlab",
-        "slx": "matlab",
         "slddc": "matlab",
         "smv": "matlab",
         "xvc": "matlab",
@@ -5521,6 +6145,7 @@
         "openapi.json": "openapi",
         "openapi.yaml": "openapi",
         "openapi.yml": "openapi",
+        "otf": "otf",
         "pdf": "pdf",
         "pl": "perl",
         "pm": "perl",
@@ -5536,6 +6161,8 @@
         "pl6": "perl",
         "pm6": "perl",
         "php": "php",
+        "php4": "php",
+        "php5": "php",
         "pcss": "postcss",
         "sss": "postcss",
         "pptx": "powerpoint",
@@ -5549,6 +6176,12 @@
         "ppam": "powerpoint",
         "ppa": "powerpoint",
         "odp": "powerpoint",
+        "ps1": "powershell",
+        "psm1": "powershell",
+        "psd1": "powershell",
+        "ps1xml": "powershell",
+        "psc1": "powershell",
+        "pssc": "powershell",
         "pde": "processing",
         "p": "prolog",
         "pro": "prolog",
@@ -5568,8 +6201,10 @@
         "r": "r",
         "rmd": "r",
         "rkt": "racket",
+        "rar": "rar",
         "cshtml": "razor",
         "vbhtml": "razor",
+        "razor": "razor",
         "tsx": "react_ts",
         "jsx": "react",
         "readme": "readme",
@@ -5630,6 +6265,7 @@
         "xlsx": "table",
         "xlsm": "table",
         "xls": "table",
+        "tar": "tar",
         "tmpl": "templ",
         "templ": "templ",
         "gotmpl": "templ",
@@ -5663,6 +6299,7 @@
         "toml": "toml",
         "tree": "tree",
         "tsconfig.json": "tsconfig",
+        "ttf": "ttf",
         "env": "tune",
         "twig": "twig",
         "tw": "twine",
@@ -5718,6 +6355,7 @@
         "vue": "vue",
         "wat": "webassembly",
         "wasm": "webassembly",
+        "webp": "webp",
         "doc": "word",
         "docx": "word",
         "rtf": "word",
@@ -5739,7 +6377,6 @@
         "yang": "yang",
         "zig": "zig",
         "zon": "zig",
-        "7z": "zip",
         "br": "zip",
         "brotli": "zip",
         "bz2": "zip",
@@ -5750,8 +6387,6 @@
         "lz": "zip",
         "lz4": "zip",
         "lzma": "zip",
-        "rar": "zip",
-        "tar": "zip",
         "tgz": "zip",
         "txz": "zip",
         "tz": "zip",
@@ -5763,641 +6398,365 @@
         "default": {
           "path": "./icons/deep/file.svg"
         },
-        "openapi": {
-          "path": "./icons/deep/openapi.svg"
-        },
-        "robot": {
-          "path": "./icons/deep/robot.svg"
-        },
-        "groovy": {
-          "path": "./icons/deep/groovy.svg"
-        },
-        "eslint_ignore": {
-          "path": "./icons/deep/eslint_ignore.svg"
-        },
-        "stylus": {
-          "path": "./icons/deep/stylus.svg"
-        },
-        "angular": {
-          "path": "./icons/deep/angular.svg"
-        },
-        "lisp": {
-          "path": "./icons/deep/lisp.svg"
-        },
-        "i18n": {
-          "path": "./icons/deep/i18n.svg"
-        },
-        "jinja": {
-          "path": "./icons/deep/jinja.svg"
-        },
-        "coffee": {
-          "path": "./icons/deep/coffee.svg"
-        },
-        "slim": {
-          "path": "./icons/deep/slim.svg"
-        },
-        "ruby": {
-          "path": "./icons/deep/ruby.svg"
-        },
-        "issues": {
-          "path": "./icons/deep/issues.svg"
-        },
-        "makefile": {
-          "path": "./icons/deep/makefile.svg"
-        },
-        "javascript": {
-          "path": "./icons/deep/javascript.svg"
-        },
-        "templ": {
-          "path": "./icons/deep/templ.svg"
-        },
-        "terraform": {
-          "path": "./icons/deep/terraform.svg"
-        },
-        "jupyter": {
-          "path": "./icons/deep/jupyter.svg"
-        },
-        "audio": {
-          "path": "./icons/deep/audio.svg"
-        },
-        "zip": {
-          "path": "./icons/deep/zip.svg"
-        },
-        "figma": {
-          "path": "./icons/deep/figma.svg"
-        },
-        "html": {
-          "path": "./icons/deep/html.svg"
-        },
-        "drone": {
-          "path": "./icons/deep/drone.svg"
-        },
-        "image_alt_5": {
-          "path": "./icons/deep/image_alt_5.svg"
-        },
-        "jar": {
-          "path": "./icons/deep/jar.svg"
-        },
-        "scala": {
-          "path": "./icons/deep/scala.svg"
-        },
-        "table": {
-          "path": "./icons/deep/table.svg"
-        },
-        "reason": {
-          "path": "./icons/deep/reason.svg"
-        },
-        "cursor": {
-          "path": "./icons/deep/cursor.svg"
-        },
-        "javascript_map": {
-          "path": "./icons/deep/javascript_map.svg"
-        },
-        "editorconfig": {
-          "path": "./icons/deep/editorconfig.svg"
-        },
-        "puppet": {
-          "path": "./icons/deep/puppet.svg"
-        },
-        "git_ignore": {
-          "path": "./icons/deep/git_ignore.svg"
-        },
-        "tree": {
-          "path": "./icons/deep/tree.svg"
-        },
-        "cabal": {
-          "path": "./icons/deep/cabal.svg"
-        },
-        "azure_pipelines": {
-          "path": "./icons/deep/azure_pipelines.svg"
-        },
-        "license": {
-          "path": "./icons/deep/license.svg"
-        },
-        "vue_config": {
-          "path": "./icons/deep/vue_config.svg"
-        },
-        "tex": {
-          "path": "./icons/deep/tex.svg"
-        },
-        "python": {
-          "path": "./icons/deep/python.svg"
-        },
-        "tune": {
-          "path": "./icons/deep/tune.svg"
-        },
-        "graphql": {
-          "path": "./icons/deep/graphql.svg"
-        },
-        "qsharp": {
-          "path": "./icons/deep/qsharp.svg"
-        },
-        "c": {
-          "path": "./icons/deep/c.svg"
-        },
-        "typescript_def": {
-          "path": "./icons/deep/typescript_def.svg"
-        },
-        "cake": {
-          "path": "./icons/deep/cake.svg"
-        },
-        "typst": {
-          "path": "./icons/deep/typst.svg"
-        },
-        "go": {
-          "path": "./icons/deep/go.svg"
-        },
-        "powerpoint": {
-          "path": "./icons/deep/powerpoint.svg"
-        },
-        "zig": {
-          "path": "./icons/deep/zig.svg"
-        },
-        "document": {
-          "path": "./icons/deep/document.svg"
-        },
-        "word": {
-          "path": "./icons/deep/word.svg"
-        },
-        "image_alt_3": {
-          "path": "./icons/deep/image_alt_3.svg"
-        },
-        "cmake": {
-          "path": "./icons/deep/cmake.svg"
-        },
-        "webassembly": {
-          "path": "./icons/deep/webassembly.svg"
-        },
-        "diff": {
-          "path": "./icons/deep/diff.svg"
-        },
-        "gitlab": {
-          "path": "./icons/deep/gitlab.svg"
-        },
-        "changelog": {
-          "path": "./icons/deep/changelog.svg"
-        },
-        "yang": {
-          "path": "./icons/deep/yang.svg"
-        },
-        "markdown": {
-          "path": "./icons/deep/markdown.svg"
-        },
-        "cuda": {
-          "path": "./icons/deep/cuda.svg"
-        },
-        "javaclass": {
-          "path": "./icons/deep/javaclass.svg"
-        },
-        "java_misc": {
-          "path": "./icons/deep/java_misc.svg"
-        },
-        "image_alt_4": {
-          "path": "./icons/deep/image_alt_4.svg"
-        },
-        "tailwindcss": {
-          "path": "./icons/deep/tailwindcss.svg"
-        },
-        "java": {
-          "path": "./icons/deep/java.svg"
-        },
-        "bun": {
-          "path": "./icons/deep/bun.svg"
-        },
-        "twig": {
-          "path": "./icons/deep/twig.svg"
-        },
-        "csv": {
-          "path": "./icons/deep/csv.svg"
-        },
-        "deno_lock": {
-          "path": "./icons/deep/deno_lock.svg"
-        },
-        "prettier_ignore": {
-          "path": "./icons/deep/prettier_ignore.svg"
-        },
-        "python_misc": {
-          "path": "./icons/deep/python_misc.svg"
-        },
-        "svelte": {
-          "path": "./icons/deep/svelte.svg"
-        },
-        "yaml": {
-          "path": "./icons/deep/yaml.svg"
-        },
-        "faq": {
-          "path": "./icons/deep/faq.svg"
-        },
-        "vala": {
-          "path": "./icons/deep/vala.svg"
-        },
-        "ballerina": {
-          "path": "./icons/deep/ballerina.svg"
-        },
-        "docker_ignore": {
-          "path": "./icons/deep/docker_ignore.svg"
-        },
-        "red": {
-          "path": "./icons/deep/red.svg"
+        "3d": {
+          "path": "./icons/deep/3d.svg"
+        },
+        "7zip": {
+          "path": "./icons/deep/7zip.svg"
         },
         "android": {
           "path": "./icons/deep/android.svg"
         },
-        "objective_c": {
-          "path": "./icons/deep/objective_c.svg"
-        },
-        "astro": {
-          "path": "./icons/deep/astro.svg"
-        },
-        "bash": {
-          "path": "./icons/deep/bash.svg"
-        },
-        "video": {
-          "path": "./icons/deep/video.svg"
-        },
-        "elm": {
-          "path": "./icons/deep/elm.svg"
-        },
-        "sass": {
-          "path": "./icons/deep/sass.svg"
-        },
-        "architecture": {
-          "path": "./icons/deep/architecture.svg"
-        },
-        "json": {
-          "path": "./icons/deep/json.svg"
-        },
-        "nunjucks": {
-          "path": "./icons/deep/nunjucks.svg"
-        },
-        "d": {
-          "path": "./icons/deep/d.svg"
-        },
-        "opa": {
-          "path": "./icons/deep/opa.svg"
-        },
-        "smarty": {
-          "path": "./icons/deep/smarty.svg"
-        },
-        "typescript": {
-          "path": "./icons/deep/typescript.svg"
-        },
-        "gradlew": {
-          "path": "./icons/deep/gradlew.svg"
-        },
-        "godot": {
-          "path": "./icons/deep/godot.svg"
-        },
-        "swift": {
-          "path": "./icons/deep/swift.svg"
-        },
-        "erlang": {
-          "path": "./icons/deep/erlang.svg"
-        },
-        "julia": {
-          "path": "./icons/deep/julia.svg"
-        },
-        "rust": {
-          "path": "./icons/deep/rust.svg"
-        },
-        "tsconfig": {
-          "path": "./icons/deep/tsconfig.svg"
-        },
-        "database": {
-          "path": "./icons/deep/database.svg"
-        },
-        "pug": {
-          "path": "./icons/deep/pug.svg"
-        },
-        "css_map": {
-          "path": "./icons/deep/css_map.svg"
-        },
-        "kotlin": {
-          "path": "./icons/deep/kotlin.svg"
-        },
-        "mathematica": {
-          "path": "./icons/deep/mathematica.svg"
-        },
-        "helm": {
-          "path": "./icons/deep/helm.svg"
-        },
-        "jest": {
-          "path": "./icons/deep/jest.svg"
+        "angular": {
+          "path": "./icons/deep/angular.svg"
         },
         "applescript": {
           "path": "./icons/deep/applescript.svg"
         },
-        "laravel": {
-          "path": "./icons/deep/laravel.svg"
+        "architecture": {
+          "path": "./icons/deep/architecture.svg"
         },
-        "react_ts": {
-          "path": "./icons/deep/react_ts.svg"
+        "astro": {
+          "path": "./icons/deep/astro.svg"
         },
-        "vue": {
-          "path": "./icons/deep/vue.svg"
-        },
-        "pnpm": {
-          "path": "./icons/deep/pnpm.svg"
-        },
-        "svg": {
-          "path": "./icons/deep/svg.svg"
-        },
-        "jsconfig": {
-          "path": "./icons/deep/jsconfig.svg"
-        },
-        "font": {
-          "path": "./icons/deep/font.svg"
-        },
-        "phpstan": {
-          "path": "./icons/deep/phpstan.svg"
-        },
-        "http": {
-          "path": "./icons/deep/http.svg"
-        },
-        "django": {
-          "path": "./icons/deep/django.svg"
-        },
-        "npm_lock": {
-          "path": "./icons/deep/npm_lock.svg"
-        },
-        "processing": {
-          "path": "./icons/deep/processing.svg"
-        },
-        "readme": {
-          "path": "./icons/deep/readme.svg"
-        },
-        "image": {
-          "path": "./icons/deep/image.svg"
-        },
-        "cpp": {
-          "path": "./icons/deep/cpp.svg"
-        },
-        "haskell": {
-          "path": "./icons/deep/haskell.svg"
-        },
-        "image_alt_2": {
-          "path": "./icons/deep/image_alt_2.svg"
-        },
-        "nix": {
-          "path": "./icons/deep/nix.svg"
-        },
-        "bitbucket": {
-          "path": "./icons/deep/bitbucket.svg"
-        },
-        "phpunit": {
-          "path": "./icons/deep/phpunit.svg"
-        },
-        "gradle": {
-          "path": "./icons/deep/gradle.svg"
-        },
-        "r": {
-          "path": "./icons/deep/r.svg"
-        },
-        "storybook": {
-          "path": "./icons/deep/storybook.svg"
+        "audio": {
+          "path": "./icons/deep/audio.svg"
         },
         "authors": {
           "path": "./icons/deep/authors.svg"
         },
-        "stylelint_ignore": {
-          "path": "./icons/deep/stylelint_ignore.svg"
+        "autohotkey": {
+          "path": "./icons/deep/autohotkey.svg"
         },
-        "vscode": {
-          "path": "./icons/deep/vscode.svg"
-        },
-        "xmake": {
-          "path": "./icons/deep/xmake.svg"
-        },
-        "cargo": {
-          "path": "./icons/deep/cargo.svg"
-        },
-        "3d": {
-          "path": "./icons/deep/3d.svg"
-        },
-        "clojurescript": {
-          "path": "./icons/deep/clojurescript.svg"
-        },
-        "rescript": {
-          "path": "./icons/deep/rescript.svg"
-        },
-        "pdf": {
-          "path": "./icons/deep/pdf.svg"
-        },
-        "react": {
-          "path": "./icons/deep/react.svg"
-        },
-        "javascript_other": {
-          "path": "./icons/deep/javascript_other.svg"
-        },
-        "luau": {
-          "path": "./icons/deep/luau.svg"
-        },
-        "docker": {
-          "path": "./icons/deep/docker.svg"
-        },
-        "haml": {
-          "path": "./icons/deep/haml.svg"
-        },
-        "xml": {
-          "path": "./icons/deep/xml.svg"
-        },
-        "unity": {
-          "path": "./icons/deep/unity.svg"
-        },
-        "fsharp": {
-          "path": "./icons/deep/fsharp.svg"
-        },
-        "stylelint": {
-          "path": "./icons/deep/stylelint.svg"
-        },
-        "postcss": {
-          "path": "./icons/deep/postcss.svg"
-        },
-        "git": {
-          "path": "./icons/deep/git.svg"
-        },
-        "nim": {
-          "path": "./icons/deep/nim.svg"
-        },
-        "scheme": {
-          "path": "./icons/deep/scheme.svg"
-        },
-        "cypress": {
-          "path": "./icons/deep/cypress.svg"
-        },
-        "cargo_lock": {
-          "path": "./icons/deep/cargo_lock.svg"
-        },
-        "settings": {
-          "path": "./icons/deep/settings.svg"
-        },
-        "twine": {
-          "path": "./icons/deep/twine.svg"
-        },
-        "docker_compose": {
-          "path": "./icons/deep/docker_compose.svg"
-        },
-        "toml": {
-          "path": "./icons/deep/toml.svg"
-        },
-        "codeowners": {
-          "path": "./icons/deep/codeowners.svg"
-        },
-        "csharp": {
-          "path": "./icons/deep/csharp.svg"
-        },
-        "disc": {
-          "path": "./icons/deep/disc.svg"
-        },
-        "solidity": {
-          "path": "./icons/deep/solidity.svg"
-        },
-        "verilog": {
-          "path": "./icons/deep/verilog.svg"
-        },
-        "circleci": {
-          "path": "./icons/deep/circleci.svg"
-        },
-        "doxygen": {
-          "path": "./icons/deep/doxygen.svg"
-        },
-        "gitpod": {
-          "path": "./icons/deep/gitpod.svg"
-        },
-        "perl": {
-          "path": "./icons/deep/perl.svg"
-        },
-        "npm": {
-          "path": "./icons/deep/npm.svg"
-        },
-        "vim": {
-          "path": "./icons/deep/vim.svg"
-        },
-        "contributing": {
-          "path": "./icons/deep/contributing.svg"
-        },
-        "prolog": {
-          "path": "./icons/deep/prolog.svg"
-        },
-        "liquid": {
-          "path": "./icons/deep/liquid.svg"
-        },
-        "nodejs": {
-          "path": "./icons/deep/nodejs.svg"
-        },
-        "test_ts": {
-          "path": "./icons/deep/test_ts.svg"
-        },
-        "yarn_lock": {
-          "path": "./icons/deep/yarn_lock.svg"
-        },
-        "vlang": {
-          "path": "./icons/deep/vlang.svg"
-        },
-        "haxe": {
-          "path": "./icons/deep/haxe.svg"
-        },
-        "fortran": {
-          "path": "./icons/deep/fortran.svg"
-        },
-        "ocaml": {
-          "path": "./icons/deep/ocaml.svg"
-        },
-        "cobol": {
-          "path": "./icons/deep/cobol.svg"
-        },
-        "deno": {
-          "path": "./icons/deep/deno.svg"
-        },
-        "css": {
-          "path": "./icons/deep/css.svg"
-        },
-        "racket": {
-          "path": "./icons/deep/racket.svg"
+        "azure_pipelines": {
+          "path": "./icons/deep/azure_pipelines.svg"
         },
         "babel": {
           "path": "./icons/deep/babel.svg"
         },
-        "autohotkey": {
-          "path": "./icons/deep/autohotkey.svg"
+        "ballerina": {
+          "path": "./icons/deep/ballerina.svg"
         },
-        "dart": {
-          "path": "./icons/deep/dart.svg"
+        "bash": {
+          "path": "./icons/deep/bash.svg"
         },
-        "nginx": {
-          "path": "./icons/deep/nginx.svg"
-        },
-        "clojure": {
-          "path": "./icons/deep/clojure.svg"
-        },
-        "less": {
-          "path": "./icons/deep/less.svg"
-        },
-        "python_compiled": {
-          "path": "./icons/deep/python_compiled.svg"
-        },
-        "email": {
-          "path": "./icons/deep/email.svg"
-        },
-        "handlebars": {
-          "path": "./icons/deep/handlebars.svg"
-        },
-        "elixir": {
-          "path": "./icons/deep/elixir.svg"
-        },
-        "opam": {
-          "path": "./icons/deep/opam.svg"
+        "bitbucket": {
+          "path": "./icons/deep/bitbucket.svg"
         },
         "bun_lock": {
           "path": "./icons/deep/bun_lock.svg"
         },
-        "lua": {
-          "path": "./icons/deep/lua.svg"
+        "bun": {
+          "path": "./icons/deep/bun.svg"
         },
-        "slint": {
-          "path": "./icons/deep/slint.svg"
+        "c": {
+          "path": "./icons/deep/c.svg"
         },
-        "template": {
-          "path": "./icons/deep/template.svg"
+        "cabal": {
+          "path": "./icons/deep/cabal.svg"
+        },
+        "cake": {
+          "path": "./icons/deep/cake.svg"
+        },
+        "cargo_lock": {
+          "path": "./icons/deep/cargo_lock.svg"
+        },
+        "cargo": {
+          "path": "./icons/deep/cargo.svg"
+        },
+        "changelog": {
+          "path": "./icons/deep/changelog.svg"
+        },
+        "circleci": {
+          "path": "./icons/deep/circleci.svg"
         },
         "claude": {
           "path": "./icons/deep/claude.svg"
         },
-        "php": {
-          "path": "./icons/deep/php.svg"
+        "clojure": {
+          "path": "./icons/deep/clojure.svg"
         },
-        "pre_commit": {
-          "path": "./icons/deep/pre_commit.svg"
+        "clojurescript": {
+          "path": "./icons/deep/clojurescript.svg"
         },
-        "support": {
-          "path": "./icons/deep/support.svg"
+        "cmake": {
+          "path": "./icons/deep/cmake.svg"
         },
-        "razor": {
-          "path": "./icons/deep/razor.svg"
+        "cobol": {
+          "path": "./icons/deep/cobol.svg"
         },
-        "prettier": {
-          "path": "./icons/deep/prettier.svg"
+        "codeowners": {
+          "path": "./icons/deep/codeowners.svg"
         },
-        "webpack": {
-          "path": "./icons/deep/webpack.svg"
+        "coffee": {
+          "path": "./icons/deep/coffee.svg"
         },
-        "yarn": {
-          "path": "./icons/deep/yarn.svg"
+        "contributing": {
+          "path": "./icons/deep/contributing.svg"
         },
-        "sketch": {
-          "path": "./icons/deep/sketch.svg"
+        "cpp": {
+          "path": "./icons/deep/cpp.svg"
+        },
+        "csharp": {
+          "path": "./icons/deep/csharp.svg"
+        },
+        "css_map": {
+          "path": "./icons/deep/css_map.svg"
+        },
+        "css": {
+          "path": "./icons/deep/css.svg"
+        },
+        "csv": {
+          "path": "./icons/deep/csv.svg"
+        },
+        "cuda": {
+          "path": "./icons/deep/cuda.svg"
+        },
+        "cursor": {
+          "path": "./icons/deep/cursor.svg"
+        },
+        "cypress": {
+          "path": "./icons/deep/cypress.svg"
+        },
+        "d": {
+          "path": "./icons/deep/d.svg"
+        },
+        "dart": {
+          "path": "./icons/deep/dart.svg"
+        },
+        "database": {
+          "path": "./icons/deep/database.svg"
+        },
+        "deno_lock": {
+          "path": "./icons/deep/deno_lock.svg"
+        },
+        "deno": {
+          "path": "./icons/deep/deno.svg"
+        },
+        "diff": {
+          "path": "./icons/deep/diff.svg"
+        },
+        "disc": {
+          "path": "./icons/deep/disc.svg"
+        },
+        "django": {
+          "path": "./icons/deep/django.svg"
+        },
+        "docker_compose": {
+          "path": "./icons/deep/docker_compose.svg"
+        },
+        "docker_ignore": {
+          "path": "./icons/deep/docker_ignore.svg"
+        },
+        "docker": {
+          "path": "./icons/deep/docker.svg"
+        },
+        "document": {
+          "path": "./icons/deep/document.svg"
+        },
+        "doxygen": {
+          "path": "./icons/deep/doxygen.svg"
+        },
+        "drone": {
+          "path": "./icons/deep/drone.svg"
+        },
+        "editorconfig": {
+          "path": "./icons/deep/editorconfig.svg"
+        },
+        "ejs": {
+          "path": "./icons/deep/ejs.svg"
+        },
+        "elixir": {
+          "path": "./icons/deep/elixir.svg"
+        },
+        "elm": {
+          "path": "./icons/deep/elm.svg"
+        },
+        "email": {
+          "path": "./icons/deep/email.svg"
+        },
+        "erlang": {
+          "path": "./icons/deep/erlang.svg"
+        },
+        "eslint_ignore": {
+          "path": "./icons/deep/eslint_ignore.svg"
+        },
+        "eslint": {
+          "path": "./icons/deep/eslint.svg"
+        },
+        "faq": {
+          "path": "./icons/deep/faq.svg"
+        },
+        "figma": {
+          "path": "./icons/deep/figma.svg"
+        },
+        "font": {
+          "path": "./icons/deep/font.svg"
+        },
+        "fortran": {
+          "path": "./icons/deep/fortran.svg"
+        },
+        "fsharp": {
+          "path": "./icons/deep/fsharp.svg"
+        },
+        "git_ignore": {
+          "path": "./icons/deep/git_ignore.svg"
+        },
+        "git": {
+          "path": "./icons/deep/git.svg"
+        },
+        "gitlab": {
+          "path": "./icons/deep/gitlab.svg"
+        },
+        "gitpod": {
+          "path": "./icons/deep/gitpod.svg"
+        },
+        "gleam": {
+          "path": "./icons/deep/gleam.svg"
+        },
+        "go": {
+          "path": "./icons/deep/go.svg"
+        },
+        "godot_assets": {
+          "path": "./icons/deep/godot_assets.svg"
+        },
+        "godot": {
+          "path": "./icons/deep/godot.svg"
+        },
+        "gradle": {
+          "path": "./icons/deep/gradle.svg"
+        },
+        "gradlew": {
+          "path": "./icons/deep/gradlew.svg"
+        },
+        "graphql": {
+          "path": "./icons/deep/graphql.svg"
+        },
+        "groovy": {
+          "path": "./icons/deep/groovy.svg"
+        },
+        "haml": {
+          "path": "./icons/deep/haml.svg"
+        },
+        "handlebars": {
+          "path": "./icons/deep/handlebars.svg"
+        },
+        "haskell": {
+          "path": "./icons/deep/haskell.svg"
+        },
+        "haxe": {
+          "path": "./icons/deep/haxe.svg"
+        },
+        "helm": {
+          "path": "./icons/deep/helm.svg"
         },
         "hex": {
           "path": "./icons/deep/hex.svg"
         },
-        "pnpm_lock": {
-          "path": "./icons/deep/pnpm_lock.svg"
+        "html": {
+          "path": "./icons/deep/html.svg"
         },
-        "purescript": {
-          "path": "./icons/deep/purescript.svg"
+        "http": {
+          "path": "./icons/deep/http.svg"
         },
-        "gleam": {
-          "path": "./icons/deep/gleam.svg"
+        "i18n": {
+          "path": "./icons/deep/i18n.svg"
+        },
+        "image_alt_2": {
+          "path": "./icons/deep/image_alt_2.svg"
+        },
+        "image_alt_3": {
+          "path": "./icons/deep/image_alt_3.svg"
+        },
+        "image_alt_4": {
+          "path": "./icons/deep/image_alt_4.svg"
+        },
+        "image_alt_5": {
+          "path": "./icons/deep/image_alt_5.svg"
+        },
+        "image": {
+          "path": "./icons/deep/image.svg"
+        },
+        "issues": {
+          "path": "./icons/deep/issues.svg"
+        },
+        "jar": {
+          "path": "./icons/deep/jar.svg"
+        },
+        "java_misc": {
+          "path": "./icons/deep/java_misc.svg"
+        },
+        "java": {
+          "path": "./icons/deep/java.svg"
+        },
+        "javaclass": {
+          "path": "./icons/deep/javaclass.svg"
+        },
+        "javascript_map": {
+          "path": "./icons/deep/javascript_map.svg"
+        },
+        "javascript_other": {
+          "path": "./icons/deep/javascript_other.svg"
+        },
+        "javascript": {
+          "path": "./icons/deep/javascript.svg"
+        },
+        "jest": {
+          "path": "./icons/deep/jest.svg"
+        },
+        "jinja": {
+          "path": "./icons/deep/jinja.svg"
+        },
+        "jsconfig": {
+          "path": "./icons/deep/jsconfig.svg"
+        },
+        "json": {
+          "path": "./icons/deep/json.svg"
+        },
+        "julia": {
+          "path": "./icons/deep/julia.svg"
+        },
+        "jupyter": {
+          "path": "./icons/deep/jupyter.svg"
+        },
+        "kotlin": {
+          "path": "./icons/deep/kotlin.svg"
+        },
+        "laravel": {
+          "path": "./icons/deep/laravel.svg"
+        },
+        "lean": {
+          "path": "./icons/deep/lean.svg"
+        },
+        "less": {
+          "path": "./icons/deep/less.svg"
+        },
+        "license": {
+          "path": "./icons/deep/license.svg"
+        },
+        "liquid": {
+          "path": "./icons/deep/liquid.svg"
+        },
+        "lisp": {
+          "path": "./icons/deep/lisp.svg"
+        },
+        "lua": {
+          "path": "./icons/deep/lua.svg"
+        },
+        "luau": {
+          "path": "./icons/deep/luau.svg"
+        },
+        "makefile": {
+          "path": "./icons/deep/makefile.svg"
+        },
+        "markdown": {
+          "path": "./icons/deep/markdown.svg"
+        },
+        "mathematica": {
+          "path": "./icons/deep/mathematica.svg"
+        },
+        "matlab": {
+          "path": "./icons/deep/matlab.svg"
         },
         "mdx": {
           "path": "./icons/deep/mdx.svg"
@@ -6405,20 +6764,320 @@
         "mocha": {
           "path": "./icons/deep/mocha.svg"
         },
+        "nginx": {
+          "path": "./icons/deep/nginx.svg"
+        },
+        "nim": {
+          "path": "./icons/deep/nim.svg"
+        },
+        "nix": {
+          "path": "./icons/deep/nix.svg"
+        },
+        "nodejs": {
+          "path": "./icons/deep/nodejs.svg"
+        },
+        "npm_lock": {
+          "path": "./icons/deep/npm_lock.svg"
+        },
+        "npm": {
+          "path": "./icons/deep/npm.svg"
+        },
+        "nunjucks": {
+          "path": "./icons/deep/nunjucks.svg"
+        },
+        "objective_c": {
+          "path": "./icons/deep/objective_c.svg"
+        },
+        "ocaml": {
+          "path": "./icons/deep/ocaml.svg"
+        },
+        "opa": {
+          "path": "./icons/deep/opa.svg"
+        },
+        "opam": {
+          "path": "./icons/deep/opam.svg"
+        },
+        "openapi": {
+          "path": "./icons/deep/openapi.svg"
+        },
+        "otf": {
+          "path": "./icons/deep/otf.svg"
+        },
+        "pdf": {
+          "path": "./icons/deep/pdf.svg"
+        },
+        "perl": {
+          "path": "./icons/deep/perl.svg"
+        },
+        "php": {
+          "path": "./icons/deep/php.svg"
+        },
+        "phpstan": {
+          "path": "./icons/deep/phpstan.svg"
+        },
+        "phpunit": {
+          "path": "./icons/deep/phpunit.svg"
+        },
+        "pnpm_lock": {
+          "path": "./icons/deep/pnpm_lock.svg"
+        },
+        "pnpm": {
+          "path": "./icons/deep/pnpm.svg"
+        },
+        "postcss": {
+          "path": "./icons/deep/postcss.svg"
+        },
+        "powerpoint": {
+          "path": "./icons/deep/powerpoint.svg"
+        },
+        "powershell": {
+          "path": "./icons/deep/powershell.svg"
+        },
+        "pre_commit": {
+          "path": "./icons/deep/pre_commit.svg"
+        },
+        "prettier_ignore": {
+          "path": "./icons/deep/prettier_ignore.svg"
+        },
+        "prettier": {
+          "path": "./icons/deep/prettier.svg"
+        },
+        "processing": {
+          "path": "./icons/deep/processing.svg"
+        },
+        "prolog": {
+          "path": "./icons/deep/prolog.svg"
+        },
         "proto": {
           "path": "./icons/deep/proto.svg"
         },
-        "matlab": {
-          "path": "./icons/deep/matlab.svg"
+        "pug": {
+          "path": "./icons/deep/pug.svg"
         },
-        "lean": {
-          "path": "./icons/deep/lean.svg"
+        "puppet": {
+          "path": "./icons/deep/puppet.svg"
         },
-        "eslint": {
-          "path": "./icons/deep/eslint.svg"
+        "purescript": {
+          "path": "./icons/deep/purescript.svg"
         },
-        "ejs": {
-          "path": "./icons/deep/ejs.svg"
+        "python_compiled": {
+          "path": "./icons/deep/python_compiled.svg"
+        },
+        "python_misc": {
+          "path": "./icons/deep/python_misc.svg"
+        },
+        "python": {
+          "path": "./icons/deep/python.svg"
+        },
+        "qsharp": {
+          "path": "./icons/deep/qsharp.svg"
+        },
+        "r": {
+          "path": "./icons/deep/r.svg"
+        },
+        "racket": {
+          "path": "./icons/deep/racket.svg"
+        },
+        "rar": {
+          "path": "./icons/deep/rar.svg"
+        },
+        "razor": {
+          "path": "./icons/deep/razor.svg"
+        },
+        "react_ts": {
+          "path": "./icons/deep/react_ts.svg"
+        },
+        "react": {
+          "path": "./icons/deep/react.svg"
+        },
+        "readme": {
+          "path": "./icons/deep/readme.svg"
+        },
+        "reason": {
+          "path": "./icons/deep/reason.svg"
+        },
+        "red": {
+          "path": "./icons/deep/red.svg"
+        },
+        "rescript": {
+          "path": "./icons/deep/rescript.svg"
+        },
+        "robot": {
+          "path": "./icons/deep/robot.svg"
+        },
+        "ruby": {
+          "path": "./icons/deep/ruby.svg"
+        },
+        "rust": {
+          "path": "./icons/deep/rust.svg"
+        },
+        "sass": {
+          "path": "./icons/deep/sass.svg"
+        },
+        "scala": {
+          "path": "./icons/deep/scala.svg"
+        },
+        "scheme": {
+          "path": "./icons/deep/scheme.svg"
+        },
+        "settings": {
+          "path": "./icons/deep/settings.svg"
+        },
+        "sketch": {
+          "path": "./icons/deep/sketch.svg"
+        },
+        "slim": {
+          "path": "./icons/deep/slim.svg"
+        },
+        "slint": {
+          "path": "./icons/deep/slint.svg"
+        },
+        "smarty": {
+          "path": "./icons/deep/smarty.svg"
+        },
+        "solidity": {
+          "path": "./icons/deep/solidity.svg"
+        },
+        "storybook": {
+          "path": "./icons/deep/storybook.svg"
+        },
+        "stylelint_ignore": {
+          "path": "./icons/deep/stylelint_ignore.svg"
+        },
+        "stylelint": {
+          "path": "./icons/deep/stylelint.svg"
+        },
+        "stylus": {
+          "path": "./icons/deep/stylus.svg"
+        },
+        "support": {
+          "path": "./icons/deep/support.svg"
+        },
+        "svelte": {
+          "path": "./icons/deep/svelte.svg"
+        },
+        "svg": {
+          "path": "./icons/deep/svg.svg"
+        },
+        "swift": {
+          "path": "./icons/deep/swift.svg"
+        },
+        "table": {
+          "path": "./icons/deep/table.svg"
+        },
+        "tailwindcss": {
+          "path": "./icons/deep/tailwindcss.svg"
+        },
+        "tar": {
+          "path": "./icons/deep/tar.svg"
+        },
+        "templ": {
+          "path": "./icons/deep/templ.svg"
+        },
+        "template": {
+          "path": "./icons/deep/template.svg"
+        },
+        "terraform": {
+          "path": "./icons/deep/terraform.svg"
+        },
+        "test_ts": {
+          "path": "./icons/deep/test_ts.svg"
+        },
+        "tex": {
+          "path": "./icons/deep/tex.svg"
+        },
+        "toml": {
+          "path": "./icons/deep/toml.svg"
+        },
+        "tree": {
+          "path": "./icons/deep/tree.svg"
+        },
+        "tsconfig": {
+          "path": "./icons/deep/tsconfig.svg"
+        },
+        "ttf": {
+          "path": "./icons/deep/ttf.svg"
+        },
+        "tune": {
+          "path": "./icons/deep/tune.svg"
+        },
+        "twig": {
+          "path": "./icons/deep/twig.svg"
+        },
+        "twine": {
+          "path": "./icons/deep/twine.svg"
+        },
+        "typescript_def": {
+          "path": "./icons/deep/typescript_def.svg"
+        },
+        "typescript": {
+          "path": "./icons/deep/typescript.svg"
+        },
+        "typst": {
+          "path": "./icons/deep/typst.svg"
+        },
+        "unity": {
+          "path": "./icons/deep/unity.svg"
+        },
+        "vala": {
+          "path": "./icons/deep/vala.svg"
+        },
+        "verilog": {
+          "path": "./icons/deep/verilog.svg"
+        },
+        "video": {
+          "path": "./icons/deep/video.svg"
+        },
+        "vim": {
+          "path": "./icons/deep/vim.svg"
+        },
+        "vlang": {
+          "path": "./icons/deep/vlang.svg"
+        },
+        "vscode": {
+          "path": "./icons/deep/vscode.svg"
+        },
+        "vue_config": {
+          "path": "./icons/deep/vue_config.svg"
+        },
+        "vue": {
+          "path": "./icons/deep/vue.svg"
+        },
+        "webassembly": {
+          "path": "./icons/deep/webassembly.svg"
+        },
+        "webp": {
+          "path": "./icons/deep/webp.svg"
+        },
+        "webpack": {
+          "path": "./icons/deep/webpack.svg"
+        },
+        "word": {
+          "path": "./icons/deep/word.svg"
+        },
+        "xmake": {
+          "path": "./icons/deep/xmake.svg"
+        },
+        "xml": {
+          "path": "./icons/deep/xml.svg"
+        },
+        "yaml": {
+          "path": "./icons/deep/yaml.svg"
+        },
+        "yang": {
+          "path": "./icons/deep/yang.svg"
+        },
+        "yarn_lock": {
+          "path": "./icons/deep/yarn_lock.svg"
+        },
+        "yarn": {
+          "path": "./icons/deep/yarn.svg"
+        },
+        "zig": {
+          "path": "./icons/deep/zig.svg"
+        },
+        "zip": {
+          "path": "./icons/deep/zip.svg"
         }
       }
     }

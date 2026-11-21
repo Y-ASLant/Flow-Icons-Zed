@@ -63,6 +63,10 @@
           "collapsed": "./icons/dim-light/folder_android.svg",
           "expanded": "./icons/dim-light/folder_android_open.svg"
         },
+        "smali": {
+          "collapsed": "./icons/dim-light/folder_android.svg",
+          "expanded": "./icons/dim-light/folder_android_open.svg"
+        },
         ".angular": {
           "collapsed": "./icons/dim-light/folder_angular.svg",
           "expanded": "./icons/dim-light/folder_angular_open.svg"
@@ -391,6 +395,10 @@
           "collapsed": "./icons/dim-light/folder_benchmark.svg",
           "expanded": "./icons/dim-light/folder_benchmark_open.svg"
         },
+        "benches": {
+          "collapsed": "./icons/dim-light/folder_benchmark.svg",
+          "expanded": "./icons/dim-light/folder_benchmark_open.svg"
+        },
         "performance": {
           "collapsed": "./icons/dim-light/folder_benchmark.svg",
           "expanded": "./icons/dim-light/folder_benchmark_open.svg"
@@ -484,6 +492,18 @@
           "expanded": "./icons/dim-light/folder_buildkite_open.svg"
         },
         ".cargo": {
+          "collapsed": "./icons/dim-light/folder_cargo.svg",
+          "expanded": "./icons/dim-light/folder_cargo_open.svg"
+        },
+        "cargo": {
+          "collapsed": "./icons/dim-light/folder_rust.svg",
+          "expanded": "./icons/dim-light/folder_rust_open.svg"
+        },
+        ".crates": {
+          "collapsed": "./icons/dim-light/folder_cargo.svg",
+          "expanded": "./icons/dim-light/folder_cargo_open.svg"
+        },
+        "crates": {
           "collapsed": "./icons/dim-light/folder_cargo.svg",
           "expanded": "./icons/dim-light/folder_cargo_open.svg"
         },
@@ -1011,6 +1031,10 @@
           "collapsed": "./icons/dim-light/folder_database.svg",
           "expanded": "./icons/dim-light/folder_database_open.svg"
         },
+        "datafiles": {
+          "collapsed": "./icons/dim-light/folder_database.svg",
+          "expanded": "./icons/dim-light/folder_database_open.svg"
+        },
         "debug": {
           "collapsed": "./icons/dim-light/folder_debug.svg",
           "expanded": "./icons/dim-light/folder_debug_open.svg"
@@ -1447,6 +1471,14 @@
           "collapsed": "./icons/dim-light/folder_form.svg",
           "expanded": "./icons/dim-light/folder_form_open.svg"
         },
+        "editor": {
+          "collapsed": "./icons/dim-light/folder_form.svg",
+          "expanded": "./icons/dim-light/folder_form_open.svg"
+        },
+        "editors": {
+          "collapsed": "./icons/dim-light/folder_form.svg",
+          "expanded": "./icons/dim-light/folder_form_open.svg"
+        },
         "func": {
           "collapsed": "./icons/dim-light/folder_functions.svg",
           "expanded": "./icons/dim-light/folder_functions_open.svg"
@@ -1483,22 +1515,6 @@
           "collapsed": "./icons/dim-light/folder_functions.svg",
           "expanded": "./icons/dim-light/folder_functions_open.svg"
         },
-        "calc": {
-          "collapsed": "./icons/dim-light/folder_functions.svg",
-          "expanded": "./icons/dim-light/folder_functions_open.svg"
-        },
-        "calcs": {
-          "collapsed": "./icons/dim-light/folder_functions.svg",
-          "expanded": "./icons/dim-light/folder_functions_open.svg"
-        },
-        "calculation": {
-          "collapsed": "./icons/dim-light/folder_functions.svg",
-          "expanded": "./icons/dim-light/folder_functions_open.svg"
-        },
-        "calculations": {
-          "collapsed": "./icons/dim-light/folder_functions.svg",
-          "expanded": "./icons/dim-light/folder_functions_open.svg"
-        },
         "mixin": {
           "collapsed": "./icons/dim-light/folder_functions.svg",
           "expanded": "./icons/dim-light/folder_functions_open.svg"
@@ -1512,6 +1528,14 @@
           "expanded": "./icons/dim-light/folder_gamemaker_open.svg"
         },
         "gamemaker2": {
+          "collapsed": "./icons/dim-light/folder_gamemaker.svg",
+          "expanded": "./icons/dim-light/folder_gamemaker_open.svg"
+        },
+        ".gmcache": {
+          "collapsed": "./icons/dim-light/folder_gamemaker.svg",
+          "expanded": "./icons/dim-light/folder_gamemaker_open.svg"
+        },
+        "gmcache": {
           "collapsed": "./icons/dim-light/folder_gamemaker.svg",
           "expanded": "./icons/dim-light/folder_gamemaker_open.svg"
         },
@@ -2147,10 +2171,6 @@
           "collapsed": "./icons/dim-light/folder_lib.svg",
           "expanded": "./icons/dim-light/folder_lib_open.svg"
         },
-        "crates": {
-          "collapsed": "./icons/dim-light/folder_lib.svg",
-          "expanded": "./icons/dim-light/folder_lib_open.svg"
-        },
         "dll": {
           "collapsed": "./icons/dim-light/folder_lib.svg",
           "expanded": "./icons/dim-light/folder_lib_open.svg"
@@ -2668,10 +2688,14 @@
           "expanded": "./icons/dim-light/folder_packages_open.svg"
         },
         "dependencies": {
+          "collapsed": "./icons/dim-light/folder_deps.svg",
+          "expanded": "./icons/dim-light/folder_deps_open.svg"
+        },
+        ".swiftpm": {
           "collapsed": "./icons/dim-light/folder_packages.svg",
           "expanded": "./icons/dim-light/folder_packages_open.svg"
         },
-        ".swiftpm": {
+        "packaging": {
           "collapsed": "./icons/dim-light/folder_packages.svg",
           "expanded": "./icons/dim-light/folder_packages_open.svg"
         },
@@ -2887,6 +2911,18 @@
           "collapsed": "./icons/dim-light/folder_public.svg",
           "expanded": "./icons/dim-light/folder_public_open.svg"
         },
+        "intranet": {
+          "collapsed": "./icons/dim-light/folder_public.svg",
+          "expanded": "./icons/dim-light/folder_public_open.svg"
+        },
+        "network": {
+          "collapsed": "./icons/dim-light/folder_public.svg",
+          "expanded": "./icons/dim-light/folder_public_open.svg"
+        },
+        "networks": {
+          "collapsed": "./icons/dim-light/folder_public.svg",
+          "expanded": "./icons/dim-light/folder_public_open.svg"
+        },
         "python": {
           "collapsed": "./icons/dim-light/folder_python.svg",
           "expanded": "./icons/dim-light/folder_python_open.svg"
@@ -3099,6 +3135,14 @@
           "collapsed": "./icons/dim-light/folder_ruff.svg",
           "expanded": "./icons/dim-light/folder_ruff_open.svg"
         },
+        ".ruff_cache": {
+          "collapsed": "./icons/dim-light/folder_ruff.svg",
+          "expanded": "./icons/dim-light/folder_ruff_open.svg"
+        },
+        "ruff_cache": {
+          "collapsed": "./icons/dim-light/folder_ruff.svg",
+          "expanded": "./icons/dim-light/folder_ruff_open.svg"
+        },
         "rule": {
           "collapsed": "./icons/dim-light/folder_rules.svg",
           "expanded": "./icons/dim-light/folder_rules_open.svg"
@@ -3108,24 +3152,24 @@
           "expanded": "./icons/dim-light/folder_rules_open.svg"
         },
         "validation": {
-          "collapsed": "./icons/dim-light/folder_rules.svg",
-          "expanded": "./icons/dim-light/folder_rules_open.svg"
+          "collapsed": "./icons/dim-light/folder_validation.svg",
+          "expanded": "./icons/dim-light/folder_validation_open.svg"
         },
         "validations": {
-          "collapsed": "./icons/dim-light/folder_rules.svg",
-          "expanded": "./icons/dim-light/folder_rules_open.svg"
+          "collapsed": "./icons/dim-light/folder_validation.svg",
+          "expanded": "./icons/dim-light/folder_validation_open.svg"
         },
         "validator": {
-          "collapsed": "./icons/dim-light/folder_rules.svg",
-          "expanded": "./icons/dim-light/folder_rules_open.svg"
+          "collapsed": "./icons/dim-light/folder_validation.svg",
+          "expanded": "./icons/dim-light/folder_validation_open.svg"
         },
         "validators": {
-          "collapsed": "./icons/dim-light/folder_rules.svg",
-          "expanded": "./icons/dim-light/folder_rules_open.svg"
+          "collapsed": "./icons/dim-light/folder_validation.svg",
+          "expanded": "./icons/dim-light/folder_validation_open.svg"
         },
-        "cargo": {
-          "collapsed": "./icons/dim-light/folder_rust.svg",
-          "expanded": "./icons/dim-light/folder_rust_open.svg"
+        "compliance": {
+          "collapsed": "./icons/dim-light/folder_validation.svg",
+          "expanded": "./icons/dim-light/folder_validation_open.svg"
         },
         "rust": {
           "collapsed": "./icons/dim-light/folder_rust.svg",
@@ -3619,7 +3663,19 @@
           "collapsed": "./icons/dim-light/folder_television.svg",
           "expanded": "./icons/dim-light/folder_television_open.svg"
         },
+        "tvos": {
+          "collapsed": "./icons/dim-light/folder_television.svg",
+          "expanded": "./icons/dim-light/folder_television_open.svg"
+        },
+        ".temp": {
+          "collapsed": "./icons/dim-light/folder_temp.svg",
+          "expanded": "./icons/dim-light/folder_temp_open.svg"
+        },
         "temp": {
+          "collapsed": "./icons/dim-light/folder_temp.svg",
+          "expanded": "./icons/dim-light/folder_temp_open.svg"
+        },
+        ".tmp": {
           "collapsed": "./icons/dim-light/folder_temp.svg",
           "expanded": "./icons/dim-light/folder_temp_open.svg"
         },
@@ -3627,11 +3683,23 @@
           "collapsed": "./icons/dim-light/folder_temp.svg",
           "expanded": "./icons/dim-light/folder_temp_open.svg"
         },
+        ".cached": {
+          "collapsed": "./icons/dim-light/folder_temp.svg",
+          "expanded": "./icons/dim-light/folder_temp_open.svg"
+        },
         "cached": {
           "collapsed": "./icons/dim-light/folder_temp.svg",
           "expanded": "./icons/dim-light/folder_temp_open.svg"
         },
+        ".cache": {
+          "collapsed": "./icons/dim-light/folder_temp.svg",
+          "expanded": "./icons/dim-light/folder_temp_open.svg"
+        },
         "cache": {
+          "collapsed": "./icons/dim-light/folder_temp.svg",
+          "expanded": "./icons/dim-light/folder_temp_open.svg"
+        },
+        "time": {
           "collapsed": "./icons/dim-light/folder_temp.svg",
           "expanded": "./icons/dim-light/folder_temp_open.svg"
         },
@@ -3747,6 +3815,10 @@
           "collapsed": "./icons/dim-light/folder_theme.svg",
           "expanded": "./icons/dim-light/folder_theme_open.svg"
         },
+        "icon_themes": {
+          "collapsed": "./icons/dim-light/folder_theme.svg",
+          "expanded": "./icons/dim-light/folder_theme_open.svg"
+        },
         "toc": {
           "collapsed": "./icons/dim-light/folder_toc.svg",
           "expanded": "./icons/dim-light/folder_toc_open.svg"
@@ -3856,6 +3928,10 @@
           "expanded": "./icons/dim-light/folder_type_open.svg"
         },
         "typing": {
+          "collapsed": "./icons/dim-light/folder_type.svg",
+          "expanded": "./icons/dim-light/folder_type_open.svg"
+        },
+        "typings": {
           "collapsed": "./icons/dim-light/folder_type.svg",
           "expanded": "./icons/dim-light/folder_type_open.svg"
         },
@@ -4028,6 +4104,10 @@
           "expanded": "./icons/dim-light/folder_video_open.svg"
         },
         "html": {
+          "collapsed": "./icons/dim-light/folder_views.svg",
+          "expanded": "./icons/dim-light/folder_views_open.svg"
+        },
+        "html5": {
           "collapsed": "./icons/dim-light/folder_views.svg",
           "expanded": "./icons/dim-light/folder_views_open.svg"
         },
@@ -4263,6 +4343,18 @@
           "collapsed": "./icons/dim-light/folder_sdk.svg",
           "expanded": "./icons/dim-light/folder_sdk_open.svg"
         },
+        "develop": {
+          "collapsed": "./icons/dim-light/folder_sdk.svg",
+          "expanded": "./icons/dim-light/folder_sdk_open.svg"
+        },
+        "development": {
+          "collapsed": "./icons/dim-light/folder_sdk.svg",
+          "expanded": "./icons/dim-light/folder_sdk_open.svg"
+        },
+        "developments": {
+          "collapsed": "./icons/dim-light/folder_sdk.svg",
+          "expanded": "./icons/dim-light/folder_sdk_open.svg"
+        },
         "framework": {
           "collapsed": "./icons/dim-light/folder_sdk.svg",
           "expanded": "./icons/dim-light/folder_sdk_open.svg"
@@ -4442,10 +4534,537 @@
         "spellcheckers": {
           "collapsed": "./icons/dim-light/folder_syntax.svg",
           "expanded": "./icons/dim-light/folder_syntax_open.svg"
+        },
+        "internal": {
+          "collapsed": "./icons/dim-light/folder_internal.svg",
+          "expanded": "./icons/dim-light/folder_internal_open.svg"
+        },
+        "iternals": {
+          "collapsed": "./icons/dim-light/folder_internal.svg",
+          "expanded": "./icons/dim-light/folder_internal_open.svg"
+        },
+        ".cmake": {
+          "collapsed": "./icons/dim-light/folder_cmake.svg",
+          "expanded": "./icons/dim-light/folder_cmake_open.svg"
+        },
+        "cmake": {
+          "collapsed": "./icons/dim-light/folder_cmake.svg",
+          "expanded": "./icons/dim-light/folder_cmake_open.svg"
+        },
+        "instruction": {
+          "collapsed": "./icons/dim-light/folder_instruction.svg",
+          "expanded": "./icons/dim-light/folder_instruction_open.svg"
+        },
+        "instructions": {
+          "collapsed": "./icons/dim-light/folder_instruction.svg",
+          "expanded": "./icons/dim-light/folder_instruction_open.svg"
+        },
+        "curve": {
+          "collapsed": "./icons/dim-light/folder_curve.svg",
+          "expanded": "./icons/dim-light/folder_curve_open.svg"
+        },
+        "curves": {
+          "collapsed": "./icons/dim-light/folder_curve.svg",
+          "expanded": "./icons/dim-light/folder_curve_open.svg"
+        },
+        "animcurve": {
+          "collapsed": "./icons/dim-light/folder_curve.svg",
+          "expanded": "./icons/dim-light/folder_curve_open.svg"
+        },
+        "animcurves": {
+          "collapsed": "./icons/dim-light/folder_curve.svg",
+          "expanded": "./icons/dim-light/folder_curve_open.svg"
+        },
+        "note": {
+          "collapsed": "./icons/dim-light/folder_note.svg",
+          "expanded": "./icons/dim-light/folder_note_open.svg"
+        },
+        "notes": {
+          "collapsed": "./icons/dim-light/folder_note.svg",
+          "expanded": "./icons/dim-light/folder_note_open.svg"
+        },
+        "object": {
+          "collapsed": "./icons/dim-light/folder_object.svg",
+          "expanded": "./icons/dim-light/folder_object_open.svg"
+        },
+        "objects": {
+          "collapsed": "./icons/dim-light/folder_object.svg",
+          "expanded": "./icons/dim-light/folder_object_open.svg"
+        },
+        "particle": {
+          "collapsed": "./icons/dim-light/folder_particle.svg",
+          "expanded": "./icons/dim-light/folder_particle_open.svg"
+        },
+        "particles": {
+          "collapsed": "./icons/dim-light/folder_particle.svg",
+          "expanded": "./icons/dim-light/folder_particle_open.svg"
+        },
+        "path": {
+          "collapsed": "./icons/dim-light/folder_path.svg",
+          "expanded": "./icons/dim-light/folder_path_open.svg"
+        },
+        "paths": {
+          "collapsed": "./icons/dim-light/folder_path.svg",
+          "expanded": "./icons/dim-light/folder_path_open.svg"
+        },
+        "prefab": {
+          "collapsed": "./icons/dim-light/folder_prefab.svg",
+          "expanded": "./icons/dim-light/folder_prefab_open.svg"
+        },
+        "prefabs": {
+          "collapsed": "./icons/dim-light/folder_prefab.svg",
+          "expanded": "./icons/dim-light/folder_prefab_open.svg"
+        },
+        "room": {
+          "collapsed": "./icons/dim-light/folder_room.svg",
+          "expanded": "./icons/dim-light/folder_room_open.svg"
+        },
+        "rooms": {
+          "collapsed": "./icons/dim-light/folder_room.svg",
+          "expanded": "./icons/dim-light/folder_room_open.svg"
+        },
+        "sequence": {
+          "collapsed": "./icons/dim-light/folder_sequence.svg",
+          "expanded": "./icons/dim-light/folder_sequence_open.svg"
+        },
+        "sequences": {
+          "collapsed": "./icons/dim-light/folder_sequence.svg",
+          "expanded": "./icons/dim-light/folder_sequence_open.svg"
+        },
+        "sprite": {
+          "collapsed": "./icons/dim-light/folder_sprite.svg",
+          "expanded": "./icons/dim-light/folder_sprite_open.svg"
+        },
+        "sprites": {
+          "collapsed": "./icons/dim-light/folder_sprite.svg",
+          "expanded": "./icons/dim-light/folder_sprite_open.svg"
+        },
+        "tile": {
+          "collapsed": "./icons/dim-light/folder_tile.svg",
+          "expanded": "./icons/dim-light/folder_tile_open.svg"
+        },
+        "tiles": {
+          "collapsed": "./icons/dim-light/folder_tile.svg",
+          "expanded": "./icons/dim-light/folder_tile_open.svg"
+        },
+        "tileset": {
+          "collapsed": "./icons/dim-light/folder_tile.svg",
+          "expanded": "./icons/dim-light/folder_tile_open.svg"
+        },
+        "tilesets": {
+          "collapsed": "./icons/dim-light/folder_tile.svg",
+          "expanded": "./icons/dim-light/folder_tile_open.svg"
+        },
+        "option": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "options": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "pref": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "prefs": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "preference": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "preferences": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "props": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "properties": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "env": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "environments": {
+          "collapsed": "./icons/dim-light/folder_option.svg",
+          "expanded": "./icons/dim-light/folder_option_open.svg"
+        },
+        "swift": {
+          "collapsed": "./icons/dim-light/folder_swift.svg",
+          "expanded": "./icons/dim-light/folder_swift_open.svg"
+        },
+        "file": {
+          "collapsed": "./icons/dim-light/folder_files.svg",
+          "expanded": "./icons/dim-light/folder_files_open.svg"
+        },
+        "files": {
+          "collapsed": "./icons/dim-light/folder_files.svg",
+          "expanded": "./icons/dim-light/folder_files_open.svg"
+        },
+        ".bruno": {
+          "collapsed": "./icons/dim-light/folder_bruno.svg",
+          "expanded": "./icons/dim-light/folder_bruno_open.svg"
+        },
+        "bruno": {
+          "collapsed": "./icons/dim-light/folder_bruno.svg",
+          "expanded": "./icons/dim-light/folder_bruno_open.svg"
+        },
+        ".r": {
+          "collapsed": "./icons/dim-light/folder_r.svg",
+          "expanded": "./icons/dim-light/folder_r_open.svg"
+        },
+        "r": {
+          "collapsed": "./icons/dim-light/folder_r.svg",
+          "expanded": "./icons/dim-light/folder_r_open.svg"
+        },
+        "policy": {
+          "collapsed": "./icons/dim-light/folder_policy.svg",
+          "expanded": "./icons/dim-light/folder_policy_open.svg"
+        },
+        "policies": {
+          "collapsed": "./icons/dim-light/folder_policy.svg",
+          "expanded": "./icons/dim-light/folder_policy_open.svg"
+        },
+        "skeleton": {
+          "collapsed": "./icons/dim-light/folder_skeleton.svg",
+          "expanded": "./icons/dim-light/folder_skeleton_open.svg"
+        },
+        "skeletons": {
+          "collapsed": "./icons/dim-light/folder_skeleton.svg",
+          "expanded": "./icons/dim-light/folder_skeleton_open.svg"
+        },
+        ".codegraph": {
+          "collapsed": "./icons/dim-light/folder_codegraph.svg",
+          "expanded": "./icons/dim-light/folder_codegraph_open.svg"
+        },
+        "codegraph": {
+          "collapsed": "./icons/dim-light/folder_codegraph.svg",
+          "expanded": "./icons/dim-light/folder_codegraph_open.svg"
+        },
+        ".conductor": {
+          "collapsed": "./icons/dim-light/folder_conductor.svg",
+          "expanded": "./icons/dim-light/folder_conductor_open.svg"
+        },
+        "conductor": {
+          "collapsed": "./icons/dim-light/folder_conductor.svg",
+          "expanded": "./icons/dim-light/folder_conductor_open.svg"
+        },
+        ".webp": {
+          "collapsed": "./icons/dim-light/folder_webp.svg",
+          "expanded": "./icons/dim-light/folder_webp_open.svg"
+        },
+        "webp": {
+          "collapsed": "./icons/dim-light/folder_webp.svg",
+          "expanded": "./icons/dim-light/folder_webp_open.svg"
+        },
+        ".crush": {
+          "collapsed": "./icons/dim-light/folder_crush.svg",
+          "expanded": "./icons/dim-light/folder_crush_open.svg"
+        },
+        "crush": {
+          "collapsed": "./icons/dim-light/folder_crush.svg",
+          "expanded": "./icons/dim-light/folder_crush_open.svg"
+        },
+        ".grype": {
+          "collapsed": "./icons/dim-light/folder_grype.svg",
+          "expanded": "./icons/dim-light/folder_grype_open.svg"
+        },
+        "grype": {
+          "collapsed": "./icons/dim-light/folder_grype.svg",
+          "expanded": "./icons/dim-light/folder_grype_open.svg"
+        },
+        "prerelease": {
+          "collapsed": "./icons/dim-light/folder_prerelease.svg",
+          "expanded": "./icons/dim-light/folder_prerelease_open.svg"
+        },
+        "prereleases": {
+          "collapsed": "./icons/dim-light/folder_prerelease.svg",
+          "expanded": "./icons/dim-light/folder_prerelease_open.svg"
+        },
+        "pre-release": {
+          "collapsed": "./icons/dim-light/folder_prerelease.svg",
+          "expanded": "./icons/dim-light/folder_prerelease_open.svg"
+        },
+        "pre-releases": {
+          "collapsed": "./icons/dim-light/folder_prerelease.svg",
+          "expanded": "./icons/dim-light/folder_prerelease_open.svg"
+        },
+        "subproject": {
+          "collapsed": "./icons/dim-light/folder_subproject.svg",
+          "expanded": "./icons/dim-light/folder_subproject_open.svg"
+        },
+        "subprojects": {
+          "collapsed": "./icons/dim-light/folder_subproject.svg",
+          "expanded": "./icons/dim-light/folder_subproject_open.svg"
+        },
+        "sub-project": {
+          "collapsed": "./icons/dim-light/folder_subproject.svg",
+          "expanded": "./icons/dim-light/folder_subproject_open.svg"
+        },
+        "sub-projects": {
+          "collapsed": "./icons/dim-light/folder_subproject.svg",
+          "expanded": "./icons/dim-light/folder_subproject_open.svg"
+        },
+        ".omo": {
+          "collapsed": "./icons/dim-light/folder_omo.svg",
+          "expanded": "./icons/dim-light/folder_omo_open.svg"
+        },
+        "omo": {
+          "collapsed": "./icons/dim-light/folder_omo.svg",
+          "expanded": "./icons/dim-light/folder_omo_open.svg"
+        },
+        "artifact": {
+          "collapsed": "./icons/dim-light/folder_artifacts.svg",
+          "expanded": "./icons/dim-light/folder_artifacts_open.svg"
+        },
+        "artifacts": {
+          "collapsed": "./icons/dim-light/folder_artifacts.svg",
+          "expanded": "./icons/dim-light/folder_artifacts_open.svg"
+        },
+        "disk": {
+          "collapsed": "./icons/dim-light/folder_disk.svg",
+          "expanded": "./icons/dim-light/folder_disk_open.svg"
+        },
+        "disks": {
+          "collapsed": "./icons/dim-light/folder_disk.svg",
+          "expanded": "./icons/dim-light/folder_disk_open.svg"
+        },
+        "drive": {
+          "collapsed": "./icons/dim-light/folder_disk.svg",
+          "expanded": "./icons/dim-light/folder_disk_open.svg"
+        },
+        "drives": {
+          "collapsed": "./icons/dim-light/folder_disk.svg",
+          "expanded": "./icons/dim-light/folder_disk_open.svg"
+        },
+        "disc": {
+          "collapsed": "./icons/dim-light/folder_disc.svg",
+          "expanded": "./icons/dim-light/folder_disc_open.svg"
+        },
+        "discs": {
+          "collapsed": "./icons/dim-light/folder_disc.svg",
+          "expanded": "./icons/dim-light/folder_disc_open.svg"
+        },
+        "iso": {
+          "collapsed": "./icons/dim-light/folder_disc.svg",
+          "expanded": "./icons/dim-light/folder_disc_open.svg"
+        },
+        "deps": {
+          "collapsed": "./icons/dim-light/folder_deps.svg",
+          "expanded": "./icons/dim-light/folder_deps_open.svg"
+        },
+        "dependency": {
+          "collapsed": "./icons/dim-light/folder_deps.svg",
+          "expanded": "./icons/dim-light/folder_deps_open.svg"
+        },
+        ".reddit": {
+          "collapsed": "./icons/dim-light/folder_reddit.svg",
+          "expanded": "./icons/dim-light/folder_reddit_open.svg"
+        },
+        "reddit": {
+          "collapsed": "./icons/dim-light/folder_reddit.svg",
+          "expanded": "./icons/dim-light/folder_reddit_open.svg"
+        },
+        ".operagx": {
+          "collapsed": "./icons/dim-light/folder_operagx.svg",
+          "expanded": "./icons/dim-light/folder_operagx_open.svg"
+        },
+        "operagx": {
+          "collapsed": "./icons/dim-light/folder_operagx.svg",
+          "expanded": "./icons/dim-light/folder_operagx_open.svg"
+        },
+        "timeline": {
+          "collapsed": "./icons/dim-light/folder_timelines.svg",
+          "expanded": "./icons/dim-light/folder_timelines_open.svg"
+        },
+        "timelines": {
+          "collapsed": "./icons/dim-light/folder_timelines.svg",
+          "expanded": "./icons/dim-light/folder_timelines_open.svg"
+        },
+        ".railway": {
+          "collapsed": "./icons/dim-light/folder_railway.svg",
+          "expanded": "./icons/dim-light/folder_railway_open.svg"
+        },
+        "railway": {
+          "collapsed": "./icons/dim-light/folder_railway.svg",
+          "expanded": "./icons/dim-light/folder_railway_open.svg"
+        },
+        "gateway": {
+          "collapsed": "./icons/dim-light/folder_gateway.svg",
+          "expanded": "./icons/dim-light/folder_gateway_open.svg"
+        },
+        "gateways": {
+          "collapsed": "./icons/dim-light/folder_gateway.svg",
+          "expanded": "./icons/dim-light/folder_gateway_open.svg"
+        },
+        "registry": {
+          "collapsed": "./icons/dim-light/folder_registry.svg",
+          "expanded": "./icons/dim-light/folder_registry_open.svg"
+        },
+        "registries": {
+          "collapsed": "./icons/dim-light/folder_registry.svg",
+          "expanded": "./icons/dim-light/folder_registry_open.svg"
+        },
+        "price": {
+          "collapsed": "./icons/dim-light/folder_dollar.svg",
+          "expanded": "./icons/dim-light/folder_dollar_open.svg"
+        },
+        "prices": {
+          "collapsed": "./icons/dim-light/folder_dollar.svg",
+          "expanded": "./icons/dim-light/folder_dollar_open.svg"
+        },
+        "balance": {
+          "collapsed": "./icons/dim-light/folder_money.svg",
+          "expanded": "./icons/dim-light/folder_money_open.svg"
+        },
+        "balances": {
+          "collapsed": "./icons/dim-light/folder_money.svg",
+          "expanded": "./icons/dim-light/folder_money_open.svg"
+        },
+        ".mongodb": {
+          "collapsed": "./icons/dim-light/folder_mongodb.svg",
+          "expanded": "./icons/dim-light/folder_mongodb_open.svg"
+        },
+        "mongodb": {
+          "collapsed": "./icons/dim-light/folder_mongodb.svg",
+          "expanded": "./icons/dim-light/folder_mongodb_open.svg"
+        },
+        ".mongo": {
+          "collapsed": "./icons/dim-light/folder_mongodb.svg",
+          "expanded": "./icons/dim-light/folder_mongodb_open.svg"
+        },
+        "mongo": {
+          "collapsed": "./icons/dim-light/folder_mongodb.svg",
+          "expanded": "./icons/dim-light/folder_mongodb_open.svg"
+        },
+        ".redis": {
+          "collapsed": "./icons/dim-light/folder_redis.svg",
+          "expanded": "./icons/dim-light/folder_redis_open.svg"
+        },
+        "redis": {
+          "collapsed": "./icons/dim-light/folder_redis.svg",
+          "expanded": "./icons/dim-light/folder_redis_open.svg"
+        },
+        "bank": {
+          "collapsed": "./icons/dim-light/folder_bank.svg",
+          "expanded": "./icons/dim-light/folder_bank_open.svg"
+        },
+        "banks": {
+          "collapsed": "./icons/dim-light/folder_bank.svg",
+          "expanded": "./icons/dim-light/folder_bank_open.svg"
+        },
+        "banking": {
+          "collapsed": "./icons/dim-light/folder_bank.svg",
+          "expanded": "./icons/dim-light/folder_bank_open.svg"
+        },
+        ".vitest": {
+          "collapsed": "./icons/dim-light/folder_vitest.svg",
+          "expanded": "./icons/dim-light/folder_vitest_open.svg"
+        },
+        "vitest": {
+          "collapsed": "./icons/dim-light/folder_vitest.svg",
+          "expanded": "./icons/dim-light/folder_vitest_open.svg"
+        },
+        "cron": {
+          "collapsed": "./icons/dim-light/folder_cron.svg",
+          "expanded": "./icons/dim-light/folder_cron_open.svg"
+        },
+        "crons": {
+          "collapsed": "./icons/dim-light/folder_cron.svg",
+          "expanded": "./icons/dim-light/folder_cron_open.svg"
+        },
+        "scheduler": {
+          "collapsed": "./icons/dim-light/folder_cron.svg",
+          "expanded": "./icons/dim-light/folder_cron_open.svg"
+        },
+        "schedulers": {
+          "collapsed": "./icons/dim-light/folder_cron.svg",
+          "expanded": "./icons/dim-light/folder_cron_open.svg"
+        },
+        "cronjob": {
+          "collapsed": "./icons/dim-light/folder_cron.svg",
+          "expanded": "./icons/dim-light/folder_cron_open.svg"
+        },
+        "cronjobs": {
+          "collapsed": "./icons/dim-light/folder_cron.svg",
+          "expanded": "./icons/dim-light/folder_cron_open.svg"
+        },
+        "calc": {
+          "collapsed": "./icons/dim-light/folder_calculator.svg",
+          "expanded": "./icons/dim-light/folder_calculator_open.svg"
+        },
+        "calcs": {
+          "collapsed": "./icons/dim-light/folder_calculator.svg",
+          "expanded": "./icons/dim-light/folder_calculator_open.svg"
+        },
+        "calculation": {
+          "collapsed": "./icons/dim-light/folder_calculator.svg",
+          "expanded": "./icons/dim-light/folder_calculator_open.svg"
+        },
+        "calculations": {
+          "collapsed": "./icons/dim-light/folder_calculator.svg",
+          "expanded": "./icons/dim-light/folder_calculator_open.svg"
+        },
+        "accounting": {
+          "collapsed": "./icons/dim-light/folder_calculator.svg",
+          "expanded": "./icons/dim-light/folder_calculator_open.svg"
+        },
+        "cluster": {
+          "collapsed": "./icons/dim-light/folder_cluster.svg",
+          "expanded": "./icons/dim-light/folder_cluster_open.svg"
+        },
+        "clusters": {
+          "collapsed": "./icons/dim-light/folder_cluster.svg",
+          "expanded": "./icons/dim-light/folder_cluster_open.svg"
+        },
+        "clustering": {
+          "collapsed": "./icons/dim-light/folder_cluster.svg",
+          "expanded": "./icons/dim-light/folder_cluster_open.svg"
+        },
+        "embed": {
+          "collapsed": "./icons/dim-light/folder_embed.svg",
+          "expanded": "./icons/dim-light/folder_embed_open.svg"
+        },
+        "embeds": {
+          "collapsed": "./icons/dim-light/folder_embed.svg",
+          "expanded": "./icons/dim-light/folder_embed_open.svg"
+        },
+        "embedded": {
+          "collapsed": "./icons/dim-light/folder_embed.svg",
+          "expanded": "./icons/dim-light/folder_embed_open.svg"
+        },
+        "embedding": {
+          "collapsed": "./icons/dim-light/folder_embed.svg",
+          "expanded": "./icons/dim-light/folder_embed_open.svg"
+        },
+        "parser": {
+          "collapsed": "./icons/dim-light/folder_parser.svg",
+          "expanded": "./icons/dim-light/folder_parser_open.svg"
+        },
+        "parsers": {
+          "collapsed": "./icons/dim-light/folder_parser.svg",
+          "expanded": "./icons/dim-light/folder_parser_open.svg"
+        },
+        "parsing": {
+          "collapsed": "./icons/dim-light/folder_parser.svg",
+          "expanded": "./icons/dim-light/folder_parser_open.svg"
+        },
+        "cross": {
+          "collapsed": "./icons/dim-light/folder_cross.svg",
+          "expanded": "./icons/dim-light/folder_cross_open.svg"
+        },
+        "crosses": {
+          "collapsed": "./icons/dim-light/folder_cross.svg",
+          "expanded": "./icons/dim-light/folder_cross_open.svg"
         }
       },
       "file_stems": {
-        "AndroidManifest.xml": "android",
         ".angular-cli.json": "angular",
         "angular-cli.json": "angular",
         "angular.json": "angular",
@@ -4694,6 +5313,9 @@
         ".gitlab-ci.yml": "gitlab",
         ".gitpod.yaml": "gitpod",
         ".gitpod.yml": "gitpod",
+        ".gdignore": "godot_assets",
+        "._sc_": "godot_assets",
+        "_sc_": "godot_assets",
         "gradle.properties": "gradle",
         "gradlew": "gradlew",
         "gradle-wrapper.properties": "gradle",
@@ -4815,6 +5437,7 @@
         "licence.md": "license",
         "licence.rst": "license",
         "licence.txt": "license",
+        "eula.md": "license",
         ".liquidrc.json": "liquid",
         ".liquidrc": "liquid",
         "makefile": "makefile",
@@ -5235,9 +5858,9 @@
         "x_b": "3d",
         "x_t": "3d",
         "123dx": "3d",
+        "7z": "7zip",
+        "7zip": "7zip",
         "apk": "android",
-        "smali": "android",
-        "dex": "android",
         "ng-template": "angular",
         "applescript": "applescript",
         "ipa": "applescript",
@@ -5269,7 +5892,6 @@
         "awk": "bash",
         "c": "c",
         "i": "c",
-        "mi": "c",
         "cabal": "cabal",
         "cake": "cake",
         "clj": "clojure",
@@ -5304,21 +5926,19 @@
         "di": "d",
         "dart": "dart",
         "pdb": "database",
-        "sql": "database",
         "pks": "database",
         "pkb": "database",
-        "accdb": "database",
-        "mdb": "database",
-        "sqlite": "database",
-        "sqlite3": "database",
-        "pgsql": "database",
-        "postgres": "database",
-        "plpgsql": "database",
-        "psql": "database",
-        "db": "database",
-        "db3": "database",
         "dat": "hex",
-        "mysql": "database",
+        "debugsymbols": "database",
+        "odb": "database",
+        "bdb": "database",
+        "dbf": "database",
+        "fdb": "database",
+        "feather": "database",
+        "gdb": "database",
+        "ibd": "database",
+        "orc": "database",
+        "kdbx": "database",
         "diff": "diff",
         "patch": "diff",
         "iso": "disc",
@@ -5353,10 +5973,8 @@
         "fig": "figma",
         "woff": "font",
         "woff2": "font",
-        "ttf": "font",
         "eot": "font",
         "suit": "font",
-        "otf": "font",
         "bmap": "font",
         "fnt": "font",
         "odttf": "font",
@@ -5378,6 +5996,15 @@
         "fsproj": "fsharp",
         "gleam": "gleam",
         "go": "go",
+        "godot": "godot_assets",
+        "tres": "godot_assets",
+        "tscn": "godot_assets",
+        "gdns": "godot_assets",
+        "gdnlib": "godot_assets",
+        "gdshader": "godot_assets",
+        "gdshaderinc": "godot_assets",
+        "gdextension": "godot_assets",
+        "gd.uid": "godot_assets",
         "gd": "godot",
         "gradle": "gradle",
         "graphql": "graphql",
@@ -5450,7 +6077,6 @@
         "xcf": "image_alt_5",
         "png": "image",
         "apx": "image",
-        "webp": "image",
         "heif": "image",
         "heic": "image",
         "jar": "jar",
@@ -5483,7 +6109,6 @@
         "liquid": "liquid",
         "lisp": "lisp",
         "lsp": "lisp",
-        "cl": "lisp",
         "fast": "lisp",
         "lua": "lua",
         "luau": "luau",
@@ -5500,7 +6125,6 @@
         "mx": "matlab",
         "mx3": "matlab",
         "rwd": "matlab",
-        "slx": "matlab",
         "slddc": "matlab",
         "smv": "matlab",
         "xvc": "matlab",
@@ -5521,6 +6145,7 @@
         "openapi.json": "openapi",
         "openapi.yaml": "openapi",
         "openapi.yml": "openapi",
+        "otf": "otf",
         "pdf": "pdf",
         "pl": "perl",
         "pm": "perl",
@@ -5536,6 +6161,8 @@
         "pl6": "perl",
         "pm6": "perl",
         "php": "php",
+        "php4": "php",
+        "php5": "php",
         "pcss": "postcss",
         "sss": "postcss",
         "pptx": "powerpoint",
@@ -5549,6 +6176,12 @@
         "ppam": "powerpoint",
         "ppa": "powerpoint",
         "odp": "powerpoint",
+        "ps1": "powershell",
+        "psm1": "powershell",
+        "psd1": "powershell",
+        "ps1xml": "powershell",
+        "psc1": "powershell",
+        "pssc": "powershell",
         "pde": "processing",
         "p": "prolog",
         "pro": "prolog",
@@ -5568,8 +6201,10 @@
         "r": "r",
         "rmd": "r",
         "rkt": "racket",
+        "rar": "rar",
         "cshtml": "razor",
         "vbhtml": "razor",
+        "razor": "razor",
         "tsx": "react_ts",
         "jsx": "react",
         "readme": "readme",
@@ -5630,6 +6265,7 @@
         "xlsx": "table",
         "xlsm": "table",
         "xls": "table",
+        "tar": "tar",
         "tmpl": "templ",
         "templ": "templ",
         "gotmpl": "templ",
@@ -5663,6 +6299,7 @@
         "toml": "toml",
         "tree": "tree",
         "tsconfig.json": "tsconfig",
+        "ttf": "ttf",
         "env": "tune",
         "twig": "twig",
         "tw": "twine",
@@ -5718,6 +6355,7 @@
         "vue": "vue",
         "wat": "webassembly",
         "wasm": "webassembly",
+        "webp": "webp",
         "doc": "word",
         "docx": "word",
         "rtf": "word",
@@ -5739,7 +6377,6 @@
         "yang": "yang",
         "zig": "zig",
         "zon": "zig",
-        "7z": "zip",
         "br": "zip",
         "brotli": "zip",
         "bz2": "zip",
@@ -5750,8 +6387,6 @@
         "lz": "zip",
         "lz4": "zip",
         "lzma": "zip",
-        "rar": "zip",
-        "tar": "zip",
         "tgz": "zip",
         "txz": "zip",
         "tz": "zip",
@@ -5763,641 +6398,365 @@
         "default": {
           "path": "./icons/dim-light/file.svg"
         },
-        "openapi": {
-          "path": "./icons/dim-light/openapi.svg"
-        },
-        "robot": {
-          "path": "./icons/dim-light/robot.svg"
-        },
-        "groovy": {
-          "path": "./icons/dim-light/groovy.svg"
-        },
-        "eslint_ignore": {
-          "path": "./icons/dim-light/eslint_ignore.svg"
-        },
-        "stylus": {
-          "path": "./icons/dim-light/stylus.svg"
-        },
-        "angular": {
-          "path": "./icons/dim-light/angular.svg"
-        },
-        "lisp": {
-          "path": "./icons/dim-light/lisp.svg"
-        },
-        "i18n": {
-          "path": "./icons/dim-light/i18n.svg"
-        },
-        "jinja": {
-          "path": "./icons/dim-light/jinja.svg"
-        },
-        "coffee": {
-          "path": "./icons/dim-light/coffee.svg"
-        },
-        "slim": {
-          "path": "./icons/dim-light/slim.svg"
-        },
-        "ruby": {
-          "path": "./icons/dim-light/ruby.svg"
-        },
-        "issues": {
-          "path": "./icons/dim-light/issues.svg"
-        },
-        "makefile": {
-          "path": "./icons/dim-light/makefile.svg"
-        },
-        "javascript": {
-          "path": "./icons/dim-light/javascript.svg"
-        },
-        "templ": {
-          "path": "./icons/dim-light/templ.svg"
-        },
-        "terraform": {
-          "path": "./icons/dim-light/terraform.svg"
-        },
-        "jupyter": {
-          "path": "./icons/dim-light/jupyter.svg"
-        },
-        "audio": {
-          "path": "./icons/dim-light/audio.svg"
-        },
-        "zip": {
-          "path": "./icons/dim-light/zip.svg"
-        },
-        "figma": {
-          "path": "./icons/dim-light/figma.svg"
-        },
-        "html": {
-          "path": "./icons/dim-light/html.svg"
-        },
-        "drone": {
-          "path": "./icons/dim-light/drone.svg"
-        },
-        "image_alt_5": {
-          "path": "./icons/dim-light/image_alt_5.svg"
-        },
-        "jar": {
-          "path": "./icons/dim-light/jar.svg"
-        },
-        "scala": {
-          "path": "./icons/dim-light/scala.svg"
-        },
-        "table": {
-          "path": "./icons/dim-light/table.svg"
-        },
-        "reason": {
-          "path": "./icons/dim-light/reason.svg"
-        },
-        "cursor": {
-          "path": "./icons/dim-light/cursor.svg"
-        },
-        "javascript_map": {
-          "path": "./icons/dim-light/javascript_map.svg"
-        },
-        "editorconfig": {
-          "path": "./icons/dim-light/editorconfig.svg"
-        },
-        "puppet": {
-          "path": "./icons/dim-light/puppet.svg"
-        },
-        "git_ignore": {
-          "path": "./icons/dim-light/git_ignore.svg"
-        },
-        "tree": {
-          "path": "./icons/dim-light/tree.svg"
-        },
-        "cabal": {
-          "path": "./icons/dim-light/cabal.svg"
-        },
-        "azure_pipelines": {
-          "path": "./icons/dim-light/azure_pipelines.svg"
-        },
-        "license": {
-          "path": "./icons/dim-light/license.svg"
-        },
-        "vue_config": {
-          "path": "./icons/dim-light/vue_config.svg"
-        },
-        "tex": {
-          "path": "./icons/dim-light/tex.svg"
-        },
-        "python": {
-          "path": "./icons/dim-light/python.svg"
-        },
-        "tune": {
-          "path": "./icons/dim-light/tune.svg"
-        },
-        "graphql": {
-          "path": "./icons/dim-light/graphql.svg"
-        },
-        "qsharp": {
-          "path": "./icons/dim-light/qsharp.svg"
-        },
-        "c": {
-          "path": "./icons/dim-light/c.svg"
-        },
-        "typescript_def": {
-          "path": "./icons/dim-light/typescript_def.svg"
-        },
-        "cake": {
-          "path": "./icons/dim-light/cake.svg"
-        },
-        "typst": {
-          "path": "./icons/dim-light/typst.svg"
-        },
-        "go": {
-          "path": "./icons/dim-light/go.svg"
-        },
-        "powerpoint": {
-          "path": "./icons/dim-light/powerpoint.svg"
-        },
-        "zig": {
-          "path": "./icons/dim-light/zig.svg"
-        },
-        "document": {
-          "path": "./icons/dim-light/document.svg"
-        },
-        "word": {
-          "path": "./icons/dim-light/word.svg"
-        },
-        "image_alt_3": {
-          "path": "./icons/dim-light/image_alt_3.svg"
-        },
-        "cmake": {
-          "path": "./icons/dim-light/cmake.svg"
-        },
-        "webassembly": {
-          "path": "./icons/dim-light/webassembly.svg"
-        },
-        "diff": {
-          "path": "./icons/dim-light/diff.svg"
-        },
-        "gitlab": {
-          "path": "./icons/dim-light/gitlab.svg"
-        },
-        "changelog": {
-          "path": "./icons/dim-light/changelog.svg"
-        },
-        "yang": {
-          "path": "./icons/dim-light/yang.svg"
-        },
-        "markdown": {
-          "path": "./icons/dim-light/markdown.svg"
-        },
-        "cuda": {
-          "path": "./icons/dim-light/cuda.svg"
-        },
-        "javaclass": {
-          "path": "./icons/dim-light/javaclass.svg"
-        },
-        "java_misc": {
-          "path": "./icons/dim-light/java_misc.svg"
-        },
-        "image_alt_4": {
-          "path": "./icons/dim-light/image_alt_4.svg"
-        },
-        "tailwindcss": {
-          "path": "./icons/dim-light/tailwindcss.svg"
-        },
-        "java": {
-          "path": "./icons/dim-light/java.svg"
-        },
-        "bun": {
-          "path": "./icons/dim-light/bun.svg"
-        },
-        "twig": {
-          "path": "./icons/dim-light/twig.svg"
-        },
-        "csv": {
-          "path": "./icons/dim-light/csv.svg"
-        },
-        "deno_lock": {
-          "path": "./icons/dim-light/deno_lock.svg"
-        },
-        "prettier_ignore": {
-          "path": "./icons/dim-light/prettier_ignore.svg"
-        },
-        "python_misc": {
-          "path": "./icons/dim-light/python_misc.svg"
-        },
-        "svelte": {
-          "path": "./icons/dim-light/svelte.svg"
-        },
-        "yaml": {
-          "path": "./icons/dim-light/yaml.svg"
-        },
-        "faq": {
-          "path": "./icons/dim-light/faq.svg"
-        },
-        "vala": {
-          "path": "./icons/dim-light/vala.svg"
-        },
-        "ballerina": {
-          "path": "./icons/dim-light/ballerina.svg"
-        },
-        "docker_ignore": {
-          "path": "./icons/dim-light/docker_ignore.svg"
-        },
-        "red": {
-          "path": "./icons/dim-light/red.svg"
+        "3d": {
+          "path": "./icons/dim-light/3d.svg"
+        },
+        "7zip": {
+          "path": "./icons/dim-light/7zip.svg"
         },
         "android": {
           "path": "./icons/dim-light/android.svg"
         },
-        "objective_c": {
-          "path": "./icons/dim-light/objective_c.svg"
-        },
-        "astro": {
-          "path": "./icons/dim-light/astro.svg"
-        },
-        "bash": {
-          "path": "./icons/dim-light/bash.svg"
-        },
-        "video": {
-          "path": "./icons/dim-light/video.svg"
-        },
-        "elm": {
-          "path": "./icons/dim-light/elm.svg"
-        },
-        "sass": {
-          "path": "./icons/dim-light/sass.svg"
-        },
-        "architecture": {
-          "path": "./icons/dim-light/architecture.svg"
-        },
-        "json": {
-          "path": "./icons/dim-light/json.svg"
-        },
-        "nunjucks": {
-          "path": "./icons/dim-light/nunjucks.svg"
-        },
-        "d": {
-          "path": "./icons/dim-light/d.svg"
-        },
-        "opa": {
-          "path": "./icons/dim-light/opa.svg"
-        },
-        "smarty": {
-          "path": "./icons/dim-light/smarty.svg"
-        },
-        "typescript": {
-          "path": "./icons/dim-light/typescript.svg"
-        },
-        "gradlew": {
-          "path": "./icons/dim-light/gradlew.svg"
-        },
-        "godot": {
-          "path": "./icons/dim-light/godot.svg"
-        },
-        "swift": {
-          "path": "./icons/dim-light/swift.svg"
-        },
-        "erlang": {
-          "path": "./icons/dim-light/erlang.svg"
-        },
-        "julia": {
-          "path": "./icons/dim-light/julia.svg"
-        },
-        "rust": {
-          "path": "./icons/dim-light/rust.svg"
-        },
-        "tsconfig": {
-          "path": "./icons/dim-light/tsconfig.svg"
-        },
-        "database": {
-          "path": "./icons/dim-light/database.svg"
-        },
-        "pug": {
-          "path": "./icons/dim-light/pug.svg"
-        },
-        "css_map": {
-          "path": "./icons/dim-light/css_map.svg"
-        },
-        "kotlin": {
-          "path": "./icons/dim-light/kotlin.svg"
-        },
-        "mathematica": {
-          "path": "./icons/dim-light/mathematica.svg"
-        },
-        "helm": {
-          "path": "./icons/dim-light/helm.svg"
-        },
-        "jest": {
-          "path": "./icons/dim-light/jest.svg"
+        "angular": {
+          "path": "./icons/dim-light/angular.svg"
         },
         "applescript": {
           "path": "./icons/dim-light/applescript.svg"
         },
-        "laravel": {
-          "path": "./icons/dim-light/laravel.svg"
+        "architecture": {
+          "path": "./icons/dim-light/architecture.svg"
         },
-        "react_ts": {
-          "path": "./icons/dim-light/react_ts.svg"
+        "astro": {
+          "path": "./icons/dim-light/astro.svg"
         },
-        "vue": {
-          "path": "./icons/dim-light/vue.svg"
-        },
-        "pnpm": {
-          "path": "./icons/dim-light/pnpm.svg"
-        },
-        "svg": {
-          "path": "./icons/dim-light/svg.svg"
-        },
-        "jsconfig": {
-          "path": "./icons/dim-light/jsconfig.svg"
-        },
-        "font": {
-          "path": "./icons/dim-light/font.svg"
-        },
-        "phpstan": {
-          "path": "./icons/dim-light/phpstan.svg"
-        },
-        "http": {
-          "path": "./icons/dim-light/http.svg"
-        },
-        "django": {
-          "path": "./icons/dim-light/django.svg"
-        },
-        "npm_lock": {
-          "path": "./icons/dim-light/npm_lock.svg"
-        },
-        "processing": {
-          "path": "./icons/dim-light/processing.svg"
-        },
-        "readme": {
-          "path": "./icons/dim-light/readme.svg"
-        },
-        "image": {
-          "path": "./icons/dim-light/image.svg"
-        },
-        "cpp": {
-          "path": "./icons/dim-light/cpp.svg"
-        },
-        "haskell": {
-          "path": "./icons/dim-light/haskell.svg"
-        },
-        "image_alt_2": {
-          "path": "./icons/dim-light/image_alt_2.svg"
-        },
-        "nix": {
-          "path": "./icons/dim-light/nix.svg"
-        },
-        "bitbucket": {
-          "path": "./icons/dim-light/bitbucket.svg"
-        },
-        "phpunit": {
-          "path": "./icons/dim-light/phpunit.svg"
-        },
-        "gradle": {
-          "path": "./icons/dim-light/gradle.svg"
-        },
-        "r": {
-          "path": "./icons/dim-light/r.svg"
-        },
-        "storybook": {
-          "path": "./icons/dim-light/storybook.svg"
+        "audio": {
+          "path": "./icons/dim-light/audio.svg"
         },
         "authors": {
           "path": "./icons/dim-light/authors.svg"
         },
-        "stylelint_ignore": {
-          "path": "./icons/dim-light/stylelint_ignore.svg"
+        "autohotkey": {
+          "path": "./icons/dim-light/autohotkey.svg"
         },
-        "vscode": {
-          "path": "./icons/dim-light/vscode.svg"
-        },
-        "xmake": {
-          "path": "./icons/dim-light/xmake.svg"
-        },
-        "cargo": {
-          "path": "./icons/dim-light/cargo.svg"
-        },
-        "3d": {
-          "path": "./icons/dim-light/3d.svg"
-        },
-        "clojurescript": {
-          "path": "./icons/dim-light/clojurescript.svg"
-        },
-        "rescript": {
-          "path": "./icons/dim-light/rescript.svg"
-        },
-        "pdf": {
-          "path": "./icons/dim-light/pdf.svg"
-        },
-        "react": {
-          "path": "./icons/dim-light/react.svg"
-        },
-        "javascript_other": {
-          "path": "./icons/dim-light/javascript_other.svg"
-        },
-        "luau": {
-          "path": "./icons/dim-light/luau.svg"
-        },
-        "docker": {
-          "path": "./icons/dim-light/docker.svg"
-        },
-        "haml": {
-          "path": "./icons/dim-light/haml.svg"
-        },
-        "xml": {
-          "path": "./icons/dim-light/xml.svg"
-        },
-        "unity": {
-          "path": "./icons/dim-light/unity.svg"
-        },
-        "fsharp": {
-          "path": "./icons/dim-light/fsharp.svg"
-        },
-        "stylelint": {
-          "path": "./icons/dim-light/stylelint.svg"
-        },
-        "postcss": {
-          "path": "./icons/dim-light/postcss.svg"
-        },
-        "git": {
-          "path": "./icons/dim-light/git.svg"
-        },
-        "nim": {
-          "path": "./icons/dim-light/nim.svg"
-        },
-        "scheme": {
-          "path": "./icons/dim-light/scheme.svg"
-        },
-        "cypress": {
-          "path": "./icons/dim-light/cypress.svg"
-        },
-        "cargo_lock": {
-          "path": "./icons/dim-light/cargo_lock.svg"
-        },
-        "settings": {
-          "path": "./icons/dim-light/settings.svg"
-        },
-        "twine": {
-          "path": "./icons/dim-light/twine.svg"
-        },
-        "docker_compose": {
-          "path": "./icons/dim-light/docker_compose.svg"
-        },
-        "toml": {
-          "path": "./icons/dim-light/toml.svg"
-        },
-        "codeowners": {
-          "path": "./icons/dim-light/codeowners.svg"
-        },
-        "csharp": {
-          "path": "./icons/dim-light/csharp.svg"
-        },
-        "disc": {
-          "path": "./icons/dim-light/disc.svg"
-        },
-        "solidity": {
-          "path": "./icons/dim-light/solidity.svg"
-        },
-        "verilog": {
-          "path": "./icons/dim-light/verilog.svg"
-        },
-        "circleci": {
-          "path": "./icons/dim-light/circleci.svg"
-        },
-        "doxygen": {
-          "path": "./icons/dim-light/doxygen.svg"
-        },
-        "gitpod": {
-          "path": "./icons/dim-light/gitpod.svg"
-        },
-        "perl": {
-          "path": "./icons/dim-light/perl.svg"
-        },
-        "npm": {
-          "path": "./icons/dim-light/npm.svg"
-        },
-        "vim": {
-          "path": "./icons/dim-light/vim.svg"
-        },
-        "contributing": {
-          "path": "./icons/dim-light/contributing.svg"
-        },
-        "prolog": {
-          "path": "./icons/dim-light/prolog.svg"
-        },
-        "liquid": {
-          "path": "./icons/dim-light/liquid.svg"
-        },
-        "nodejs": {
-          "path": "./icons/dim-light/nodejs.svg"
-        },
-        "test_ts": {
-          "path": "./icons/dim-light/test_ts.svg"
-        },
-        "yarn_lock": {
-          "path": "./icons/dim-light/yarn_lock.svg"
-        },
-        "vlang": {
-          "path": "./icons/dim-light/vlang.svg"
-        },
-        "haxe": {
-          "path": "./icons/dim-light/haxe.svg"
-        },
-        "fortran": {
-          "path": "./icons/dim-light/fortran.svg"
-        },
-        "ocaml": {
-          "path": "./icons/dim-light/ocaml.svg"
-        },
-        "cobol": {
-          "path": "./icons/dim-light/cobol.svg"
-        },
-        "deno": {
-          "path": "./icons/dim-light/deno.svg"
-        },
-        "css": {
-          "path": "./icons/dim-light/css.svg"
-        },
-        "racket": {
-          "path": "./icons/dim-light/racket.svg"
+        "azure_pipelines": {
+          "path": "./icons/dim-light/azure_pipelines.svg"
         },
         "babel": {
           "path": "./icons/dim-light/babel.svg"
         },
-        "autohotkey": {
-          "path": "./icons/dim-light/autohotkey.svg"
+        "ballerina": {
+          "path": "./icons/dim-light/ballerina.svg"
         },
-        "dart": {
-          "path": "./icons/dim-light/dart.svg"
+        "bash": {
+          "path": "./icons/dim-light/bash.svg"
         },
-        "nginx": {
-          "path": "./icons/dim-light/nginx.svg"
-        },
-        "clojure": {
-          "path": "./icons/dim-light/clojure.svg"
-        },
-        "less": {
-          "path": "./icons/dim-light/less.svg"
-        },
-        "python_compiled": {
-          "path": "./icons/dim-light/python_compiled.svg"
-        },
-        "email": {
-          "path": "./icons/dim-light/email.svg"
-        },
-        "handlebars": {
-          "path": "./icons/dim-light/handlebars.svg"
-        },
-        "elixir": {
-          "path": "./icons/dim-light/elixir.svg"
-        },
-        "opam": {
-          "path": "./icons/dim-light/opam.svg"
+        "bitbucket": {
+          "path": "./icons/dim-light/bitbucket.svg"
         },
         "bun_lock": {
           "path": "./icons/dim-light/bun_lock.svg"
         },
-        "lua": {
-          "path": "./icons/dim-light/lua.svg"
+        "bun": {
+          "path": "./icons/dim-light/bun.svg"
         },
-        "slint": {
-          "path": "./icons/dim-light/slint.svg"
+        "c": {
+          "path": "./icons/dim-light/c.svg"
         },
-        "template": {
-          "path": "./icons/dim-light/template.svg"
+        "cabal": {
+          "path": "./icons/dim-light/cabal.svg"
+        },
+        "cake": {
+          "path": "./icons/dim-light/cake.svg"
+        },
+        "cargo_lock": {
+          "path": "./icons/dim-light/cargo_lock.svg"
+        },
+        "cargo": {
+          "path": "./icons/dim-light/cargo.svg"
+        },
+        "changelog": {
+          "path": "./icons/dim-light/changelog.svg"
+        },
+        "circleci": {
+          "path": "./icons/dim-light/circleci.svg"
         },
         "claude": {
           "path": "./icons/dim-light/claude.svg"
         },
-        "php": {
-          "path": "./icons/dim-light/php.svg"
+        "clojure": {
+          "path": "./icons/dim-light/clojure.svg"
         },
-        "pre_commit": {
-          "path": "./icons/dim-light/pre_commit.svg"
+        "clojurescript": {
+          "path": "./icons/dim-light/clojurescript.svg"
         },
-        "support": {
-          "path": "./icons/dim-light/support.svg"
+        "cmake": {
+          "path": "./icons/dim-light/cmake.svg"
         },
-        "razor": {
-          "path": "./icons/dim-light/razor.svg"
+        "cobol": {
+          "path": "./icons/dim-light/cobol.svg"
         },
-        "prettier": {
-          "path": "./icons/dim-light/prettier.svg"
+        "codeowners": {
+          "path": "./icons/dim-light/codeowners.svg"
         },
-        "webpack": {
-          "path": "./icons/dim-light/webpack.svg"
+        "coffee": {
+          "path": "./icons/dim-light/coffee.svg"
         },
-        "yarn": {
-          "path": "./icons/dim-light/yarn.svg"
+        "contributing": {
+          "path": "./icons/dim-light/contributing.svg"
         },
-        "sketch": {
-          "path": "./icons/dim-light/sketch.svg"
+        "cpp": {
+          "path": "./icons/dim-light/cpp.svg"
+        },
+        "csharp": {
+          "path": "./icons/dim-light/csharp.svg"
+        },
+        "css_map": {
+          "path": "./icons/dim-light/css_map.svg"
+        },
+        "css": {
+          "path": "./icons/dim-light/css.svg"
+        },
+        "csv": {
+          "path": "./icons/dim-light/csv.svg"
+        },
+        "cuda": {
+          "path": "./icons/dim-light/cuda.svg"
+        },
+        "cursor": {
+          "path": "./icons/dim-light/cursor.svg"
+        },
+        "cypress": {
+          "path": "./icons/dim-light/cypress.svg"
+        },
+        "d": {
+          "path": "./icons/dim-light/d.svg"
+        },
+        "dart": {
+          "path": "./icons/dim-light/dart.svg"
+        },
+        "database": {
+          "path": "./icons/dim-light/database.svg"
+        },
+        "deno_lock": {
+          "path": "./icons/dim-light/deno_lock.svg"
+        },
+        "deno": {
+          "path": "./icons/dim-light/deno.svg"
+        },
+        "diff": {
+          "path": "./icons/dim-light/diff.svg"
+        },
+        "disc": {
+          "path": "./icons/dim-light/disc.svg"
+        },
+        "django": {
+          "path": "./icons/dim-light/django.svg"
+        },
+        "docker_compose": {
+          "path": "./icons/dim-light/docker_compose.svg"
+        },
+        "docker_ignore": {
+          "path": "./icons/dim-light/docker_ignore.svg"
+        },
+        "docker": {
+          "path": "./icons/dim-light/docker.svg"
+        },
+        "document": {
+          "path": "./icons/dim-light/document.svg"
+        },
+        "doxygen": {
+          "path": "./icons/dim-light/doxygen.svg"
+        },
+        "drone": {
+          "path": "./icons/dim-light/drone.svg"
+        },
+        "editorconfig": {
+          "path": "./icons/dim-light/editorconfig.svg"
+        },
+        "ejs": {
+          "path": "./icons/dim-light/ejs.svg"
+        },
+        "elixir": {
+          "path": "./icons/dim-light/elixir.svg"
+        },
+        "elm": {
+          "path": "./icons/dim-light/elm.svg"
+        },
+        "email": {
+          "path": "./icons/dim-light/email.svg"
+        },
+        "erlang": {
+          "path": "./icons/dim-light/erlang.svg"
+        },
+        "eslint_ignore": {
+          "path": "./icons/dim-light/eslint_ignore.svg"
+        },
+        "eslint": {
+          "path": "./icons/dim-light/eslint.svg"
+        },
+        "faq": {
+          "path": "./icons/dim-light/faq.svg"
+        },
+        "figma": {
+          "path": "./icons/dim-light/figma.svg"
+        },
+        "font": {
+          "path": "./icons/dim-light/font.svg"
+        },
+        "fortran": {
+          "path": "./icons/dim-light/fortran.svg"
+        },
+        "fsharp": {
+          "path": "./icons/dim-light/fsharp.svg"
+        },
+        "git_ignore": {
+          "path": "./icons/dim-light/git_ignore.svg"
+        },
+        "git": {
+          "path": "./icons/dim-light/git.svg"
+        },
+        "gitlab": {
+          "path": "./icons/dim-light/gitlab.svg"
+        },
+        "gitpod": {
+          "path": "./icons/dim-light/gitpod.svg"
+        },
+        "gleam": {
+          "path": "./icons/dim-light/gleam.svg"
+        },
+        "go": {
+          "path": "./icons/dim-light/go.svg"
+        },
+        "godot_assets": {
+          "path": "./icons/dim-light/godot_assets.svg"
+        },
+        "godot": {
+          "path": "./icons/dim-light/godot.svg"
+        },
+        "gradle": {
+          "path": "./icons/dim-light/gradle.svg"
+        },
+        "gradlew": {
+          "path": "./icons/dim-light/gradlew.svg"
+        },
+        "graphql": {
+          "path": "./icons/dim-light/graphql.svg"
+        },
+        "groovy": {
+          "path": "./icons/dim-light/groovy.svg"
+        },
+        "haml": {
+          "path": "./icons/dim-light/haml.svg"
+        },
+        "handlebars": {
+          "path": "./icons/dim-light/handlebars.svg"
+        },
+        "haskell": {
+          "path": "./icons/dim-light/haskell.svg"
+        },
+        "haxe": {
+          "path": "./icons/dim-light/haxe.svg"
+        },
+        "helm": {
+          "path": "./icons/dim-light/helm.svg"
         },
         "hex": {
           "path": "./icons/dim-light/hex.svg"
         },
-        "pnpm_lock": {
-          "path": "./icons/dim-light/pnpm_lock.svg"
+        "html": {
+          "path": "./icons/dim-light/html.svg"
         },
-        "purescript": {
-          "path": "./icons/dim-light/purescript.svg"
+        "http": {
+          "path": "./icons/dim-light/http.svg"
         },
-        "gleam": {
-          "path": "./icons/dim-light/gleam.svg"
+        "i18n": {
+          "path": "./icons/dim-light/i18n.svg"
+        },
+        "image_alt_2": {
+          "path": "./icons/dim-light/image_alt_2.svg"
+        },
+        "image_alt_3": {
+          "path": "./icons/dim-light/image_alt_3.svg"
+        },
+        "image_alt_4": {
+          "path": "./icons/dim-light/image_alt_4.svg"
+        },
+        "image_alt_5": {
+          "path": "./icons/dim-light/image_alt_5.svg"
+        },
+        "image": {
+          "path": "./icons/dim-light/image.svg"
+        },
+        "issues": {
+          "path": "./icons/dim-light/issues.svg"
+        },
+        "jar": {
+          "path": "./icons/dim-light/jar.svg"
+        },
+        "java_misc": {
+          "path": "./icons/dim-light/java_misc.svg"
+        },
+        "java": {
+          "path": "./icons/dim-light/java.svg"
+        },
+        "javaclass": {
+          "path": "./icons/dim-light/javaclass.svg"
+        },
+        "javascript_map": {
+          "path": "./icons/dim-light/javascript_map.svg"
+        },
+        "javascript_other": {
+          "path": "./icons/dim-light/javascript_other.svg"
+        },
+        "javascript": {
+          "path": "./icons/dim-light/javascript.svg"
+        },
+        "jest": {
+          "path": "./icons/dim-light/jest.svg"
+        },
+        "jinja": {
+          "path": "./icons/dim-light/jinja.svg"
+        },
+        "jsconfig": {
+          "path": "./icons/dim-light/jsconfig.svg"
+        },
+        "json": {
+          "path": "./icons/dim-light/json.svg"
+        },
+        "julia": {
+          "path": "./icons/dim-light/julia.svg"
+        },
+        "jupyter": {
+          "path": "./icons/dim-light/jupyter.svg"
+        },
+        "kotlin": {
+          "path": "./icons/dim-light/kotlin.svg"
+        },
+        "laravel": {
+          "path": "./icons/dim-light/laravel.svg"
+        },
+        "lean": {
+          "path": "./icons/dim-light/lean.svg"
+        },
+        "less": {
+          "path": "./icons/dim-light/less.svg"
+        },
+        "license": {
+          "path": "./icons/dim-light/license.svg"
+        },
+        "liquid": {
+          "path": "./icons/dim-light/liquid.svg"
+        },
+        "lisp": {
+          "path": "./icons/dim-light/lisp.svg"
+        },
+        "lua": {
+          "path": "./icons/dim-light/lua.svg"
+        },
+        "luau": {
+          "path": "./icons/dim-light/luau.svg"
+        },
+        "makefile": {
+          "path": "./icons/dim-light/makefile.svg"
+        },
+        "markdown": {
+          "path": "./icons/dim-light/markdown.svg"
+        },
+        "mathematica": {
+          "path": "./icons/dim-light/mathematica.svg"
+        },
+        "matlab": {
+          "path": "./icons/dim-light/matlab.svg"
         },
         "mdx": {
           "path": "./icons/dim-light/mdx.svg"
@@ -6405,20 +6764,320 @@
         "mocha": {
           "path": "./icons/dim-light/mocha.svg"
         },
+        "nginx": {
+          "path": "./icons/dim-light/nginx.svg"
+        },
+        "nim": {
+          "path": "./icons/dim-light/nim.svg"
+        },
+        "nix": {
+          "path": "./icons/dim-light/nix.svg"
+        },
+        "nodejs": {
+          "path": "./icons/dim-light/nodejs.svg"
+        },
+        "npm_lock": {
+          "path": "./icons/dim-light/npm_lock.svg"
+        },
+        "npm": {
+          "path": "./icons/dim-light/npm.svg"
+        },
+        "nunjucks": {
+          "path": "./icons/dim-light/nunjucks.svg"
+        },
+        "objective_c": {
+          "path": "./icons/dim-light/objective_c.svg"
+        },
+        "ocaml": {
+          "path": "./icons/dim-light/ocaml.svg"
+        },
+        "opa": {
+          "path": "./icons/dim-light/opa.svg"
+        },
+        "opam": {
+          "path": "./icons/dim-light/opam.svg"
+        },
+        "openapi": {
+          "path": "./icons/dim-light/openapi.svg"
+        },
+        "otf": {
+          "path": "./icons/dim-light/otf.svg"
+        },
+        "pdf": {
+          "path": "./icons/dim-light/pdf.svg"
+        },
+        "perl": {
+          "path": "./icons/dim-light/perl.svg"
+        },
+        "php": {
+          "path": "./icons/dim-light/php.svg"
+        },
+        "phpstan": {
+          "path": "./icons/dim-light/phpstan.svg"
+        },
+        "phpunit": {
+          "path": "./icons/dim-light/phpunit.svg"
+        },
+        "pnpm_lock": {
+          "path": "./icons/dim-light/pnpm_lock.svg"
+        },
+        "pnpm": {
+          "path": "./icons/dim-light/pnpm.svg"
+        },
+        "postcss": {
+          "path": "./icons/dim-light/postcss.svg"
+        },
+        "powerpoint": {
+          "path": "./icons/dim-light/powerpoint.svg"
+        },
+        "powershell": {
+          "path": "./icons/dim-light/powershell.svg"
+        },
+        "pre_commit": {
+          "path": "./icons/dim-light/pre_commit.svg"
+        },
+        "prettier_ignore": {
+          "path": "./icons/dim-light/prettier_ignore.svg"
+        },
+        "prettier": {
+          "path": "./icons/dim-light/prettier.svg"
+        },
+        "processing": {
+          "path": "./icons/dim-light/processing.svg"
+        },
+        "prolog": {
+          "path": "./icons/dim-light/prolog.svg"
+        },
         "proto": {
           "path": "./icons/dim-light/proto.svg"
         },
-        "matlab": {
-          "path": "./icons/dim-light/matlab.svg"
+        "pug": {
+          "path": "./icons/dim-light/pug.svg"
         },
-        "lean": {
-          "path": "./icons/dim-light/lean.svg"
+        "puppet": {
+          "path": "./icons/dim-light/puppet.svg"
         },
-        "eslint": {
-          "path": "./icons/dim-light/eslint.svg"
+        "purescript": {
+          "path": "./icons/dim-light/purescript.svg"
         },
-        "ejs": {
-          "path": "./icons/dim-light/ejs.svg"
+        "python_compiled": {
+          "path": "./icons/dim-light/python_compiled.svg"
+        },
+        "python_misc": {
+          "path": "./icons/dim-light/python_misc.svg"
+        },
+        "python": {
+          "path": "./icons/dim-light/python.svg"
+        },
+        "qsharp": {
+          "path": "./icons/dim-light/qsharp.svg"
+        },
+        "r": {
+          "path": "./icons/dim-light/r.svg"
+        },
+        "racket": {
+          "path": "./icons/dim-light/racket.svg"
+        },
+        "rar": {
+          "path": "./icons/dim-light/rar.svg"
+        },
+        "razor": {
+          "path": "./icons/dim-light/razor.svg"
+        },
+        "react_ts": {
+          "path": "./icons/dim-light/react_ts.svg"
+        },
+        "react": {
+          "path": "./icons/dim-light/react.svg"
+        },
+        "readme": {
+          "path": "./icons/dim-light/readme.svg"
+        },
+        "reason": {
+          "path": "./icons/dim-light/reason.svg"
+        },
+        "red": {
+          "path": "./icons/dim-light/red.svg"
+        },
+        "rescript": {
+          "path": "./icons/dim-light/rescript.svg"
+        },
+        "robot": {
+          "path": "./icons/dim-light/robot.svg"
+        },
+        "ruby": {
+          "path": "./icons/dim-light/ruby.svg"
+        },
+        "rust": {
+          "path": "./icons/dim-light/rust.svg"
+        },
+        "sass": {
+          "path": "./icons/dim-light/sass.svg"
+        },
+        "scala": {
+          "path": "./icons/dim-light/scala.svg"
+        },
+        "scheme": {
+          "path": "./icons/dim-light/scheme.svg"
+        },
+        "settings": {
+          "path": "./icons/dim-light/settings.svg"
+        },
+        "sketch": {
+          "path": "./icons/dim-light/sketch.svg"
+        },
+        "slim": {
+          "path": "./icons/dim-light/slim.svg"
+        },
+        "slint": {
+          "path": "./icons/dim-light/slint.svg"
+        },
+        "smarty": {
+          "path": "./icons/dim-light/smarty.svg"
+        },
+        "solidity": {
+          "path": "./icons/dim-light/solidity.svg"
+        },
+        "storybook": {
+          "path": "./icons/dim-light/storybook.svg"
+        },
+        "stylelint_ignore": {
+          "path": "./icons/dim-light/stylelint_ignore.svg"
+        },
+        "stylelint": {
+          "path": "./icons/dim-light/stylelint.svg"
+        },
+        "stylus": {
+          "path": "./icons/dim-light/stylus.svg"
+        },
+        "support": {
+          "path": "./icons/dim-light/support.svg"
+        },
+        "svelte": {
+          "path": "./icons/dim-light/svelte.svg"
+        },
+        "svg": {
+          "path": "./icons/dim-light/svg.svg"
+        },
+        "swift": {
+          "path": "./icons/dim-light/swift.svg"
+        },
+        "table": {
+          "path": "./icons/dim-light/table.svg"
+        },
+        "tailwindcss": {
+          "path": "./icons/dim-light/tailwindcss.svg"
+        },
+        "tar": {
+          "path": "./icons/dim-light/tar.svg"
+        },
+        "templ": {
+          "path": "./icons/dim-light/templ.svg"
+        },
+        "template": {
+          "path": "./icons/dim-light/template.svg"
+        },
+        "terraform": {
+          "path": "./icons/dim-light/terraform.svg"
+        },
+        "test_ts": {
+          "path": "./icons/dim-light/test_ts.svg"
+        },
+        "tex": {
+          "path": "./icons/dim-light/tex.svg"
+        },
+        "toml": {
+          "path": "./icons/dim-light/toml.svg"
+        },
+        "tree": {
+          "path": "./icons/dim-light/tree.svg"
+        },
+        "tsconfig": {
+          "path": "./icons/dim-light/tsconfig.svg"
+        },
+        "ttf": {
+          "path": "./icons/dim-light/ttf.svg"
+        },
+        "tune": {
+          "path": "./icons/dim-light/tune.svg"
+        },
+        "twig": {
+          "path": "./icons/dim-light/twig.svg"
+        },
+        "twine": {
+          "path": "./icons/dim-light/twine.svg"
+        },
+        "typescript_def": {
+          "path": "./icons/dim-light/typescript_def.svg"
+        },
+        "typescript": {
+          "path": "./icons/dim-light/typescript.svg"
+        },
+        "typst": {
+          "path": "./icons/dim-light/typst.svg"
+        },
+        "unity": {
+          "path": "./icons/dim-light/unity.svg"
+        },
+        "vala": {
+          "path": "./icons/dim-light/vala.svg"
+        },
+        "verilog": {
+          "path": "./icons/dim-light/verilog.svg"
+        },
+        "video": {
+          "path": "./icons/dim-light/video.svg"
+        },
+        "vim": {
+          "path": "./icons/dim-light/vim.svg"
+        },
+        "vlang": {
+          "path": "./icons/dim-light/vlang.svg"
+        },
+        "vscode": {
+          "path": "./icons/dim-light/vscode.svg"
+        },
+        "vue_config": {
+          "path": "./icons/dim-light/vue_config.svg"
+        },
+        "vue": {
+          "path": "./icons/dim-light/vue.svg"
+        },
+        "webassembly": {
+          "path": "./icons/dim-light/webassembly.svg"
+        },
+        "webp": {
+          "path": "./icons/dim-light/webp.svg"
+        },
+        "webpack": {
+          "path": "./icons/dim-light/webpack.svg"
+        },
+        "word": {
+          "path": "./icons/dim-light/word.svg"
+        },
+        "xmake": {
+          "path": "./icons/dim-light/xmake.svg"
+        },
+        "xml": {
+          "path": "./icons/dim-light/xml.svg"
+        },
+        "yaml": {
+          "path": "./icons/dim-light/yaml.svg"
+        },
+        "yang": {
+          "path": "./icons/dim-light/yang.svg"
+        },
+        "yarn_lock": {
+          "path": "./icons/dim-light/yarn_lock.svg"
+        },
+        "yarn": {
+          "path": "./icons/dim-light/yarn.svg"
+        },
+        "zig": {
+          "path": "./icons/dim-light/zig.svg"
+        },
+        "zip": {
+          "path": "./icons/dim-light/zip.svg"
         }
       }
     }
